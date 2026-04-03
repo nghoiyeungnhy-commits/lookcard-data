@@ -1,1 +1,26 @@
-
+[
+  {
+    "merchantId": "TamJai",
+    "merchantName": "譚仔",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": "TJ",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TamJaiSamGor",
+    "merchantName": "譚仔三哥",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": "TJSG",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CathayPacific",
+    "merchantName": "國泰航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": null,
+    "merchantTag1": "CX",
+    "merchantCbfFlag": true
+  }
+]
