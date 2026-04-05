@@ -251,5 +251,27 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "HKD",
     "campaignVs": "VS_Home"
+  },
+  {
+    "campaignId": "HSBC_EveryMile_Oversea",
+    "campaignDisplayName": "滙豐 EveryMile HK$2 = 1 里",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "HSBC_EveryMile",
+    "campaignEligibleCategory": "Oversea",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 3,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-01-01",
+    "campaignEndDate": "6/30/2026",
+    "campaignTotalMin": 12000,
+    "campaignTotalMax": 15000,
+    "campaignCardMin": 0,
+    "campaignTxMin": 0,
+    "campaignTxMax": 15000,
+    "campaignRebateCash": 0.025,
+    "campaignRebateMiles": 0.5,
+    "campaignFx": "JPY",
+    "campaignVs": null
   }
 ]
