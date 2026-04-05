@@ -1,26 +1,74 @@
 [
   {
-    "merchantId": "TamJai",
-    "merchantName": "譚仔",
+    "merchantId": "TamJai_Online",
+    "merchantName": "譚仔 (網購)",
     "merchantCategory1": "Dining",
     "merchantCategory2": "Online",
     "merchantTag1": "TJ",
     "merchantCbfFlag": false
   },
   {
-    "merchantId": "TamJaiSamGor",
-    "merchantName": "譚仔三哥",
+    "merchantId": "TamJai_Branch",
+    "merchantName": "譚仔 (門店)",
     "merchantCategory1": "Dining",
-    "merchantCategory2": "Online",
-    "merchantTag1": "TJSG",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": "TJ",
     "merchantCbfFlag": false
   },
   {
-    "merchantId": "CathayPacific",
+    "merchantId": "TamJaiSamGor_Online",
+    "merchantName": "譚仔三哥 (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": "TJSJ",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TamJaiSamGor_Branch",
+    "merchantName": "譚仔三哥 (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": "TJSJ",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cathay Pacific",
     "merchantName": "國泰航空",
-    "merchantCategory1": "Airline",
+    "merchantCategory1": "Online",
     "merchantCategory2": null,
     "merchantTag1": "CX",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HK Express",
+    "merchantName": "香港快運",
+    "merchantCategory1": "Online",
+    "merchantCategory2": null,
+    "merchantTag1": "UO",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ikea_Online",
+    "merchantName": "Ikea (網購)",
+    "merchantCategory1": "Online",
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ikea_Branch",
+    "merchantName": "Ikea (門店)",
+    "merchantCategory1": "ApplePay",
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Amazon",
+    "merchantName": "Amazon",
+    "merchantCategory1": "Online",
+    "merchantCategory2": null,
+    "merchantTag1": null,
     "merchantCbfFlag": true
   }
 ]
