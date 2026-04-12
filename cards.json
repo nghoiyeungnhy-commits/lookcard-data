@@ -14,9 +14,9 @@
     "cardMilesBase": 0.0
   },
   {
-    "cardId": "AEON_Purple Card Visa",
+    "cardId": "AEON_Purple",
     "cardBank": "AEON",
-    "cardName": "Purple Card Visa",
+    "cardName": "Purple Card",
     "cardNetwork": "Visa",
     "cardCbf": 0.01,
     "cardDcc": 0.0195,
@@ -560,7 +560,7 @@
     "cardMilesBase": 0.04
   },
   {
-    "cardId": "Mox_Mox (現金回贈）",
+    "cardId": "Mox_Mox (Cash）",
     "cardBank": "Mox",
     "cardName": "Mox (現金回贈）",
     "cardNetwork": "Mastercard",
@@ -574,7 +574,7 @@
     "cardMilesBase": 0.0
   },
   {
-    "cardId": "Mox_Mox (里數回贈）",
+    "cardId": "Mox_Mox (Miles）",
     "cardBank": "Mox",
     "cardName": "Mox (里數回贈）",
     "cardNetwork": "Mastercard",
