@@ -1,0 +1,3978 @@
+[
+  {
+    "merchantId": "TamJai_Online",
+    "merchantName": "譚仔 (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": "TJ",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TamJai_Branch",
+    "merchantName": "譚仔 (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": "TJ",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TamJaiSamGor_Online",
+    "merchantName": "譚仔三哥 (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": "TJSJ",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TamJaiSamGor_Branch",
+    "merchantName": "譚仔三哥 (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": "TJSJ",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cathay_Pacific",
+    "merchantName": "國泰航空",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": "CX",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HK_Express",
+    "merchantName": "香港快運",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": "UO",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ikea_Online",
+    "merchantName": "Ikea (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ikea_Branch",
+    "merchantName": "Ikea (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Amazon",
+    "merchantName": "Amazon",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Sushiro",
+    "merchantName": "壽司郎",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Coffee_Academics",
+    "merchantName": "The Coffee Academïcs",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GU_Online",
+    "merchantName": "GU (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GU_Branch",
+    "merchantName": "GU (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Decathlon_Online",
+    "merchantName": "Decathlon (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Decathlon_Branch",
+    "merchantName": "Decathlon (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Lululemon_Online",
+    "merchantName": "Lululemon (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Lululemon_Branch",
+    "merchantName": "Lululemon (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NAMCO",
+    "merchantName": "NAMCO",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TAITO_STATION",
+    "merchantName": "TAITO STATION",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TenRen",
+    "merchantName": "天仁茗茶",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Arabica",
+    "merchantName": "%Arabica",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "APT_Coffee",
+    "merchantName": "APT Coffee",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "BASAO_Tea",
+    "merchantName": "BASAO Tea",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Blue_Bottle_Coffee",
+    "merchantName": "Blue Bottle Coffee",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ChunShuiTang",
+    "merchantName": "春水堂",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cupping_Room",
+    "merchantName": "Cupping Room",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Coffee_Roasters",
+    "merchantName": "Coffee Roasters",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Dazzling_Cafe",
+    "merchantName": "Dazzling Café",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "FLIPPER",
+    "merchantName": "FLIPPER's",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Green_Common",
+    "merchantName": "Green Common",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HABITU",
+    "merchantName": "HABITŪ",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "INN",
+    "merchantName": "INN – I’m Not Nothing",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Lady_M",
+    "merchantName": "Lady M",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mother_Pearl",
+    "merchantName": "Mother Pearl",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NINETYs",
+    "merchantName": "NINETYs",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NOC",
+    "merchantName": "NOC",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pacific_Coffee",
+    "merchantName": "Pacific Coffee",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pret_A_Manger",
+    "merchantName": "Pret A Manger",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "sensory_ZERO",
+    "merchantName": "sensory ZERO",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Starbucks_Coffee_Online",
+    "merchantName": "Starbucks (網店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Starbucks_Coffee_Branch",
+    "merchantName": "Starbucks (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Tea_WG",
+    "merchantName": "TWG Tea",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Urban_Coffee_Roaster",
+    "merchantName": "Urban Coffee Roaster",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "KMB",
+    "merchantName": "九巴 (KMB)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Citybus",
+    "merchantName": "城巴 (Citybus)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "FirstBus",
+    "merchantName": "新巴",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "LWB",
+    "merchantName": "龍運巴士",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MTR_Except_Airport",
+    "merchantName": "港鐵 (除機場快線)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Tram",
+    "merchantName": "電車",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Taxi",
+    "merchantName": "的士",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Caltex",
+    "merchantName": "加德士 (Caltex)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Esso",
+    "merchantName": "埃索 (Esso)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "PetroChina",
+    "merchantName": "中國石油",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sinopec",
+    "merchantName": "中石化",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Shell",
+    "merchantName": "蜆殼 (Shell)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Tesla_Supercharger",
+    "merchantName": "Tesla Supercharger",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Car_Park",
+    "merchantName": "停車場/泊車位",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HKeToll",
+    "merchantName": "易通行",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CTSHK_Online",
+    "merchantName": "中國旅行社 (網店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CTSHK_Branch",
+    "merchantName": "中國旅行社 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "KCBH",
+    "merchantName": "冠忠巴士",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "12306",
+    "merchantName": "中國鐵路12306",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "EEBUS",
+    "merchantName": "永東旅行社",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GoByBUs",
+    "merchantName": "Go巴出行",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "AirSim",
+    "merchantName": "AirSim",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cotai_Water_Jet_Online",
+    "merchantName": "金光飛航 (網店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cotai_Water_Jet_Branch",
+    "merchantName": "金光飛航 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Kkday",
+    "merchantName": "Kkday",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Klook",
+    "merchantName": "Klook",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TurboJET_Online",
+    "merchantName": "噴射飛航 (網店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TurboJET_Branch",
+    "merchantName": "噴射飛航 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "AVIS",
+    "merchantName": "AVIS",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HERTZ",
+    "merchantName": "HERTZ",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Tocoo_Car_Rental",
+    "merchantName": "Tocoo Car Rental",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TOYOTA_Rent_a_Car",
+    "merchantName": "TOYOTA Rent a Car",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Be_Earth",
+    "merchantName": "Be Earth",
+    "merchantCategory1": "Fitness",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Go24_Fitness",
+    "merchantName": "Go24 Fitness",
+    "merchantCategory1": "Fitness",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "PURE_Group",
+    "merchantName": "PURE Group",
+    "merchantCategory1": "Fitness",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Snap_Fitness",
+    "merchantName": "Snap Fitness",
+    "merchantCategory1": "Fitness",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Square_Fitness",
+    "merchantName": "Square Fitness",
+    "merchantCategory1": "Fitness",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CGV_Cinemas_Online",
+    "merchantName": "CGV Cinemas (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CGV_Cinemas_Branch",
+    "merchantName": "CGV Cinemas (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Emperor_Cinemas_Online",
+    "merchantName": "英皇戲院 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Emperor_Cinemas_Branch",
+    "merchantName": "英皇戲院 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Festival_Grand_Cinema_Online",
+    "merchantName": "Festival Grand Cinema (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Festival_Grand_Cinema_Branch",
+    "merchantName": "Festival Grand Cinema (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Grand_Winsor_Cinema_Online",
+    "merchantName": "皇室戲院 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Grand_Winsor_Cinema_Branch",
+    "merchantName": "皇室戲院 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "K11_Art_House_Online",
+    "merchantName": "K11 Art House (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "K11_Art_House_Branch",
+    "merchantName": "K11 Art House (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MCL_Online",
+    "merchantName": "MCL院線 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MCL_Branch",
+    "merchantName": "MCL院線 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Movie_Town_Online",
+    "merchantName": "Movie Town (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Movie_Town_Branch",
+    "merchantName": "Movie Town (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "STAR_Cinema_Online",
+    "merchantName": "STAR Cinema (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "STAR_Cinema_Branch",
+    "merchantName": "STAR Cinema (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Bake_For_You",
+    "merchantName": "焙著你烘焙",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cityline",
+    "merchantName": "購票通",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cityplaza_Ice",
+    "merchantName": "太古城中心冰上皇宮",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "EF_English_Centers",
+    "merchantName": "EF English Centers",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Greenery_Music_Online",
+    "merchantName": "青苗琴行 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Greenery_Music_Branch",
+    "merchantName": "青苗琴行 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ticketing_HK",
+    "merchantName": "快達票",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "KKBOX",
+    "merchantName": "KKBOX",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "KKTix",
+    "merchantName": "KKTix",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MOOV",
+    "merchantName": "MOOV",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Neway_CEO_Karaoke",
+    "merchantName": "Neway CEO Karaoke",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Smart_Play",
+    "merchantName": "康體通",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Tom_Lee_Online",
+    "merchantName": "通利琴行 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Tom_Lee_Branch",
+    "merchantName": "通利琴行 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "hutchgo",
+    "merchantName": "hutchgo",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Miramar_Travel_Online",
+    "merchantName": "美麗華旅遊 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Miramar_Travel_Branch",
+    "merchantName": "美麗華旅遊 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sunflower_Travel_Online",
+    "merchantName": "新華旅遊 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sunflower_Travel_Branch",
+    "merchantName": "新華旅遊 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Trip_com",
+    "merchantName": "Trip.com",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Wingon_Travel_Online",
+    "merchantName": "永安旅遊 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Wingon_Travel_Branch",
+    "merchantName": "永安旅遊 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "YMT_Travel",
+    "merchantName": "油麻地旅遊",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mood_Massage",
+    "merchantName": "沐館",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Shh",
+    "merchantName": "靜",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sun_And_Moon_Massage",
+    "merchantName": "日月按摩",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TONI",
+    "merchantName": "TONI&GUY HONG KONG",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Zi_Massage",
+    "merchantName": "梔Zi Massage & Wellness",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MTR_All",
+    "merchantName": "港鐵 (全部)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "PIT",
+    "merchantName": "珀麗灣客運",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "759",
+    "merchantName": "759阿信屋",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Big_C",
+    "merchantName": "Big C (香港)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "DayDayStore",
+    "merchantName": "日記士多",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Donki",
+    "merchantName": "Donki (香港)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "DS_Groceries",
+    "merchantName": "大生生活超市",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Fresh",
+    "merchantName": "FRESH新鮮生活",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GreenPrice",
+    "merchantName": "GreenPrice",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Flavor_HK",
+    "merchantName": "本灣水產",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ParknShop_Online",
+    "merchantName": "百佳超市 (網購)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ParknShop_Branch",
+    "merchantName": "百佳超市 (門店)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "FUSION",
+    "merchantName": "FUSION超市",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TASTE",
+    "merchantName": "TASTE超市",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TASTE_x_FRESH",
+    "merchantName": "TASTE x FRESH超市",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "INTERNATIONAL",
+    "merchantName": "INTERNATIONAL超市",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "food_le_parc",
+    "merchantName": "food le parc超市",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GREAT_FOOD_HALL",
+    "merchantName": "GREAT FOOD HALL",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mart",
+    "merchantName": "多來買",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "At_Home_Online",
+    "merchantName": "at.home (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "At_Home_Branch",
+    "merchantName": "at.home (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SouthSide",
+    "merchantName": "生活提案",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SouthSide2",
+    "merchantName": "生活工房",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "JHC_Online",
+    "merchantName": "日本城 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "JHC_Branch",
+    "merchantName": "日本城 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "KeyChain_Pay",
+    "merchantName": "KeyChain Pay",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Lifekan_Online",
+    "merchantName": "生活館 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Lifekan_Branch",
+    "merchantName": "生活館 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "LifeHome_Online",
+    "merchantName": "生活廊 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "LifeHome_Branch",
+    "merchantName": "生活廊 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Simmons_Online",
+    "merchantName": "蓆夢思 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Simmons_Branch",
+    "merchantName": "蓆夢思 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ulfenbo_Online",
+    "merchantName": "歐化寶 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ulfenbo_Branch",
+    "merchantName": "歐化寶 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ulferts_Online",
+    "merchantName": "歐化傢俬 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ulferts_Branch",
+    "merchantName": "歐化傢俬 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "AVLife",
+    "merchantName": "生活影音",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Broadway_Online",
+    "merchantName": "百老滙 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Broadway_Branch",
+    "merchantName": "百老滙 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "BRUNO",
+    "merchantName": "BRUNO",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CYEShop_Online",
+    "merchantName": "中原電器 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CYEShop_Branch",
+    "merchantName": "中原電器 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Fortress_Online",
+    "merchantName": "豐澤 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Fortress_Branch",
+    "merchantName": "豐澤 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "J_SELECT",
+    "merchantName": "J SELECT",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ninki_Denk",
+    "merchantName": "人気电器店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Panasonic_Online",
+    "merchantName": "Panasonic ((網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Panasonic_Branch",
+    "merchantName": "Panasonic (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Price",
+    "merchantName": "Price網購",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Suning_Online",
+    "merchantName": "蘇寧 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Suning_Branch",
+    "merchantName": "蘇寧 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Wai_Ming",
+    "merchantName": "偉明電業",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Whirlpool",
+    "merchantName": "惠而浦網上商店W-Mall",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Wilson_Online",
+    "merchantName": "衛訊 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Wilson_Branch",
+    "merchantName": "衛訊 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Yoho_Online",
+    "merchantName": "友和YOHO (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Yoho_Branch",
+    "merchantName": "友和YOHO (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "1010",
+    "merchantName": "1O1O",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "3_HK",
+    "merchantName": "3香港",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "csl",
+    "merchantName": "csl",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Club",
+    "merchantName": "Club Sim",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HKT",
+    "merchantName": "HKT家居電話",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HKT_The_Club",
+    "merchantName": "HKT The Club",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Netvigator",
+    "merchantName": "網上行",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NowTV",
+    "merchantName": "Now TV",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SmarTone",
+    "merchantName": "SmarTone",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SUPREME_Tele",
+    "merchantName": "SUPREME電訊",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Petline_Online",
+    "merchantName": "寵寵線 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Petline_Branch",
+    "merchantName": "寵寵線 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Petinum",
+    "merchantName": "Petmium寵物百貨",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Q_Pets_Online",
+    "merchantName": "Q-Pets (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Q_Pets_Branch",
+    "merchantName": "Q-Pets (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Red_Carrot",
+    "merchantName": "紅蘿蔔寵物店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Dogs_Garden_Online",
+    "merchantName": "The Dog's Garden (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Dogs_Garden_Branch",
+    "merchantName": "The Dog's Garden (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Three_Little_Meow__Online",
+    "merchantName": "Three Little Meow (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Three_Little_Meow__Branch",
+    "merchantName": "Three Little Meow (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Whiskers_N_Paws_Online",
+    "merchantName": "Whiskers N Paws (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Whiskers_N_Paws_Branch",
+    "merchantName": "Whiskers N Paws (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "AEON",
+    "merchantName": "AEON百貨",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "AEON_Supermarket",
+    "merchantName": "AEON超市",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "AEON_Online",
+    "merchantName": "AEON (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "APITA",
+    "merchantName": "APITA",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Chinese_Art_Online",
+    "merchantName": "中藝 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Chinese_Art_Branch",
+    "merchantName": "中藝 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "C_Life",
+    "merchantName": "C生活",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Citistore",
+    "merchantName": "千色Citistore",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "citysuper_Online",
+    "merchantName": "city'super (網購)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "citysuper_Branch",
+    "merchantName": "city'super (門店)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "DAUSON",
+    "merchantName": "DAUSON Japan",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HarveyNichols_Online",
+    "merchantName": "HARVEY NICHOLS (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HarveyNichols_Branch",
+    "merchantName": "HARVEY NICHOLS (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HKTV",
+    "merchantName": "HKTVmall",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "LogOn_Online",
+    "merchantName": "LOG-ON (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "LogOn_Branch",
+    "merchantName": "LOG-ON (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MarksAndSpencer_Online",
+    "merchantName": "MARKS & SPENCER (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MarksAndSpencer_Branch",
+    "merchantName": "MARKS & SPENCER (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MonoMono",
+    "merchantName": "Mono Mono",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sincere_Online",
+    "merchantName": "先施百貨 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sincere_Branch",
+    "merchantName": "先施百貨 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SOGO_Online",
+    "merchantName": "崇光百貨 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SOGO_Branch",
+    "merchantName": "崇光百貨 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "UNY",
+    "merchantName": "UNY 生活創富",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "WingOn_Grocery_Online",
+    "merchantName": "永安百貨 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "WingOn_Grocery_Branch",
+    "merchantName": "永安百貨 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "YATA_Online",
+    "merchantName": "一田 (網購)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "YATA_Branch",
+    "merchantName": "一田 (門店)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ChungHua",
+    "merchantName": "中華書局",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Esliste_Online",
+    "merchantName": "誠品書店 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Esliste_Branch",
+    "merchantName": "誠品書店 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "JointPublishing",
+    "merchantName": "三聯書店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CommercialPress",
+    "merchantName": "商務印書館",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "7_For_All_Mankind_Online",
+    "merchantName": "7 For All Mankind (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "7_For_All_Mankind_Branch",
+    "merchantName": "7 For All Mankind (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "agnes_b._Online",
+    "merchantName": "agnès b. (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "agnes_b._Branch",
+    "merchantName": "agnès b. (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "BIRKENSTOCK_Online",
+    "merchantName": "BIRKENSTOCK (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "BIRKENSTOCK_Branch",
+    "merchantName": "BIRKENSTOCK (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Brooks_Brothers_Online",
+    "merchantName": "Brooks Brothers (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Brooks_Brothers_Branch",
+    "merchantName": "Brooks Brothers (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Club_Monaco_Online",
+    "merchantName": "Club Monaco (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Club_Monaco_Branch",
+    "merchantName": "Club Monaco (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Columbia_Online",
+    "merchantName": "Columbia (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Columbia_Branch",
+    "merchantName": "Columbia (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Crocs_Online",
+    "merchantName": "Crocs (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Crocs_Branch",
+    "merchantName": "Crocs (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ECCO_Online",
+    "merchantName": "ECCO (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ECCO_Branch",
+    "merchantName": "ECCO (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "eggs_Optical_Boutique_Online",
+    "merchantName": "eggs Optical Boutique (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "eggs_Optical_Boutique_Branch",
+    "merchantName": "eggs Optical Boutique (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Go_Wild_Online",
+    "merchantName": "Go Wild (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Go_Wild_Branch",
+    "merchantName": "Go Wild (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MISCH_MASCH_Online",
+    "merchantName": "MISCH MASCH (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MISCH_MASCH_Branch",
+    "merchantName": "MISCH MASCH (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NICAL_Online",
+    "merchantName": "NICAL (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NICAL_Branch",
+    "merchantName": "NICAL (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Optical88_Online",
+    "merchantName": "眼鏡88 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Optical88_Branch",
+    "merchantName": "眼鏡88 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ORiental_Traffic_Online",
+    "merchantName": "ORiental Traffic (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ORiental_Traffic_Branch",
+    "merchantName": "ORiental Traffic (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "WA_ORiental_Traffic_Online",
+    "merchantName": "WA ORiental Traffic (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "WA_ORiental_Traffic_Branch",
+    "merchantName": "WA ORiental Traffic (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ROCKPORT_Online",
+    "merchantName": "ROCKPORT (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ROCKPORT_Branch",
+    "merchantName": "ROCKPORT (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SKECHERS_Online",
+    "merchantName": "SKECHERS (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SKECHERS_Branch",
+    "merchantName": "SKECHERS (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SPORT_b_Online",
+    "merchantName": "SPORT b. (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SPORT_b_Branch",
+    "merchantName": "SPORT b. (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Teva_Online",
+    "merchantName": "Teva (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Teva_Branch",
+    "merchantName": "Teva (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Theory_Online",
+    "merchantName": "Theory (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Theory_Branch",
+    "merchantName": "Theory (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TWIST_Online",
+    "merchantName": "TWIST (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TWIST_Branch",
+    "merchantName": "TWIST (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "UGG_Online",
+    "merchantName": "UGG (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "UGG_Branch",
+    "merchantName": "UGG (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "UNIQLO_Online",
+    "merchantName": "UNIQLO (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "UNIQLO_Branch",
+    "merchantName": "UNIQLO (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ZALORA_Online",
+    "merchantName": "ZALORA (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ZALORA_Branch",
+    "merchantName": "ZALORA (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Zoff_Online",
+    "merchantName": "Zoff (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Zoff_Branch",
+    "merchantName": "Zoff (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "cosme_Online",
+    "merchantName": "@cosme STORE (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "cosme_Branch",
+    "merchantName": "@cosme STORE (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "BEAUTY_AVENUE_Online",
+    "merchantName": "BEAUTY AVENUE (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "BEAUTY_AVENUE_Branch",
+    "merchantName": "BEAUTY AVENUE (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GUERLAIN_Online",
+    "merchantName": "GUERLAIN (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GUERLAIN_Branch",
+    "merchantName": "GUERLAIN (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "IPSA_Online",
+    "merchantName": "IPSA (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "IPSA_Branch",
+    "merchantName": "IPSA (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "JOYCE_BEAUTY_Online",
+    "merchantName": "JOYCE BEAUTY (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "JOYCE_BEAUTY_Branch",
+    "merchantName": "JOYCE BEAUTY (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "mtm_labo_Online",
+    "merchantName": "mtm labo (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "mtm_labo_Branch",
+    "merchantName": "mtm labo (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TIME_by_mtm_labo_Online",
+    "merchantName": "TIME by mtm labo (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TIME_by_mtm_labo_Branch",
+    "merchantName": "TIME by mtm labo (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SPA_by_mtm_labo_Online",
+    "merchantName": "SPA by mtm labo (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SPA_by_mtm_labo_Branch",
+    "merchantName": "SPA by mtm labo (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NARS_Online",
+    "merchantName": "NARS (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NARS_Branch",
+    "merchantName": "NARS (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SASA_Online",
+    "merchantName": "莎莎 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SASA_Branch",
+    "merchantName": "莎莎 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Serge_Lutens_Online",
+    "merchantName": "Serge Lutens (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Serge_Lutens_Branch",
+    "merchantName": "Serge Lutens (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SHISEIDO_Online",
+    "merchantName": "SHISEIDO (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SHISEIDO_Branch",
+    "merchantName": "SHISEIDO (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sulwhasoo_Online",
+    "merchantName": "Sulwhasoo (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sulwhasoo_Branch",
+    "merchantName": "Sulwhasoo (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Nampei_Online",
+    "merchantName": "南北行 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Nampei_Branch",
+    "merchantName": "南北行 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "OSIM_Online",
+    "merchantName": "OSIM (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "OSIM_Branch",
+    "merchantName": "OSIM (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "OTO_Online",
+    "merchantName": "OTO (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "OTO_Branch",
+    "merchantName": "OTO (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SLOWOOD_Online",
+    "merchantName": "SLOWOOD (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SLOWOOD_Branch",
+    "merchantName": "SLOWOOD (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "wrightlife_Online",
+    "merchantName": "維特健靈 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "wrightlife_Branch",
+    "merchantName": "維特健靈 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "WYT_Online",
+    "merchantName": "位元堂 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "WYT_Branch",
+    "merchantName": "位元堂 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Watsons_Online",
+    "merchantName": "屈臣氏 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Watsons_Branch",
+    "merchantName": "屈臣氏 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "agnes_b__FLEURISTE",
+    "merchantName": "agnes b. FLEURISTE",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cantevole",
+    "merchantName": "Cantevole",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CASETiFY_Online",
+    "merchantName": "CASETiFY (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CASETiFY_Branch",
+    "merchantName": "CASETiFY (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "La_Boheme",
+    "merchantName": "La Bohéme",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ROYCE",
+    "merchantName": "ROYCE",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "WatsonsWine_Online",
+    "merchantName": "屈臣氏酒窖 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "WatsonsWine_Branch",
+    "merchantName": "屈臣氏酒窖 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "DAISO",
+    "merchantName": "DAISO",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Living_PLAZA",
+    "merchantName": "Living PLAZA",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Uber",
+    "merchantName": "Uber",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Uber_Taxi",
+    "merchantName": "Uber Taxi",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Starferry",
+    "merchantName": "天星小輪",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HKKF",
+    "merchantName": "港九小輪",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SunFerry",
+    "merchantName": "新渡輪",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NLB",
+    "merchantName": "新大嶼山巴士",
+    "merchantCategory1": "Transport",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "AMEX_Travel_Online",
+    "merchantName": "AMEX Travel Online",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Airbnb",
+    "merchantName": "Airbnb",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Agoda",
+    "merchantName": "Agoda",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Booking_com",
+    "merchantName": "Booking.com",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "ClubMed",
+    "merchantName": "ClubMed",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Expedia",
+    "merchantName": "Expedia",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Hotels_com",
+    "merchantName": "Hotels.com",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Kaligo",
+    "merchantName": "Kaligo",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "OK",
+    "merchantName": "OK 便利店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mannings_Online",
+    "merchantName": "萬寧 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mannings_Branch",
+    "merchantName": "萬寧 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Food_Parc",
+    "merchantName": "Food Parc超市",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Gourmet",
+    "merchantName": "Gourmet超市",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SOGO_Supermarket_Online",
+    "merchantName": "崇光超市 (網購)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SOGO_Supermarket_Branch",
+    "merchantName": "崇光超市 (門店)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "USelect",
+    "merchantName": "U 購 Select",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ChinaResourcesVanguard",
+    "merchantName": "華潤萬家",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": "CRV",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "VanGO",
+    "merchantName": "VanGO 便利店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Wellcome_Online",
+    "merchantName": "惠康 (網購)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Wellcome_Branch",
+    "merchantName": "惠康 (門店)",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "3hreeSixty",
+    "merchantName": "3hreeSixty",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Market_Place",
+    "merchantName": "Market Place",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Olivers_The_Delicatessen",
+    "merchantName": "Oliver's The Delicatessen",
+    "merchantCategory1": "Supermarket",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SevenEleven",
+    "merchantName": "2026-07-11 00:00:00",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "OceanPark",
+    "merchantName": "海洋公園",
+    "merchantCategory1": "Online",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": "OP",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Disney",
+    "merchantName": "迪士尼主題樂園",
+    "merchantCategory1": "Online",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "NewWay",
+    "merchantName": "NewWay",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MeiKTV",
+    "merchantName": "魅KTV",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "RedMR",
+    "merchantName": "RedMR 紅人派對",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CEO",
+    "merchantName": "CEO(唱K)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "AppleTV",
+    "merchantName": "AppleTV",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Apple_Music",
+    "merchantName": "Apple Music",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "App_Store",
+    "merchantName": "App Store",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Netflix",
+    "merchantName": "Netflix",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Disney_Plus",
+    "merchantName": "Disney+",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Nintendo",
+    "merchantName": "Nintendo",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Google_Play",
+    "merchantName": "Google Play",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "JOOX",
+    "merchantName": "JOOX",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Playstation",
+    "merchantName": "Playstation",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Spotify",
+    "merchantName": "Spotify",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "YouTube",
+    "merchantName": "YouTube",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Mcdonald_Online",
+    "merchantName": "Mcdonald's  (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": "M記",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mcdonald_Branch",
+    "merchantName": "Mcdonald's  (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": "M記",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Buy&Ship",
+    "merchantName": "Buy&Ship",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "FARFETCH",
+    "merchantName": "FARFETCH",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hopegoo",
+    "merchantName": "Hopegoo",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mytheresa",
+    "merchantName": "Mytheresa",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Net_A_Porter",
+    "merchantName": "Net-A-Porter",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Outnet",
+    "merchantName": "The Outnet",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Selfridges",
+    "merchantName": "Selfridges",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Keeta",
+    "merchantName": "Keeta",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MeiTuan",
+    "merchantName": "美團",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": "mt",
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "DaZhong",
+    "merchantName": "大眾點評",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": "dzdp",
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "DiDi",
+    "merchantName": "滴滴出行",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "JingDong",
+    "merchantName": "京東商城",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": "JD",
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Mandarin_Oriental_Hong_Kong",
+    "merchantName": "香港文華東方酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_St_Regis_Hong_Kong",
+    "merchantName": "香港瑞吉酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Upper_House",
+    "merchantName": "奕居",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Four_Seasons_Hotel_Hong_Kong",
+    "merchantName": "香港四季酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Grand_Hyatt_Hong_Kong",
+    "merchantName": "香港君悅酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "K11_ARTUS",
+    "merchantName": "K11寓館",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cordis_Hong_Kong",
+    "merchantName": "香港康得思酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Regal_Airport_Hotel",
+    "merchantName": "富豪機場酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hopewell_Hotel",
+    "merchantName": "合和酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Regala_Skycity_Hotel",
+    "merchantName": "麗豪航天城酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Cityview",
+    "merchantName": "城景國際",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Salisbury__YMCA_of_Hong_Kong",
+    "merchantName": "香港基督教青年會－港青酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ibis_Hong_Kong_Central_&_Sheung_Wan",
+    "merchantName": "宜必思香港中上環酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "iclub_Sheung_Wan_Hotel",
+    "merchantName": "富薈上環酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Nina_Hotel_Causeway_Bay",
+    "merchantName": "如心銅鑼灣海景酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Nina_Hotel_Tsuen_Wan_West",
+    "merchantName": "荃灣西如心酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_T_Hotel",
+    "merchantName": "T酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Marco_Polo_Hongkong_Hotel",
+    "merchantName": "香港馬哥孛羅酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Landmark_Mandarin_Oriental_Hong_Kong",
+    "merchantName": "香港置地文華東方酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Langham_Hong_Kong",
+    "merchantName": "香港朗廷酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ovolo_Central",
+    "merchantName": "奧華·時尚精品酒店・中環",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Rosewood_Hong_Kong",
+    "merchantName": "香港瑰麗酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Regent_Hong_Kong",
+    "merchantName": "香港麗晶酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Island_ShangriLa_Hong_Kong",
+    "merchantName": "港島香格里拉",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Lanson_Place_Causeway_Bay_Hong_Kong",
+    "merchantName": "香港銅鑼灣蘭心公館",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hotel_ICON",
+    "merchantName": "唯港薈",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Eaton_HK",
+    "merchantName": "香港逸東酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Murray_Hong_Kong_a_Niccolo_Hotel",
+    "merchantName": "香港美利酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Harbour_Grand_Hong_Kong",
+    "merchantName": "港島海逸君綽酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Harbour_Grand_Kowloon",
+    "merchantName": "九龍海逸君綽酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_RitzCarlton_Hong_Kong",
+    "merchantName": "香港麗思卡爾頓酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Peninsula_Hong_Kong",
+    "merchantName": "香港半島酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Disney_Explorers_Lodge",
+    "merchantName": "迪士尼探索家度假酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hong_Kong_Disneyland_Hotel",
+    "merchantName": "香港迪士尼樂園酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Royal_Garden",
+    "merchantName": "帝苑酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Royal_Plaza_Hotel",
+    "merchantName": "帝京酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Novotel_Century_Hong_Kong",
+    "merchantName": "香港諾富特世紀酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Two_MacDonnell_Road",
+    "merchantName": "麥當勞道貳號",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Fullerton_Ocean_Park_Hotel_Hong_Kong",
+    "merchantName": "香港富麗敦海洋公園酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Hari_Hong_Kong",
+    "merchantName": "香港夏利酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "EAST_Hong_Kong",
+    "merchantName": "香港東隅",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hyatt_Centric_Victoria_Harbour_Hong_Kong",
+    "merchantName": "香港維港凱悅尚萃酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "InterContinental_Grand_Stanford_Hong_Kong",
+    "merchantName": "海景嘉福洲際酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sheraton_Hong_Kong_Hotel_&_Towers",
+    "merchantName": "香港喜來登酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "W_Hong_Kong",
+    "merchantName": "香港W酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "JW_Marriott_Hotel_Hong_Kong",
+    "merchantName": "香港JW萬豪酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Conrad_Hong_Kong",
+    "merchantName": "香港港麗酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Renaissance_Harbour_View_Hotel_Hong_Kong",
+    "merchantName": "香港萬麗海景酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hyatt_Regency_Hong_Kong_Tsim_Sha_Tsui",
+    "merchantName": "香港尖沙咀凱悅酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hyatt_Regency_Hong_Kong_Sha_Tin",
+    "merchantName": "香港沙田凱悅酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Courtyard_by_Marriott_Hong_Kong",
+    "merchantName": "香港萬怡酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Park_Lane_Hong_Kong_Autograph_Collection",
+    "merchantName": "香港柏寧酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Fullerton_Hotel_Hong_Kong",
+    "merchantName": "香港富麗敦酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Kerry_Hotel_Hong_Kong",
+    "merchantName": "香港嘉里酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Mira_Hong_Kong",
+    "merchantName": "香港美麗華酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Fleming_Hong_Kong",
+    "merchantName": "香港芬名酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TUVE",
+    "merchantName": "TUVE",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Pottinger_Hong_Kong",
+    "merchantName": "香港石板街酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "99_Bonham",
+    "merchantName": "翰林峰99號公寓酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Mercer",
+    "merchantName": "尚圜",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "JEN_Hong_Kong_by_ShangriLa",
+    "merchantName": "香港JEN酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Dorsett_Wanchai_Hong_Kong",
+    "merchantName": "香港灣仔帝盛酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Dorsett_Mongkok_Hong_Kong",
+    "merchantName": "香港旺角帝盛酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Dorsett_Kai_Tak",
+    "merchantName": "香港啟德帝盛酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Royal_Pacific_Hotel",
+    "merchantName": "皇家太平洋酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hotel_Alexandra",
+    "merchantName": "歷山酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Arca",
+    "merchantName": "雅格酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ALVA_HOTEL_BY_ROYAL",
+    "merchantName": "帝逸酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Disney's_Hollywood_Hotel",
+    "merchantName": "迪士尼好萊塢酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Auberge_Discovery_Bay_Hong_Kong",
+    "merchantName": "香港愉景灣酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Le_Meridien_Hong_Kong_Cyberport",
+    "merchantName": "香港數碼港艾美酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Silveri_Hong_Kong__MGallery",
+    "merchantName": "香港銀樾美憬閣精選酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hong_Kong_Ocean_Park_Marriott_Hotel",
+    "merchantName": "香港海洋公園萬豪酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Emperor_Hotel",
+    "merchantName": "英皇駿景酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "B_P_International",
+    "merchantName": "龍堡國際",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Butterfly_on_Wellington",
+    "merchantName": "晉逸精品酒店・中環",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Butterfly_on_Morrison",
+    "merchantName": "晉逸精品酒店・銅鑼灣",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hotel_Stage",
+    "merchantName": "登臺酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Luxe_Manor",
+    "merchantName": "帝樂文娜公館",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mira_Moon",
+    "merchantName": "問月酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hotel_Madera_Hong_Kong",
+    "merchantName": "木的地酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Perkin_Hotel",
+    "merchantName": "珀軒酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Page148_Page_Hotels",
+    "merchantName": "Page148 酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "The_Harbourview",
+    "merchantName": "灣景國際",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Burlington_Hotel",
+    "merchantName": "百利酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "iclub_Fortress_Hill_Hotel",
+    "merchantName": "富薈炮台山酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "iclub_AMTD_Sheung_Wan_Hotel",
+    "merchantName": "富薈尚乘上環酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hotel_COZi_Resort",
+    "merchantName": "悦品度假酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hotel_COZi_Harbour_View",
+    "merchantName": "悦品海景酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hotel_COZi_Oasis",
+    "merchantName": "悦品酒店・荃灣",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Royal_View_Hotel",
+    "merchantName": "帝景酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hong_Kong_Gold_Coast_Hotel",
+    "merchantName": "香港黃金海岸酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Bishop_Lei_International_House",
+    "merchantName": "主教山莊",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Bauhinia_Hotel_Central",
+    "merchantName": "寶軒酒店（中環）",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Lan_Kwai_Fong_Hotel_@_Kau_U_Fong",
+    "merchantName": "蘭桂坊酒店@九如坊",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hotel_Purple_Hong_Kong",
+    "merchantName": "香港紫亭酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Eco_Tree_Hotel",
+    "merchantName": "頤庭酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Y_Loft",
+    "merchantName": "青年廣場 Y旅舍",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Rambler_Garden_Hotel",
+    "merchantName": "華逸酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Rambler_Oasis_Hotel",
+    "merchantName": "青逸酒店",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  }
+]
