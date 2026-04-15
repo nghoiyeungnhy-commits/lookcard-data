@@ -353,6 +353,7 @@
     "campaignId": "AEON_WAKUWAKU_Campaign",
     "campaignSubId": "AEON_WAKUWAKU_Campaign_1",
     "campaignDisplayName": "WAKUWAKU指定簽賬回贈",
+    "campaignDisplayGroup": "WAKUWAKU指定簽賬回贈GP",
     "campaignMasterflag": true,
     "campaignSeniority": 1,
     "campaignEligibleCard": "AEON_WAKUWAKU",
@@ -378,6 +379,7 @@
     "campaignId": "AEON_WAKUWAKU_Campaign",
     "campaignSubId": "AEON_WAKUWAKU_Campaign_2",
     "campaignDisplayName": "WAKUWAKU指定簽賬回贈",
+    "campaignDisplayGroup": "WAKUWAKU指定簽賬回贈GP",
     "campaignMasterflag": true,
     "campaignSeniority": 1,
     "campaignEligibleCard": "AEON_WAKUWAKU",
@@ -402,6 +404,7 @@
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
     "campaignSubId": "AEON_WAKUWAKU_Campaign_3",
+   "campaignDisplayGroup": "WAKUWAKU指定簽賬回贈GP",
     "campaignDisplayName": "WAKUWAKU指定簽賬回贈",
     "campaignMasterflag": true,
     "campaignSeniority": 1,
