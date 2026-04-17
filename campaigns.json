@@ -22,6 +22,7 @@
     "campaignRebateMiles": 0.4,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -48,6 +49,7 @@
     "campaignRebateMiles": 0.8,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -74,6 +76,7 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -100,6 +103,7 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -126,6 +130,7 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "HKD",
     "campaignVs": "VS_Dining",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -152,6 +157,7 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "NON_HKD",
     "campaignVs": "VS_Oversea",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -178,6 +184,7 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "HKD",
     "campaignVs": "VS_Enjoy",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -204,6 +211,7 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "HKD",
     "campaignVs": "VS_Home",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -230,6 +238,7 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "HKD",
     "campaignVs": "VS_Buy",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -256,6 +265,7 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "HKD",
     "campaignVs": "VS_Dining",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -282,6 +292,7 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "NON_HKD",
     "campaignVs": "VS_Oversea",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -308,6 +319,7 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "HKD",
     "campaignVs": "VS_Enjoy",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -334,6 +346,7 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "HKD",
     "campaignVs": "VS_Home",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -360,6 +373,7 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "HKD",
     "campaignVs": "VS_Buy",
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -386,6 +400,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 200.0,
     "campaignWaku": 0.056
   },
@@ -412,6 +427,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "JPY",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 200.0,
     "campaignWaku": 0.026
   },
@@ -438,6 +454,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 200.0,
     "campaignWaku": 0.006
   },
@@ -464,6 +481,7 @@
     "campaignRebateMiles": 0.47619047,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -490,6 +508,7 @@
     "campaignRebateMiles": 0.47619047,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -516,6 +535,7 @@
     "campaignRebateMiles": 0.47619047,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -542,6 +562,7 @@
     "campaignRebateMiles": 0.09523809,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -568,6 +589,7 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -594,6 +616,7 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -620,6 +643,7 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -646,6 +670,7 @@
     "campaignRebateMiles": 0.59722222,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -672,6 +697,7 @@
     "campaignRebateMiles": 0.59722222,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -698,6 +724,7 @@
     "campaignRebateMiles": 0.20833333,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -724,6 +751,7 @@
     "campaignRebateMiles": 0.20833333,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -750,6 +778,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -776,6 +805,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -802,6 +832,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 200.0,
     "campaignWaku": null
   },
@@ -828,6 +859,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 200.0,
     "campaignWaku": null
   },
@@ -854,6 +886,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 200.0,
     "campaignWaku": null
   },
@@ -880,6 +913,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 200.0,
     "campaignWaku": null
   },
@@ -906,6 +940,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 200.0,
     "campaignWaku": null
   },
@@ -932,6 +967,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 400.0,
     "campaignWaku": null
   },
@@ -958,6 +994,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 400.0,
     "campaignWaku": null
   },
@@ -984,6 +1021,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 400.0,
     "campaignWaku": null
   },
@@ -1010,6 +1048,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "RMB",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 400.0,
     "campaignWaku": null
   },
@@ -1036,6 +1075,7 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 1200.0,
     "campaignWaku": null
   },
@@ -1062,6 +1102,7 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 1200.0,
     "campaignWaku": null
   },
@@ -1088,6 +1129,7 @@
     "campaignRebateMiles": 0.52631578,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 720.0,
     "campaignWaku": null
   },
@@ -1114,6 +1156,7 @@
     "campaignRebateMiles": 0.52631578,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 720.0,
     "campaignWaku": null
   },
@@ -1140,6 +1183,7 @@
     "campaignRebateMiles": 1.66666665,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 150.0,
     "campaignWaku": null
   },
@@ -1166,6 +1210,7 @@
     "campaignRebateMiles": 0.83333332,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 150.0,
     "campaignWaku": null
   },
@@ -1192,6 +1237,7 @@
     "campaignRebateMiles": 0.83333332,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 150.0,
     "campaignWaku": null
   },
@@ -1218,6 +1264,7 @@
     "campaignRebateMiles": 1.33333332,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 150.0,
     "campaignWaku": null
   },
@@ -1244,6 +1291,7 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 150.0,
     "campaignWaku": null
   },
@@ -1270,6 +1318,7 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 150.0,
     "campaignWaku": null
   },
@@ -1296,6 +1345,7 @@
     "campaignRebateMiles": 1.33333332,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1322,6 +1372,7 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1348,6 +1399,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1374,6 +1426,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1400,6 +1453,7 @@
     "campaignRebateMiles": 0.25,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1426,6 +1480,7 @@
     "campaignRebateMiles": 0.25,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1452,6 +1507,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1478,6 +1534,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1504,6 +1561,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1530,6 +1588,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1556,6 +1615,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1582,6 +1642,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": null,
     "campaignWaku": null
   },
@@ -1608,6 +1669,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "JPY",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1634,6 +1696,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "KRW",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1660,6 +1723,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "THB",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1686,6 +1750,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "CNY",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1712,6 +1777,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "MOP",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1738,6 +1804,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "TWD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1764,6 +1831,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "EUR",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1790,6 +1858,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "USD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1816,6 +1885,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "AUD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1842,6 +1912,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "GBP",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1868,6 +1939,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "SGD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1894,6 +1966,7 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "CAD",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
     "campaignWaku": null
   },
@@ -1920,7 +1993,89 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "VND",
     "campaignVs": null,
+    "campaignMOX": null,
     "campaignRebateCap": 500.0,
+    "campaignWaku": null
+  },
+  {
+    "campaignId": "MOX_Campaign_Cash",
+    "campaignSubId": "MOX_Campaign_Cash",
+    "campaignDisplayGroup": "MOX無上限2%回贈",
+    "campaignDisplayName": "MOX無上限2%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 2,
+    "campaignEligibleCard": "Mox_Mox (Cash）",
+    "campaignEligibleCategory": "ALL",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 12,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-01-01",
+    "campaignEndDate": "2026-12-31",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 999999.0,
+    "campaignCardMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 999999.0,
+    "campaignRebateCash": 0.02,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignVs": null,
+    "campaignMOX": true,
+    "campaignRebateCap": null,
+    "campaignWaku": null
+  },
+  {
+    "campaignId": "MOX_Campaign_Supermarket",
+    "campaignSubId": "MOX_Campaign_Supermarket",
+    "campaignDisplayGroup": "MOX超市簽帳3%回贈",
+    "campaignDisplayName": "MOX超市簽帳3%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Mox_Mox (Cash）",
+    "campaignEligibleCategory": "Supermarket",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 12,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-01-01",
+    "campaignEndDate": "2026-12-31",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 999999.0,
+    "campaignCardMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 999999.0,
+    "campaignRebateCash": 0.03,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignVs": null,
+    "campaignMOX": true,
+    "campaignRebateCap": null,
+    "campaignWaku": null
+  },
+  {
+    "campaignId": "MOX_Campaign_Miles",
+    "campaignSubId": "MOX_Campaign_Miles",
+    "campaignDisplayGroup": "MOX無上限 $4 = 1里",
+    "campaignDisplayName": "MOX無上限 $4 = 1里",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Mox_Mox (Miles）",
+    "campaignEligibleCategory": "ALL",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 12,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-01-01",
+    "campaignEndDate": "2026-12-31",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 999999.0,
+    "campaignCardMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 999999.0,
+    "campaignRebateCash": 0.0,
+    "campaignRebateMiles": 0.25,
+    "campaignFx": "ALL",
+    "campaignVs": null,
+    "campaignMOX": true,
+    "campaignRebateCap": null,
     "campaignWaku": null
   }
 ]
