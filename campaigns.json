@@ -656,7 +656,7 @@
     "campaignWaku": null,
     "campaignMOX": null,
     "campaignRegistration": true,
-    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationMethod": "WEB",
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkbonusplatmracc9x25&channel=IBW&locale=zh-HK"
   },
   {
@@ -686,7 +686,7 @@
     "campaignWaku": null,
     "campaignMOX": null,
     "campaignRegistration": true,
-    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationMethod": "WEB",
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkbonusplatmracc9x25&channel=IBW&locale=zh-HK"
   },
   {
@@ -716,7 +716,7 @@
     "campaignWaku": null,
     "campaignMOX": null,
     "campaignRegistration": true,
-    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationMethod": "WEB",
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkbonusplatmracc9x25&channel=IBW&locale=zh-HK"
   },
   {
@@ -746,7 +746,7 @@
     "campaignWaku": null,
     "campaignMOX": null,
     "campaignRegistration": true,
-    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationMethod": "WEB",
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkexp07xtravel1hk26&channel=IBW&locale=zh-HK"
   },
   {
@@ -776,7 +776,7 @@
     "campaignWaku": null,
     "campaignMOX": null,
     "campaignRegistration": true,
-    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationMethod": "WEB",
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkexp07xtravel1hk26&channel=IBW&locale=zh-HK"
   },
   {
@@ -806,7 +806,7 @@
     "campaignWaku": null,
     "campaignMOX": null,
     "campaignRegistration": true,
-    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationMethod": "WEB",
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkexp075xtravel1hk26&channel=IBW&locale=zh-HK"
   },
   {
@@ -836,7 +836,7 @@
     "campaignWaku": null,
     "campaignMOX": null,
     "campaignRegistration": true,
-    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationMethod": "WEB",
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkexp075xtravel1hk26&channel=IBW&locale=zh-HK"
   },
   {
