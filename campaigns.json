@@ -22,9 +22,12 @@
     "campaignRebateMiles": 0.4,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Red_Designated",
@@ -49,9 +52,12 @@
     "campaignRebateMiles": 0.8,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_EveryMile_Oversea",
@@ -76,9 +82,12 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "APP",
+    "campaignRegistrationDetails": "Reward+"
   },
   {
     "campaignId": "HSBC_EveryMile_Designated",
@@ -103,9 +112,12 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -130,9 +142,12 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "HKD",
     "campaignVs": "VS_Dining",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -157,9 +172,12 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "NON_HKD",
     "campaignVs": "VS_Oversea",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -184,9 +202,12 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "HKD",
     "campaignVs": "VS_Enjoy",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -211,9 +232,12 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "HKD",
     "campaignVs": "VS_Home",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -238,9 +262,12 @@
     "campaignRebateMiles": 0.24,
     "campaignFx": "HKD",
     "campaignVs": "VS_Buy",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -265,9 +292,12 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "HKD",
     "campaignVs": "VS_Dining",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -292,9 +322,12 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "NON_HKD",
     "campaignVs": "VS_Oversea",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -319,9 +352,12 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "HKD",
     "campaignVs": "VS_Enjoy",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -346,9 +382,12 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "HKD",
     "campaignVs": "VS_Home",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -373,9 +412,12 @@
     "campaignRebateMiles": 0.36,
     "campaignFx": "HKD",
     "campaignVs": "VS_Buy",
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
@@ -400,9 +442,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 200.0,
-    "campaignWaku": 0.056
+    "campaignWaku": 0.056,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
@@ -427,9 +472,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "JPY",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 200.0,
-    "campaignWaku": 0.026
+    "campaignWaku": 0.026,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
@@ -454,9 +502,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 200.0,
-    "campaignWaku": 0.006
+    "campaignWaku": 0.006,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "AEON_Purple_Campaign",
@@ -481,9 +532,12 @@
     "campaignRebateMiles": 0.47619047,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "APP",
+    "campaignRegistrationDetails": "「AEON 香港」手機App"
   },
   {
     "campaignId": "AEON_Purple_Campaign",
@@ -508,9 +562,12 @@
     "campaignRebateMiles": 0.47619047,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "APP",
+    "campaignRegistrationDetails": "「AEON 香港」手機App"
   },
   {
     "campaignId": "AEON_Purple_Campaign",
@@ -535,9 +592,12 @@
     "campaignRebateMiles": 0.47619047,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "APP",
+    "campaignRegistrationDetails": "「AEON 香港」手機App"
   },
   {
     "campaignId": "AEON_Purple_Campaign_AEON",
@@ -562,9 +622,12 @@
     "campaignRebateMiles": 0.09523809,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "AMEX_Platinum_9xOversea",
@@ -589,9 +652,12 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkbonusplatmracc9x25&channel=IBW&locale=zh-HK"
   },
   {
     "campaignId": "AMEX_Platinum_9xTravel",
@@ -616,9 +682,12 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkbonusplatmracc9x25&channel=IBW&locale=zh-HK"
   },
   {
     "campaignId": "AMEX_Platinum_9xDaily",
@@ -643,9 +712,12 @@
     "campaignRebateMiles": 0.5,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkbonusplatmracc9x25&channel=IBW&locale=zh-HK"
   },
   {
     "campaignId": "AMEX_Explorer_10.75xOversea",
@@ -670,9 +742,12 @@
     "campaignRebateMiles": 0.59722222,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkexp07xtravel1hk26&channel=IBW&locale=zh-HK"
   },
   {
     "campaignId": "AMEX_Explorer_10.75xTravel",
@@ -697,9 +772,12 @@
     "campaignRebateMiles": 0.59722222,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkexp07xtravel1hk26&channel=IBW&locale=zh-HK"
   },
   {
     "campaignId": "AMEX_Explorer_3.75xOversea",
@@ -724,9 +802,12 @@
     "campaignRebateMiles": 0.20833333,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkexp075xtravel1hk26&channel=IBW&locale=zh-HK"
   },
   {
     "campaignId": "AMEX_Explorer_3.75xTravel",
@@ -751,9 +832,12 @@
     "campaignRebateMiles": 0.20833333,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "URL",
+    "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkexp075xtravel1hk26&channel=IBW&locale=zh-HK"
   },
   {
     "campaignId": "BEA_World Mastercard_12.5x",
@@ -778,9 +862,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "APP",
+    "campaignRegistrationDetails": "BEA MALL 手機App"
   },
   {
     "campaignId": "BEA_World Mastercard_12.5x",
@@ -805,9 +892,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": true,
+    "campaignRegistrationMethod": "APP",
+    "campaignRegistrationDetails": "BEA MALL 手機App"
   },
   {
     "campaignId": "BEA_GOAL Card_Campaign",
@@ -821,7 +911,7 @@
     "campaignEligibleMerchants": null,
     "campaignFrequency": 1,
     "campaignCalendar": 0,
-    "campaignStartDate": "2025-12-30",
+    "campaignStartDate": "2026-01-01",
     "campaignEndDate": "2026-06-30",
     "campaignTotalMin": 0.0,
     "campaignTotalMax": 5000.0,
@@ -832,9 +922,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 200.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BEA_GOAL Card_Campaign",
@@ -848,7 +941,7 @@
     "campaignEligibleMerchants": null,
     "campaignFrequency": 1,
     "campaignCalendar": 0,
-    "campaignStartDate": "2025-12-30",
+    "campaignStartDate": "2026-01-01",
     "campaignEndDate": "2026-06-30",
     "campaignTotalMin": 0.0,
     "campaignTotalMax": 5000.0,
@@ -859,9 +952,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 200.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BEA_GOAL Card_Campaign",
@@ -875,7 +971,7 @@
     "campaignEligibleMerchants": "OceanPark,DisneyHK,NewWay,MeiKTV,RedMR,CEO,CGV_Cinemas_Online,CGV_Cinemas_Branch,Emperor_Cinemas_Online,Emperor_Cinemas_Branch,Festival_Grand_Cinema_Online,Festival_Grand_Cinema_Branch,Grand_Winsor_Cinema_Online,Grand_Winsor_Cinema_Branch,K11_Art_House_Online,K11_Art_House_Branch,MCL_Online,MCL_Branch,Movie_Town_Online,Movie_Town_Branch,STAR_Cinema_Online,STAR_Cinema_Branch,Cityline,Ticketing_HK",
     "campaignFrequency": 1,
     "campaignCalendar": 0,
-    "campaignStartDate": "2025-12-30",
+    "campaignStartDate": "2026-01-01",
     "campaignEndDate": "2026-06-30",
     "campaignTotalMin": 0.0,
     "campaignTotalMax": 4000.0,
@@ -886,9 +982,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 200.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BEA_GOAL Card_Campaign",
@@ -902,7 +1001,7 @@
     "campaignEligibleMerchants": "Airbnb,Agoda,Booking_com,ClubMed,Expedia,Hotels_com",
     "campaignFrequency": 1,
     "campaignCalendar": 0,
-    "campaignStartDate": "2025-12-30",
+    "campaignStartDate": "2026-01-01",
     "campaignEndDate": "2026-06-30",
     "campaignTotalMin": 0.0,
     "campaignTotalMax": 3333.3333,
@@ -913,9 +1012,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 200.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BEA_GOAL Card_Campaign",
@@ -929,7 +1031,7 @@
     "campaignEligibleMerchants": "LWB,KCBH,NLB,KMB,Citybus,FirstBus,Caltex,Esso,PetroChina,Sinopec,Shell",
     "campaignFrequency": 1,
     "campaignCalendar": 0,
-    "campaignStartDate": "2025-12-30",
+    "campaignStartDate": "2026-01-01",
     "campaignEndDate": "2026-06-30",
     "campaignTotalMin": 0.0,
     "campaignTotalMax": 3333.3333,
@@ -940,9 +1042,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 200.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BEA_Diamond_Campaign",
@@ -956,7 +1061,7 @@
     "campaignEligibleMerchants": null,
     "campaignFrequency": 1,
     "campaignCalendar": 0,
-    "campaignStartDate": "2025-12-30",
+    "campaignStartDate": "2026-01-01",
     "campaignEndDate": "2026-12-31",
     "campaignTotalMin": 0.0,
     "campaignTotalMax": 33333.3333,
@@ -967,9 +1072,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 400.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BEA_Diamond_Campaign",
@@ -983,7 +1091,7 @@
     "campaignEligibleMerchants": null,
     "campaignFrequency": 1,
     "campaignCalendar": 0,
-    "campaignStartDate": "2025-12-30",
+    "campaignStartDate": "2026-01-01",
     "campaignEndDate": "2026-12-31",
     "campaignTotalMin": 0.0,
     "campaignTotalMax": 50000.0,
@@ -994,9 +1102,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 400.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BEA_Diamond_Campaign",
@@ -1010,7 +1121,7 @@
     "campaignEligibleMerchants": null,
     "campaignFrequency": 1,
     "campaignCalendar": 0,
-    "campaignStartDate": "2025-12-30",
+    "campaignStartDate": "2026-01-01",
     "campaignEndDate": "2026-12-31",
     "campaignTotalMin": 0.0,
     "campaignTotalMax": 50000.0,
@@ -1021,9 +1132,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 400.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BEA_Diamond_Campaign",
@@ -1037,7 +1151,7 @@
     "campaignEligibleMerchants": null,
     "campaignFrequency": 1,
     "campaignCalendar": 0,
-    "campaignStartDate": "2025-12-30",
+    "campaignStartDate": "2026-01-01",
     "campaignEndDate": "2026-12-31",
     "campaignTotalMin": 0.0,
     "campaignTotalMax": 50000.0,
@@ -1048,9 +1162,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "RMB",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 400.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Cheers_Infinite_Campaign",
@@ -1075,9 +1192,12 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 1200.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Cheers_Infinite_Campaign",
@@ -1102,9 +1222,12 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 1200.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Cheers_Signature_Campaign",
@@ -1129,9 +1252,12 @@
     "campaignRebateMiles": 0.52631578,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 720.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Cheers_Signature_Campaign",
@@ -1156,9 +1282,12 @@
     "campaignRebateMiles": 0.52631578,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 720.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Chill_World_Campaign",
@@ -1183,9 +1312,12 @@
     "campaignRebateMiles": 1.66666665,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 150.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Chill_World_Campaign",
@@ -1210,9 +1342,12 @@
     "campaignRebateMiles": 0.83333332,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 150.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Chill_World_Campaign",
@@ -1237,9 +1372,12 @@
     "campaignRebateMiles": 0.83333332,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 150.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Chill_Platinum_Campaign",
@@ -1264,9 +1402,12 @@
     "campaignRebateMiles": 1.33333332,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 150.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Chill_Platinum_Campaign",
@@ -1291,9 +1432,12 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 150.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Chill_Platinum_Campaign",
@@ -1318,9 +1462,12 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 150.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Bliss Campaign_Designated",
@@ -1345,9 +1492,12 @@
     "campaignRebateMiles": 1.33333332,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_Bliss Campaign_Online",
@@ -1372,9 +1522,12 @@
     "campaignRebateMiles": 0.66666666,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_SOGO_Campaign",
@@ -1399,9 +1552,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "BOC_GO_Campaign",
@@ -1426,9 +1582,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Citi_Premier Miles_Campaign",
@@ -1453,9 +1612,12 @@
     "campaignRebateMiles": 0.25,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Citi_Prestige_Campaign",
@@ -1480,9 +1642,12 @@
     "campaignRebateMiles": 0.25,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Citi_Cash Back_Campaign_Dining",
@@ -1507,9 +1672,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Citi_Cash Back_Campaign_Hotel",
@@ -1534,9 +1702,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Citi_Cash Back_Campaign_Oversea",
@@ -1561,9 +1732,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "NON_HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Citi_Rewards_Campaign",
@@ -1588,9 +1762,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Citi_Rewards_Campaign",
@@ -1615,9 +1792,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Citi_The Club_Campaign",
@@ -1638,13 +1818,16 @@
     "campaignCardMin": 0.0,
     "campaignTxMin": 0.0,
     "campaignTxMax": 999999.0,
-    "campaignRebateCash": 0.01,
+    "campaignRebateCash": 0.04,
     "campaignRebateMiles": 0.0,
     "campaignFx": "HKD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1669,9 +1852,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "JPY",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1696,9 +1882,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "KRW",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1723,9 +1912,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "THB",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1750,9 +1942,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "CNY",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1777,9 +1972,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "MOP",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1804,9 +2002,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "TWD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1831,9 +2032,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "EUR",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1858,9 +2062,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "USD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1885,9 +2092,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "AUD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1912,9 +2122,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "GBP",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1939,9 +2152,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "SGD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1966,9 +2182,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "CAD",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "Hang Seng Bank_Travel+ Visa Signature_Travel",
@@ -1993,9 +2212,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "VND",
     "campaignVs": null,
-    "campaignMOX": null,
     "campaignRebateCap": 500.0,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": null,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "MOX_Campaign_Cash",
@@ -2020,9 +2242,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": true,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": true,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "MOX_Campaign_Supermarket",
@@ -2047,9 +2272,12 @@
     "campaignRebateMiles": 0.0,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": true,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": true,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   },
   {
     "campaignId": "MOX_Campaign_Miles",
@@ -2074,8 +2302,11 @@
     "campaignRebateMiles": 0.25,
     "campaignFx": "ALL",
     "campaignVs": null,
-    "campaignMOX": true,
     "campaignRebateCap": null,
-    "campaignWaku": null
+    "campaignWaku": null,
+    "campaignMOX": true,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null
   }
 ]
