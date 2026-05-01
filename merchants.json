@@ -34,17 +34,17 @@
   {
     "merchantId": "Cathay_Pacific",
     "merchantName": "國泰航空",
-    "merchantCategory1": null,
+    "merchantCategory1": "Airline",
     "merchantCategory2": "Online",
     "merchantTag1": "CX",
     "merchantCbfFlag": false
   },
   {
-    "merchantId": "HK_Express",
+    "merchantId": "HKExpress",
     "merchantName": "香港快運",
-    "merchantCategory1": null,
+    "merchantCategory1": "Airline",
     "merchantCategory2": "Online",
-    "merchantTag1": "UO",
+    "merchantTag1": "Express",
     "merchantCbfFlag": false
   },
   {
@@ -377,7 +377,7 @@
   },
   {
     "merchantId": "MTR_Except_Airport",
-    "merchantName": "港鐵 (除機場快線)",
+    "merchantName": "港鐵 (機場快線除外)",
     "merchantCategory1": null,
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
@@ -825,7 +825,7 @@
   },
   {
     "merchantId": "KKBOX",
-    "merchantName": "KKBOX",
+    "merchantName": "KKBox",
     "merchantCategory1": null,
     "merchantCategory2": "Online",
     "merchantTag1": null,
@@ -992,8 +992,8 @@
     "merchantCbfFlag": false
   },
   {
-    "merchantId": "MTR_All",
-    "merchantName": "港鐵 (全部)",
+    "merchantId": "MTR_Airport",
+    "merchantName": "港鐵 (機場快線)",
     "merchantCategory1": null,
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
@@ -2921,7 +2921,7 @@
   },
   {
     "merchantId": "SevenEleven",
-    "merchantName": "2026-07-11 00:00:00",
+    "merchantName": "7/11",
     "merchantCategory1": null,
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
@@ -3178,7 +3178,7 @@
   {
     "merchantId": "Mandarin_Oriental_Hong_Kong",
     "merchantName": "香港文華東方酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3186,7 +3186,7 @@
   {
     "merchantId": "The_St_Regis_Hong_Kong",
     "merchantName": "香港瑞吉酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3194,7 +3194,7 @@
   {
     "merchantId": "The_Upper_House",
     "merchantName": "奕居",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3202,7 +3202,7 @@
   {
     "merchantId": "Four_Seasons_Hotel_Hong_Kong",
     "merchantName": "香港四季酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3210,7 +3210,7 @@
   {
     "merchantId": "Grand_Hyatt_Hong_Kong",
     "merchantName": "香港君悅酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3218,7 +3218,7 @@
   {
     "merchantId": "K11_ARTUS",
     "merchantName": "K11寓館",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3226,7 +3226,7 @@
   {
     "merchantId": "Cordis_Hong_Kong",
     "merchantName": "香港康得思酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3234,7 +3234,7 @@
   {
     "merchantId": "Regal_Airport_Hotel",
     "merchantName": "富豪機場酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3242,7 +3242,7 @@
   {
     "merchantId": "Hopewell_Hotel",
     "merchantName": "合和酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3250,7 +3250,7 @@
   {
     "merchantId": "Regala_Skycity_Hotel",
     "merchantName": "麗豪航天城酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3258,7 +3258,7 @@
   {
     "merchantId": "The_Cityview",
     "merchantName": "城景國際",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3266,7 +3266,7 @@
   {
     "merchantId": "The_Salisbury__YMCA_of_Hong_Kong",
     "merchantName": "香港基督教青年會－港青酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3274,7 +3274,7 @@
   {
     "merchantId": "Ibis_Hong_Kong_Central_&_Sheung_Wan",
     "merchantName": "宜必思香港中上環酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3282,7 +3282,7 @@
   {
     "merchantId": "iclub_Sheung_Wan_Hotel",
     "merchantName": "富薈上環酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3290,7 +3290,7 @@
   {
     "merchantId": "Nina_Hotel_Causeway_Bay",
     "merchantName": "如心銅鑼灣海景酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3298,7 +3298,7 @@
   {
     "merchantId": "Nina_Hotel_Tsuen_Wan_West",
     "merchantName": "荃灣西如心酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3306,7 +3306,7 @@
   {
     "merchantId": "The_T_Hotel",
     "merchantName": "T酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3314,7 +3314,7 @@
   {
     "merchantId": "Marco_Polo_Hongkong_Hotel",
     "merchantName": "香港馬哥孛羅酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3322,7 +3322,7 @@
   {
     "merchantId": "The_Landmark_Mandarin_Oriental_Hong_Kong",
     "merchantName": "香港置地文華東方酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3330,7 +3330,7 @@
   {
     "merchantId": "The_Langham_Hong_Kong",
     "merchantName": "香港朗廷酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3338,7 +3338,7 @@
   {
     "merchantId": "Ovolo_Central",
     "merchantName": "奧華·時尚精品酒店・中環",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3346,7 +3346,7 @@
   {
     "merchantId": "Rosewood_Hong_Kong",
     "merchantName": "香港瑰麗酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3354,7 +3354,7 @@
   {
     "merchantId": "Regent_Hong_Kong",
     "merchantName": "香港麗晶酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3362,7 +3362,7 @@
   {
     "merchantId": "Island_ShangriLa_Hong_Kong",
     "merchantName": "港島香格里拉",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3370,7 +3370,7 @@
   {
     "merchantId": "Lanson_Place_Causeway_Bay_Hong_Kong",
     "merchantName": "香港銅鑼灣蘭心公館",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3378,7 +3378,7 @@
   {
     "merchantId": "Hotel_ICON",
     "merchantName": "唯港薈",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3386,7 +3386,7 @@
   {
     "merchantId": "Eaton_HK",
     "merchantName": "香港逸東酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3394,7 +3394,7 @@
   {
     "merchantId": "The_Murray_Hong_Kong_a_Niccolo_Hotel",
     "merchantName": "香港美利酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3402,7 +3402,7 @@
   {
     "merchantId": "Harbour_Grand_Hong_Kong",
     "merchantName": "港島海逸君綽酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3410,7 +3410,7 @@
   {
     "merchantId": "Harbour_Grand_Kowloon",
     "merchantName": "九龍海逸君綽酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3418,7 +3418,7 @@
   {
     "merchantId": "The_RitzCarlton_Hong_Kong",
     "merchantName": "香港麗思卡爾頓酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3426,7 +3426,7 @@
   {
     "merchantId": "The_Peninsula_Hong_Kong",
     "merchantName": "香港半島酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3434,7 +3434,7 @@
   {
     "merchantId": "Disney_Explorers_Lodge",
     "merchantName": "迪士尼探索家度假酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3442,7 +3442,7 @@
   {
     "merchantId": "Hong_Kong_Disneyland_Hotel",
     "merchantName": "香港迪士尼樂園酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3450,7 +3450,7 @@
   {
     "merchantId": "The_Royal_Garden",
     "merchantName": "帝苑酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3458,7 +3458,7 @@
   {
     "merchantId": "Royal_Plaza_Hotel",
     "merchantName": "帝京酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3466,7 +3466,7 @@
   {
     "merchantId": "Novotel_Century_Hong_Kong",
     "merchantName": "香港諾富特世紀酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3474,7 +3474,7 @@
   {
     "merchantId": "Two_MacDonnell_Road",
     "merchantName": "麥當勞道貳號",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3482,7 +3482,7 @@
   {
     "merchantId": "Fullerton_Ocean_Park_Hotel_Hong_Kong",
     "merchantName": "香港富麗敦海洋公園酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3490,7 +3490,7 @@
   {
     "merchantId": "The_Hari_Hong_Kong",
     "merchantName": "香港夏利酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3498,7 +3498,7 @@
   {
     "merchantId": "EAST_Hong_Kong",
     "merchantName": "香港東隅",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3506,7 +3506,7 @@
   {
     "merchantId": "Hyatt_Centric_Victoria_Harbour_Hong_Kong",
     "merchantName": "香港維港凱悅尚萃酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3514,7 +3514,7 @@
   {
     "merchantId": "InterContinental_Grand_Stanford_Hong_Kong",
     "merchantName": "海景嘉福洲際酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3522,7 +3522,7 @@
   {
     "merchantId": "Sheraton_Hong_Kong_Hotel_&_Towers",
     "merchantName": "香港喜來登酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3530,7 +3530,7 @@
   {
     "merchantId": "W_Hong_Kong",
     "merchantName": "香港W酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3538,7 +3538,7 @@
   {
     "merchantId": "JW_Marriott_Hotel_Hong_Kong",
     "merchantName": "香港JW萬豪酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3546,7 +3546,7 @@
   {
     "merchantId": "Conrad_Hong_Kong",
     "merchantName": "香港港麗酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3554,7 +3554,7 @@
   {
     "merchantId": "Renaissance_Harbour_View_Hotel_Hong_Kong",
     "merchantName": "香港萬麗海景酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3562,7 +3562,7 @@
   {
     "merchantId": "Hyatt_Regency_Hong_Kong_Tsim_Sha_Tsui",
     "merchantName": "香港尖沙咀凱悅酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3570,7 +3570,7 @@
   {
     "merchantId": "Hyatt_Regency_Hong_Kong_Sha_Tin",
     "merchantName": "香港沙田凱悅酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3578,7 +3578,7 @@
   {
     "merchantId": "Courtyard_by_Marriott_Hong_Kong",
     "merchantName": "香港萬怡酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3586,7 +3586,7 @@
   {
     "merchantId": "The_Park_Lane_Hong_Kong_Autograph_Collection",
     "merchantName": "香港柏寧酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3594,7 +3594,7 @@
   {
     "merchantId": "The_Fullerton_Hotel_Hong_Kong",
     "merchantName": "香港富麗敦酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3602,7 +3602,7 @@
   {
     "merchantId": "Kerry_Hotel_Hong_Kong",
     "merchantName": "香港嘉里酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3610,7 +3610,7 @@
   {
     "merchantId": "The_Mira_Hong_Kong",
     "merchantName": "香港美麗華酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3618,7 +3618,7 @@
   {
     "merchantId": "The_Fleming_Hong_Kong",
     "merchantName": "香港芬名酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3626,7 +3626,7 @@
   {
     "merchantId": "TUVE",
     "merchantName": "TUVE",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3634,7 +3634,7 @@
   {
     "merchantId": "The_Pottinger_Hong_Kong",
     "merchantName": "香港石板街酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3642,7 +3642,7 @@
   {
     "merchantId": "99_Bonham",
     "merchantName": "翰林峰99號公寓酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3650,7 +3650,7 @@
   {
     "merchantId": "The_Mercer",
     "merchantName": "尚圜",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3658,7 +3658,7 @@
   {
     "merchantId": "JEN_Hong_Kong_by_ShangriLa",
     "merchantName": "香港JEN酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3666,7 +3666,7 @@
   {
     "merchantId": "Dorsett_Wanchai_Hong_Kong",
     "merchantName": "香港灣仔帝盛酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3674,7 +3674,7 @@
   {
     "merchantId": "Dorsett_Mongkok_Hong_Kong",
     "merchantName": "香港旺角帝盛酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3682,7 +3682,7 @@
   {
     "merchantId": "Dorsett_Kai_Tak",
     "merchantName": "香港啟德帝盛酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3690,7 +3690,7 @@
   {
     "merchantId": "Royal_Pacific_Hotel",
     "merchantName": "皇家太平洋酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3698,7 +3698,7 @@
   {
     "merchantId": "Hotel_Alexandra",
     "merchantName": "歷山酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3706,7 +3706,7 @@
   {
     "merchantId": "The_Arca",
     "merchantName": "雅格酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3714,7 +3714,7 @@
   {
     "merchantId": "ALVA_HOTEL_BY_ROYAL",
     "merchantName": "帝逸酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3722,7 +3722,7 @@
   {
     "merchantId": "Disney's_Hollywood_Hotel",
     "merchantName": "迪士尼好萊塢酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3730,7 +3730,7 @@
   {
     "merchantId": "Auberge_Discovery_Bay_Hong_Kong",
     "merchantName": "香港愉景灣酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3738,7 +3738,7 @@
   {
     "merchantId": "Le_Meridien_Hong_Kong_Cyberport",
     "merchantName": "香港數碼港艾美酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3746,7 +3746,7 @@
   {
     "merchantId": "The_Silveri_Hong_Kong__MGallery",
     "merchantName": "香港銀樾美憬閣精選酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3754,7 +3754,7 @@
   {
     "merchantId": "Hong_Kong_Ocean_Park_Marriott_Hotel",
     "merchantName": "香港海洋公園萬豪酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3762,7 +3762,7 @@
   {
     "merchantId": "The_Emperor_Hotel",
     "merchantName": "英皇駿景酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3770,7 +3770,7 @@
   {
     "merchantId": "B_P_International",
     "merchantName": "龍堡國際",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3778,7 +3778,7 @@
   {
     "merchantId": "Butterfly_on_Wellington",
     "merchantName": "晉逸精品酒店・中環",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3786,7 +3786,7 @@
   {
     "merchantId": "Butterfly_on_Morrison",
     "merchantName": "晉逸精品酒店・銅鑼灣",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3794,7 +3794,7 @@
   {
     "merchantId": "Hotel_Stage",
     "merchantName": "登臺酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3802,7 +3802,7 @@
   {
     "merchantId": "The_Luxe_Manor",
     "merchantName": "帝樂文娜公館",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3810,7 +3810,7 @@
   {
     "merchantId": "Mira_Moon",
     "merchantName": "問月酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3818,7 +3818,7 @@
   {
     "merchantId": "Hotel_Madera_Hong_Kong",
     "merchantName": "木的地酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3826,7 +3826,7 @@
   {
     "merchantId": "The_Perkin_Hotel",
     "merchantName": "珀軒酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3834,7 +3834,7 @@
   {
     "merchantId": "Page148_Page_Hotels",
     "merchantName": "Page148 酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3842,7 +3842,7 @@
   {
     "merchantId": "The_Harbourview",
     "merchantName": "灣景國際",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3850,7 +3850,7 @@
   {
     "merchantId": "Burlington_Hotel",
     "merchantName": "百利酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3858,7 +3858,7 @@
   {
     "merchantId": "iclub_Fortress_Hill_Hotel",
     "merchantName": "富薈炮台山酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3866,7 +3866,7 @@
   {
     "merchantId": "iclub_AMTD_Sheung_Wan_Hotel",
     "merchantName": "富薈尚乘上環酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3874,7 +3874,7 @@
   {
     "merchantId": "Hotel_COZi_Resort",
     "merchantName": "悦品度假酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3882,7 +3882,7 @@
   {
     "merchantId": "Hotel_COZi_Harbour_View",
     "merchantName": "悦品海景酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3890,7 +3890,7 @@
   {
     "merchantId": "Hotel_COZi_Oasis",
     "merchantName": "悦品酒店・荃灣",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3898,7 +3898,7 @@
   {
     "merchantId": "Royal_View_Hotel",
     "merchantName": "帝景酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3906,7 +3906,7 @@
   {
     "merchantId": "Hong_Kong_Gold_Coast_Hotel",
     "merchantName": "香港黃金海岸酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3914,7 +3914,7 @@
   {
     "merchantId": "Bishop_Lei_International_House",
     "merchantName": "主教山莊",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3922,7 +3922,7 @@
   {
     "merchantId": "Bauhinia_Hotel_Central",
     "merchantName": "寶軒酒店（中環）",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3930,7 +3930,7 @@
   {
     "merchantId": "Lan_Kwai_Fong_Hotel_@_Kau_U_Fong",
     "merchantName": "蘭桂坊酒店@九如坊",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3938,7 +3938,7 @@
   {
     "merchantId": "Hotel_Purple_Hong_Kong",
     "merchantName": "香港紫亭酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3946,7 +3946,7 @@
   {
     "merchantId": "Eco_Tree_Hotel",
     "merchantName": "頤庭酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3954,7 +3954,7 @@
   {
     "merchantId": "Y_Loft",
     "merchantName": "青年廣場 Y旅舍",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3962,7 +3962,7 @@
   {
     "merchantId": "Rambler_Garden_Hotel",
     "merchantName": "華逸酒店",
-    "merchantCategory1": null,
+    "merchantCategory1": "Hotel",
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3970,9 +3970,945 @@
   {
     "merchantId": "Rambler_Oasis_Hotel",
     "merchantName": "青逸酒店",
+    "merchantCategory1": "Hotel",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HongKongAirlines",
+    "merchantName": "香港航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": "HKairline",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GreaterBayAirlines",
+    "merchantName": "大灣區航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "China_Airlines",
+    "merchantName": "中華航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "EVA_Air",
+    "merchantName": "長榮航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Air_China",
+    "merchantName": "中國國際航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "China_Eastern_Airlines",
+    "merchantName": "中國東方航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "China_Southern_Airlines",
+    "merchantName": "中國南方航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Singapore_Airlines",
+    "merchantName": "新加坡航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Scoot",
+    "merchantName": "酷航",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Japan_Airlines",
+    "merchantName": "日本航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "ANA_All_Nippon_Airways",
+    "merchantName": "全日空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Korean_Air",
+    "merchantName": "大韓航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Thai_Airways",
+    "merchantName": "泰國國際航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "AirAsia",
+    "merchantName": "亞洲航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Philippine_Airlines",
+    "merchantName": "菲律賓航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Cebu_Pacific",
+    "merchantName": "宿霧太平洋航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Vietnam_Airlines",
+    "merchantName": "越南航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Malaysia_Airlines",
+    "merchantName": "馬來西亞航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Qantas_Airways",
+    "merchantName": "澳洲航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Jetstar_Airways",
+    "merchantName": "捷星航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Emirates",
+    "merchantName": "阿聯酋航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Qatar_Airways",
+    "merchantName": "卡塔爾航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Turkish_Airlines",
+    "merchantName": "土耳其航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "British_Airways",
+    "merchantName": "英國航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "KLM_Royal_Dutch_Airlines",
+    "merchantName": "荷蘭皇家航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Lufthansa",
+    "merchantName": "德國漢莎航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Swiss_International_Air_Lines",
+    "merchantName": "瑞士國際航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Air_Canada",
+    "merchantName": "加拿大航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Delta_Air_Lines",
+    "merchantName": "達美航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "United_Airlines",
+    "merchantName": "美國聯合航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "American_Airlines",
+    "merchantName": "美國航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Bangkok_Airways",
+    "merchantName": "曼谷航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Hainan_Airlines",
+    "merchantName": "海南航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Garuda_Indonesia",
+    "merchantName": "印尼鷹航",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Fiji_Airways",
+    "merchantName": "斐濟航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Asiana_Airlines",
+    "merchantName": "韓亞航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Air_France",
+    "merchantName": "法國航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Austrian_Airlines",
+    "merchantName": "奧地利航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Air_New_Zealand",
+    "merchantName": "紐西蘭航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Saudia",
+    "merchantName": "沙特航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Etihad_Airways",
+    "merchantName": "阿提哈德航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "VietJet_Air",
+    "merchantName": "越南快運航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "STARLUX_Airlines",
+    "merchantName": "星宇航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "RwandAir",
+    "merchantName": "盧旺達航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Ethiopian_Airlines",
+    "merchantName": "埃塞俄比亞航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Egyptair",
+    "merchantName": "埃及航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "LOT_Polish_Airlines",
+    "merchantName": "波蘭航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Ryanair",
+    "merchantName": "瑞安航空",
+    "merchantCategory1": "Airline",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "GreenMinibus",
+    "merchantName": "綠色專線小巴",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": "小巴",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Adidas_Online",
+    "merchantName": "Adidas (網店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Adidas_Branch",
+    "merchantName": "Adidas (分店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Nike_Online",
+    "merchantName": "Nike (網店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Nike_Branch",
+    "merchantName": "Nike (分店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Puma_Online",
+    "merchantName": "Puma (網店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Puma_Branch",
+    "merchantName": "Puma (分店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Under_Armour_Online",
+    "merchantName": "Under Armour (網店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Under_Armour_Branch",
+    "merchantName": "Under Armour (分店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "New_Balance_Online",
+    "merchantName": "New Balance (網店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "New_Balance_Branch",
+    "merchantName": "New Balance (分店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ASICS_Online",
+    "merchantName": "ASICS (網店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ASICS_Branch",
+    "merchantName": "ASICS (分店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Reebok_Online",
+    "merchantName": "Reebok (網店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Reebok_Branch",
+    "merchantName": "Reebok (分店)",
+    "merchantCategory1": "Sports",
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Queen_Mary_Hospital",
+    "merchantName": "瑪麗醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Queen_Elizabeth_Hospital",
+    "merchantName": "伊利沙伯醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Prince_of_Wales_Hospital",
+    "merchantName": "威爾斯親王醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Kwong_Wah_Hospital",
+    "merchantName": "廣華醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Tuen_Mun_Hospital",
+    "merchantName": "屯門醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pamela_Youde_Nethersole_Eastern",
+    "merchantName": "東區尤德夫人那打素醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "United_Christian_Hospital",
+    "merchantName": "聯合醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Princess_Margaret_Hospital",
+    "merchantName": "瑪嘉烈醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Tseung_Kwan_O_Hospital",
+    "merchantName": "將軍澳醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HK_Sanatorium_Hospital",
+    "merchantName": "養和醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Gleneagles_HK_Hospital",
+    "merchantName": "港怡醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HK_Baptist_Hospital",
+    "merchantName": "浸信會醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "St_Pauls_Hospital",
+    "merchantName": "聖保祿醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "St_Teresas_Hospital",
+    "merchantName": "聖德肋撒醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Canossa_Hospital",
+    "merchantName": "嘉諾撒醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Precious_Blood_Hospital",
+    "merchantName": "寶血醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Union_Hospital",
+    "merchantName": "仁安醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HK_Adventist_Hospital",
+    "merchantName": "港安醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CUHK_Medical_Centre",
+    "merchantName": "中大醫院",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mannings_Baby",
+    "merchantName": "萬寧Baby",
     "merchantCategory1": null,
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Mannings_Plus",
+    "merchantName": "萬寧Plus",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ParknShop_Express",
+    "merchantName": "便利佳",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Taobao",
+    "merchantName": "淘寶",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "HBO_Max",
+    "merchantName": "HBO Max",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "HMVOD",
+    "merchantName": "HMVOD",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Viu",
+    "merchantName": "Viu",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Broadway_Circuit_Online",
+    "merchantName": "百老匯院線 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Broadway_Circuit_Branch",
+    "merchantName": "百老匯院線 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cinema_Art_Online",
+    "merchantName": "影藝戲院 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cinema_Art_Branch",
+    "merchantName": "影藝戲院 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cinema_City_Online",
+    "merchantName": "Cinema City院線 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cinema_City_Branch",
+    "merchantName": "Cinema City院線 (現場)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HotdogTIX",
+    "merchantName": "HotdogTIX",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pufei",
+    "merchantName": "撲飛",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Ticketflap",
+    "merchantName": "Ticketflap",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "URBTIX",
+    "merchantName": "城市售票網",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HighSpeedRail_WKS",
+    "merchantName": "高速鐵路 (西九龍站)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": "高鐵",
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Dyson_Online",
+    "merchantName": "Dyson (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Dyson_Branch",
+    "merchantName": "Dyson (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Samsung_Online",
+    "merchantName": "Samsung (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Samsung_Branch",
+    "merchantName": "Samsung (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sony_Online",
+    "merchantName": "Sony (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Sony_Branch",
+    "merchantName": "Sony (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Logitech_Online",
+    "merchantName": "Logitech (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Logitech_Branch",
+    "merchantName": "Logitech (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Razer_Online",
+    "merchantName": "Razer (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Razer_Branch",
+    "merchantName": "Razer (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "FINEPRINT_Online",
+    "merchantName": "FINEPRINT (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "FINEPRINT_Branch",
+    "merchantName": "FINEPRINT (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "AMEX_Insurance",
+    "merchantName": "美國運通保險服務",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "foodpanda",
+    "merchantName": "FoodPanda",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "iHerb",
+    "merchantName": "iHerb",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Apple_Store_Online",
+    "merchantName": "Apple (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Apple_Store_Branch",
+    "merchantName": "Apple (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": true
   }
 ]
