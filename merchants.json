@@ -4910,5 +4910,541 @@
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "LungFung_Branch",
+    "merchantName": "龍豐藥業 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "LungFung_Online",
+    "merchantName": "龍豐藥業 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "PizzaHut_Branch",
+    "merchantName": "Pizza Hut (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "PizzaHut_Online",
+    "merchantName": "Pizza Hut (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "PHD_Online",
+    "merchantName": "PHD",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "KFC_Branch",
+    "merchantName": "KFC (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "KFC_Online",
+    "merchantName": "KFC (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Dondon_Branch",
+    "merchantName": "丼丼屋",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Uosho_Branch",
+    "merchantName": "魚尚",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GNC_Branch",
+    "merchantName": "GNC (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "GNC_Online",
+    "merchantName": "GNC (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Cuiyuan_Branch",
+    "merchantName": "翠園",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Palace_Branch",
+    "merchantName": "美心皇宮",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Bayuehua_Branch",
+    "merchantName": "八月花",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Cuiyuxuan_Branch",
+    "merchantName": "翠玉軒",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Ziyulan_Branch",
+    "merchantName": "紫玉蘭",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Chaojiangchun_Branch",
+    "merchantName": "潮江春",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Chaoting_Branch",
+    "merchantName": "潮庭",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Beijinglou_Branch",
+    "merchantName": "北京樓",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_ChengzhongYazi_Branch",
+    "merchantName": "城中鴨子",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_MeizhongYazi_Branch",
+    "merchantName": "美中鴨子",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_CanLah_Branch",
+    "merchantName": "Can Lah",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Bistrocity_Branch",
+    "merchantName": "bistrocity",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_ELuGong_Branch",
+    "merchantName": "鵝鹵宮",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_CafeLandmark_Branch",
+    "merchantName": "Café Landmark",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_MUSES_Branch",
+    "merchantName": "MUSES",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_WildfirePizzabar_Branch",
+    "merchantName": "Wildfire Pizzabar",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_SimplyLifeBakery_Branch",
+    "merchantName": "simplylife BAKERY CAFÉ",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_SimplyLifeFoodplace_Branch",
+    "merchantName": "simplylife FOODPLACE",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_KikuSan_Branch",
+    "merchantName": "吉谷舍",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_AndYou_Branch",
+    "merchantName": "&YOU",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_AndBtr_Branch",
+    "merchantName": "&btR",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_AndTmr_Branch",
+    "merchantName": "&tmR",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_ThaiBasil_Branch",
+    "merchantName": "THAI BASIL",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_EXP_Branch",
+    "merchantName": "EXP",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Pudian_Branch",
+    "merchantName": "葡點",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Minggu_Branch",
+    "merchantName": "明谷",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Hongkongdi_Branch",
+    "merchantName": "香港地",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_MX_Branch",
+    "merchantName": "美心MX",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_CanTeen_Branch",
+    "merchantName": "can.teen",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_DeliO_Branch",
+    "merchantName": "Deli-O",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_FoodSquared_Branch",
+    "merchantName": "Maxim's Food²",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Maxims_Bakery_Branch",
+    "merchantName": "美心麵包西餅店",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Paws_In_Motion_Online",
+    "merchantName": "Paws in Motion",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pop_Mart_Online",
+    "merchantName": "Pop Mart (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pop_Mart_Branch",
+    "merchantName": "Pop Mart (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cafe_de_Coral_Online",
+    "merchantName": "大家樂 (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Cafe_de_Coral_Branch",
+    "merchantName": "大家樂 (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "OpenRice_Online",
+    "merchantName": "OpenRice",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Medtimes_Online",
+    "merchantName": "時代醫療 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Medtimes_Branch",
+    "merchantName": "時代醫療 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Quan_Yan_Medical_Online",
+    "merchantName": "全仁醫務中心",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HKIMQAA_Online",
+    "merchantName": "香港國際專業體檢協會",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Chow_Sang_Sang_Online",
+    "merchantName": "周生生 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Chow_Sang_Sang_Branch",
+    "merchantName": "周生生 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Disney_Online",
+    "merchantName": "迪士尼樂園 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Disney_Branch",
+    "merchantName": "迪士尼樂園 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "OceanPark_Online",
+    "merchantName": "海洋公園 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "OceanPark_Branch",
+    "merchantName": "海洋公園 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "City_Chain_Online",
+    "merchantName": "時間廊 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "City_Chain_Branch",
+    "merchantName": "時間廊 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pacific_Coffee_Online",
+    "merchantName": "Pacific Coffee (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pacific_Coffee_Branch",
+    "merchantName": "Pacific Coffee (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Fairwood_Online",
+    "merchantName": "大快活 (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Fairwood_Branch",
+    "merchantName": "大快活 (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Nam_Kee_Online",
+    "merchantName": "南記粉麵 (網購)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Nam_Kee_Branch",
+    "merchantName": "南記粉麵 (門店)",
+    "merchantCategory1": "Dining",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
   }
 ]
