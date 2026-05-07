@@ -5446,5 +5446,45 @@
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Fila_Online",
+    "merchantName": "Fila (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Fila_Branch",
+    "merchantName": "Fila (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MatsumotoKiyoshi_Online",
+    "merchantName": "松本清香港 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MatsumotoKiyoshi_Branch",
+    "merchantName": "松本清香港 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "TokyoLifestyle_Branch",
+    "merchantName": "東京生活館",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
   }
 ]
