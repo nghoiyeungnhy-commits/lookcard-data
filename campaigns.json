@@ -31,7 +31,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Red_Online",
@@ -65,7 +66,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -99,7 +101,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -133,7 +136,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -167,7 +171,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -201,7 +206,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -235,7 +241,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -269,7 +276,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -303,7 +311,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -337,7 +346,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -371,7 +381,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -405,7 +416,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_EveryMile_Oversea",
@@ -439,7 +451,8 @@
     "campaignRegistrationDetails": "滙豐Reward+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HSBC_EveryMile_Designated",
@@ -473,7 +486,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -507,7 +521,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -541,7 +556,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -575,7 +591,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -609,7 +626,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -643,7 +661,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -677,7 +696,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -711,7 +731,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -745,7 +766,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -779,7 +801,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -813,7 +836,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -847,7 +871,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -881,7 +906,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -915,7 +941,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -949,7 +976,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/rewards/?productName=TRAVELPLUS-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_5pct_Sig",
@@ -983,7 +1011,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_5pct_Sig",
@@ -1017,7 +1046,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_5pct_Sig",
@@ -1051,7 +1081,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_5pct_Plat",
@@ -1085,7 +1116,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_5pct_Plat",
@@ -1119,7 +1151,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_5pct_Plat",
@@ -1153,7 +1186,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_1pct_Sig",
@@ -1187,7 +1221,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_1pct_Plat",
@@ -1221,7 +1256,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_5pct_Sig",
@@ -1255,7 +1291,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "DBS_Eminent_5pct_Plat",
@@ -1289,7 +1326,8 @@
     "campaignRegistrationDetails": "DBS Card+",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
@@ -1323,7 +1361,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
@@ -1357,7 +1396,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
@@ -1391,7 +1431,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AMEX_Platinum_9xOversea",
@@ -1425,7 +1466,8 @@
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkbonusplatmracc9x25&channel=IBW&locale=zh-HK",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AMEX_Platinum_9xTravel",
@@ -1459,7 +1501,8 @@
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkbonusplatmracc9x25&channel=IBW&locale=zh-HK",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AMEX_Platinum_9xDaily",
@@ -1493,7 +1536,8 @@
     "campaignRegistrationDetails": "https://global.americanexpress.com/enrollments/oletenroll?campaignId=hkbonusplatmracc9x25&channel=IBW&locale=zh-HK",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_MMPOWER_FunDollars",
@@ -1527,7 +1571,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/everydayreward/?productName=MMPOWER-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_MMPOWER_FunDollars",
@@ -1561,7 +1606,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/everydayreward/?productName=MMPOWER-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_MMPOWER_FunDollars",
@@ -1595,7 +1641,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/everydayreward/?productName=MMPOWER-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "HangSeng_MMPOWER_FunDollars",
@@ -1629,7 +1676,8 @@
     "campaignRegistrationDetails": "https://www.hangseng.com/zh-hk/personal/cards/products/everydayreward/?productName=MMPOWER-card",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Cheers_Infinite_Campaign",
@@ -1663,7 +1711,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Cheers_Infinite_Campaign",
@@ -1697,7 +1746,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Cheers_Signature_Campaign",
@@ -1731,7 +1781,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Cheers_Signature_Campaign",
@@ -1765,7 +1816,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_SOGO_Signature_MobilePay",
@@ -1799,7 +1851,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_GO_Campaign",
@@ -1833,7 +1886,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_GO_Mobile_Diamond",
@@ -1867,7 +1921,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_GO_Mobile_Platinum",
@@ -1901,7 +1956,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "SCB_Cathay_Selected",
@@ -1935,7 +1991,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "SCB_Cathay_Selected",
@@ -1969,7 +2026,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "SCB_Cathay_Selected",
@@ -2003,7 +2061,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "SCB_Cathay_Priority_Selected",
@@ -2037,7 +2096,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "SCB_Cathay_Priority_Selected",
@@ -2071,7 +2131,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "SCB_Cathay_Priority_Selected",
@@ -2105,7 +2166,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "SCB_Cathay_Private_Selected",
@@ -2139,7 +2201,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "SCB_Cathay_Private_Selected",
@@ -2173,7 +2236,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "SCB_Cathay_Private_Selected",
@@ -2207,7 +2271,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Chill_World_Campaign",
@@ -2241,7 +2306,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Chill_World_Campaign",
@@ -2275,7 +2341,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Chill_World_Campaign",
@@ -2309,7 +2376,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Chill_Platinum_Campaign",
@@ -2343,7 +2411,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Chill_Platinum_Campaign",
@@ -2377,7 +2446,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Chill_Platinum_Campaign",
@@ -2411,7 +2481,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AEON_Purple_Dining",
@@ -2445,7 +2516,8 @@
     "campaignRegistrationDetails": "「AEON HK」手機App",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AEON_Purple_AEONStore",
@@ -2479,7 +2551,8 @@
     "campaignRegistrationDetails": "「AEON HK」手機App",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AEON_Purple_Transport",
@@ -2513,7 +2586,8 @@
     "campaignRegistrationDetails": "「AEON HK」手機App",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AEON_Purple_AEONStore_Base",
@@ -2547,7 +2621,8 @@
     "campaignRegistrationDetails": "「AEON HK」手機App",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AMEX_Explorer_10.75xOversea",
@@ -2581,7 +2656,8 @@
     "campaignRegistrationDetails": "https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/?extlink=HO-Email-null-fx-spend-zh",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AMEX_Explorer_10.75xTravel",
@@ -2615,7 +2691,8 @@
     "campaignRegistrationDetails": "https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/?extlink=HO-Email-null-fx-spend-zh",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AMEX_Explorer_3.75xOversea",
@@ -2649,7 +2726,8 @@
     "campaignRegistrationDetails": "https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/?extlink=HO-Email-null-fx-spend-zh",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AMEX_Explorer_3.75xTravel",
@@ -2683,7 +2761,8 @@
     "campaignRegistrationDetails": "https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/?extlink=HO-Email-null-fx-spend-zh",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "AMEX_Explorer_5xOnline",
@@ -2717,7 +2796,8 @@
     "campaignRegistrationDetails": "https://www.americanexpress.com/zh-hk/benefits/offers/shopping/5x-offer/",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Bliss_Campaign_Online",
@@ -2751,7 +2831,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_Bliss_Campaign_Designated",
@@ -2785,7 +2866,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Sim_Wellness_2025",
@@ -2819,7 +2901,8 @@
     "campaignRegistrationDetails": "https://thesim.com/tc/campaign/SIMPLY_WELLNESS_REWARDS_2025",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Sim_Wellness_2025",
@@ -2853,7 +2936,8 @@
     "campaignRegistrationDetails": "https://thesim.com/tc/campaign/SIMPLY_WELLNESS_REWARDS_2025",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Sim_LF_Cashback_2026",
@@ -2887,7 +2971,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Citi_Cash Back_Campaign",
@@ -2921,7 +3006,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Citi_Cash Back_Campaign",
@@ -2955,7 +3041,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Citi_Cash Back_Campaign",
@@ -2989,7 +3076,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Citi_Premier Miles_Campaign",
@@ -3023,7 +3111,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Citi_Premier Miles_Campaign",
@@ -3057,7 +3146,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Prime Credit_EarnMORE_Campaign",
@@ -3091,7 +3181,8 @@
     "campaignRegistrationDetails": null,
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Hang_Seng_enJoy_YUU",
@@ -3125,7 +3216,8 @@
     "campaignRegistrationDetails": "YUU",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Hang_Seng_enJoy_YUU",
@@ -3159,7 +3251,8 @@
     "campaignRegistrationDetails": "YUU",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Citi_Octopus_Campaign_TierA",
@@ -3193,7 +3286,8 @@
     "campaignRegistrationDetails": "https://www.citibank.com.hk/form/cards/octopus/multi-transport/chi/registration-form.html",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Citi_Octopus_Campaign_TierB",
@@ -3227,7 +3321,8 @@
     "campaignRegistrationDetails": "https://www.citibank.com.hk/form/cards/octopus/multi-transport/chi/registration-form.html",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "Citi_Octopus_Campaign_TierB",
@@ -3261,7 +3356,8 @@
     "campaignRegistrationDetails": "https://www.citibank.com.hk/form/cards/octopus/multi-transport/chi/registration-form.html",
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_RED",
@@ -3295,7 +3391,8 @@
     "campaignRegistrationDetails": "BOC Pay+",
     "campaignWeek": "Sun",
     "campaignDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_RED",
@@ -3329,7 +3426,8 @@
     "campaignRegistrationDetails": "BOC Pay+",
     "campaignWeek": "Sun",
     "campaignDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_RED",
@@ -3363,7 +3461,8 @@
     "campaignRegistrationDetails": "BOC Pay+",
     "campaignWeek": "Sun",
     "campaignDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
-    "campaignExcludeDay": "ALL"
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_WKDY",
@@ -3397,7 +3496,8 @@
     "campaignRegistrationDetails": "BOC Pay+",
     "campaignWeek": "Mon,Tue,Wed,Thu,Fri,Sat",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28"
+    "campaignExcludeDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_WKDY",
@@ -3431,7 +3531,8 @@
     "campaignRegistrationDetails": "BOC Pay+",
     "campaignWeek": "Mon,Tue,Wed,Thu,Fri,Sat",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28"
+    "campaignExcludeDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
+    "campaignNonOnlineMin": 0.0
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_WKDY",
@@ -3465,6 +3566,287 @@
     "campaignRegistrationDetails": "BOC Pay+",
     "campaignWeek": "Mon,Tue,Wed,Thu,Fri,Sat",
     "campaignDay": "ALL",
-    "campaignExcludeDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28"
+    "campaignExcludeDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
+    "campaignNonOnlineMin": 0.0
+  },
+  {
+    "campaignId": "Sim_CashBack_2026",
+    "campaignSubId": "Sim_CashBack_2026_Online",
+    "campaignDisplayGroup": "Sim 現金回贈優惠",
+    "campaignDisplayName": "網上簽賬8%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Sim_Sim",
+    "campaignEligibleCategory": "Online",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-05-01",
+    "campaignEndDate": "2026-09-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 2500.0,
+    "campaignCardMin": 0.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 500.0,
+    "campaignTxMax": 2500.0,
+    "campaignRebateCash": 0.08,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 0,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 1000.0
+  },
+  {
+    "campaignId": "Sim_CashBack_2026",
+    "campaignSubId": "Sim_CashBack_2026_Transport",
+    "campaignDisplayGroup": "Sim 現金回贈優惠",
+    "campaignDisplayName": "本地交通8%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Sim_Sim",
+    "campaignEligibleCategory": null,
+    "campaignEligibleMerchants": "Citybus,KMB,LWB,MTR_Except_Airport,Tram,Starferry",
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-05-01",
+    "campaignEndDate": "2026-09-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 2500.0,
+    "campaignCardMin": 0.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 2500.0,
+    "campaignRebateCash": 0.08,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "HKD",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 0,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 1000.0
+  },
+  {
+    "campaignId": "Sim_CashBack_2026",
+    "campaignSubId": "Sim_CashBack_2026_Merchant",
+    "campaignDisplayGroup": "Sim 現金回贈優惠",
+    "campaignDisplayName": "指定商戶3%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Sim_Sim",
+    "campaignEligibleCategory": null,
+    "campaignEligibleMerchants": "Adidas_Branch,Puma_Branch,Fila_Branch,MatsumotoKiyoshi_Branch,TokyoLifestyle_Branch",
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-05-01",
+    "campaignEndDate": "2026-09-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 6667.0,
+    "campaignCardMin": 0.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 6667.0,
+    "campaignRebateCash": 0.03,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "HKD",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 0,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 1000.0
+  },
+  {
+    "campaignId": "Sim_CashBack_2026",
+    "campaignSubId": "Sim_CashBack_2026_Base",
+    "campaignDisplayGroup": "Sim 現金回贈優惠",
+    "campaignDisplayName": "其他簽賬0.4%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 2,
+    "campaignEligibleCard": "Sim_Sim",
+    "campaignEligibleCategory": "ALL",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-05-01",
+    "campaignEndDate": "2026-09-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 50000.0,
+    "campaignCardMin": 0.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 50000.0,
+    "campaignRebateCash": 0.004,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 0,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
+  },
+  {
+    "campaignId": "Mox_Supermarket",
+    "campaignSubId": "Mox_Supermarket",
+    "campaignDisplayGroup": "超市現金回贈",
+    "campaignDisplayName": "超市簽賬3%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Mox_Mox (Cash）",
+    "campaignEligibleCategory": "Supermarket",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2025-05-09",
+    "campaignEndDate": "2027-05-08",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 999999.0,
+    "campaignCardMin": 0.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 999999.0,
+    "campaignRebateCash": 0.03,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignRebateCap": null,
+    "campaignVs": null,
+    "campaignBaseSeniority": 0,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
+  },
+  {
+    "campaignId": "Mox_Salary_Base",
+    "campaignSubId": "Mox_Salary_Base",
+    "campaignDisplayGroup": "無上限現金回贈",
+    "campaignDisplayName": "指定簽賬2%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 2,
+    "campaignEligibleCard": "Mox_Mox (Cash）",
+    "campaignEligibleCategory": "ALL",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2025-12-01",
+    "campaignEndDate": "2027-11-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 999999.0,
+    "campaignCardMin": 0.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 999999.0,
+    "campaignRebateCash": 0.02,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignRebateCap": null,
+    "campaignVs": null,
+    "campaignBaseSeniority": 0,
+    "campaignMOX": true,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
+  },
+  {
+    "campaignId": "Mox_Miles_Phase1",
+    "campaignSubId": "Mox_Miles_Phase1",
+    "campaignDisplayGroup": "亞洲萬里通簽賬獎賞",
+    "campaignDisplayName": "任何簽賬HK$4=1里",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Mox_Mox (Miles）",
+    "campaignEligibleCategory": "ALL",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-04-02",
+    "campaignEndDate": "2026-06-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 999999.0,
+    "campaignCardMin": 0.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 999999.0,
+    "campaignRebateCash": 0.0,
+    "campaignRebateMiles": 0.25,
+    "campaignFx": "ALL",
+    "campaignRebateCap": null,
+    "campaignVs": null,
+    "campaignBaseSeniority": 0,
+    "campaignMOX": true,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
+  },
+  {
+    "campaignId": "Mox_Miles_Phase2",
+    "campaignSubId": "Mox_Miles_Phase2",
+    "campaignDisplayGroup": "亞洲萬里通簽賬獎賞",
+    "campaignDisplayName": "任何簽賬HK$5=1里",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Mox_Mox (Miles）",
+    "campaignEligibleCategory": "ALL",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2026-07-01",
+    "campaignEndDate": "2027-06-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 999999.0,
+    "campaignCardMin": 0.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 999999.0,
+    "campaignRebateCash": 0.0,
+    "campaignRebateMiles": 0.2,
+    "campaignFx": "ALL",
+    "campaignRebateCap": null,
+    "campaignVs": null,
+    "campaignBaseSeniority": 0,
+    "campaignMOX": true,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0
   }
 ]
