@@ -5486,5 +5486,117 @@
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "MYTV_Super",
+    "merchantName": "myTV SUPER",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Patreon",
+    "merchantName": "Patreon",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Steam",
+    "merchantName": "Steam",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Xbox",
+    "merchantName": "Xbox",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hong_Thai_Online",
+    "merchantName": "康泰旅行社 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hong_Thai_Branch",
+    "merchantName": "康泰旅行社 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "EGL_Online",
+    "merchantName": "東瀛遊 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "EGL_Branch",
+    "merchantName": "東瀛遊 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Goldjoy_Online",
+    "merchantName": "金怡假期 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Goldjoy_Branch",
+    "merchantName": "金怡假期 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Morning_Star_Online",
+    "merchantName": "晨星旅遊 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Jetour",
+    "merchantName": "捷旅",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pacific_Holiday_Online",
+    "merchantName": "太平洋假期 (網購)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pacific_Holiday_Branch",
+    "merchantName": "太平洋假期 (門店)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
   }
 ]

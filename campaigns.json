@@ -32,7 +32,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Red_Online",
@@ -67,7 +68,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -102,7 +104,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -137,7 +140,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -172,7 +176,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -207,7 +212,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice_VS",
@@ -242,7 +248,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -277,7 +284,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -312,7 +320,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -347,7 +356,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -382,7 +392,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_Your_Choice",
@@ -417,7 +428,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_EveryMile_Oversea",
@@ -452,7 +464,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HSBC_EveryMile_Designated",
@@ -487,7 +500,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -522,7 +536,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -557,7 +572,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -592,7 +608,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -627,7 +644,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -662,7 +680,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -697,7 +716,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -732,7 +752,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -767,7 +788,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -802,7 +824,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -837,7 +860,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -872,7 +896,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -907,7 +932,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -942,7 +968,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_TravelPlus_FunDollars",
@@ -977,7 +1004,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_5pct_Sig",
@@ -1012,7 +1040,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_5pct_Sig",
@@ -1047,7 +1076,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_5pct_Sig",
@@ -1082,7 +1112,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_5pct_Plat",
@@ -1117,7 +1148,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_5pct_Plat",
@@ -1152,7 +1184,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_5pct_Plat",
@@ -1187,7 +1220,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_1pct_Sig",
@@ -1222,7 +1256,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_1pct_Plat",
@@ -1257,7 +1292,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_5pct_Sig",
@@ -1292,7 +1328,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "DBS_Eminent_5pct_Plat",
@@ -1327,7 +1364,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
@@ -1362,7 +1400,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
@@ -1397,7 +1436,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AEON_WAKUWAKU_Campaign",
@@ -1432,7 +1472,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AMEX_Platinum_9xOversea",
@@ -1467,7 +1508,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AMEX_Platinum_9xTravel",
@@ -1502,7 +1544,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AMEX_Platinum_9xDaily",
@@ -1537,7 +1580,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_MMPOWER_FunDollars",
@@ -1572,7 +1616,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_MMPOWER_FunDollars",
@@ -1607,7 +1652,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_MMPOWER_FunDollars",
@@ -1642,7 +1688,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "HangSeng_MMPOWER_FunDollars",
@@ -1677,7 +1724,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Cheers_Infinite_Campaign",
@@ -1712,7 +1760,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Cheers_Infinite_Campaign",
@@ -1747,7 +1796,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Cheers_Signature_Campaign",
@@ -1782,7 +1832,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Cheers_Signature_Campaign",
@@ -1817,7 +1868,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_SOGO_Signature_MobilePay",
@@ -1852,7 +1904,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_GO_Campaign",
@@ -1887,7 +1940,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_GO_Mobile_Diamond",
@@ -1922,7 +1976,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_GO_Mobile_Platinum",
@@ -1957,7 +2012,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "SCB_Cathay_Selected",
@@ -1992,7 +2048,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "SCB_Cathay_Selected",
@@ -2027,7 +2084,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "SCB_Cathay_Selected",
@@ -2062,7 +2120,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "SCB_Cathay_Priority_Selected",
@@ -2097,7 +2156,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "SCB_Cathay_Priority_Selected",
@@ -2132,7 +2192,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "SCB_Cathay_Priority_Selected",
@@ -2167,7 +2228,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "SCB_Cathay_Private_Selected",
@@ -2202,7 +2264,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "SCB_Cathay_Private_Selected",
@@ -2237,7 +2300,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "SCB_Cathay_Private_Selected",
@@ -2272,7 +2336,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Chill_World_Campaign",
@@ -2307,7 +2372,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Chill_World_Campaign",
@@ -2342,7 +2408,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Chill_World_Campaign",
@@ -2377,7 +2444,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Chill_Platinum_Campaign",
@@ -2412,7 +2480,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Chill_Platinum_Campaign",
@@ -2447,7 +2516,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Chill_Platinum_Campaign",
@@ -2482,7 +2552,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AEON_Purple_Dining",
@@ -2517,7 +2588,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AEON_Purple_AEONStore",
@@ -2552,7 +2624,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AEON_Purple_Transport",
@@ -2587,7 +2660,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AEON_Purple_AEONStore_Base",
@@ -2622,7 +2696,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AMEX_Explorer_10.75xOversea",
@@ -2657,7 +2732,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AMEX_Explorer_10.75xTravel",
@@ -2692,7 +2768,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AMEX_Explorer_3.75xOversea",
@@ -2727,7 +2804,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AMEX_Explorer_3.75xTravel",
@@ -2762,7 +2840,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "AMEX_Explorer_5xOnline",
@@ -2797,7 +2876,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Bliss_Campaign_Online",
@@ -2832,7 +2912,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_Bliss_Campaign_Designated",
@@ -2867,7 +2948,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Sim_Wellness_2025",
@@ -2902,7 +2984,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Sim_Wellness_2025",
@@ -2937,7 +3020,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Sim_LF_Cashback_2026",
@@ -2972,7 +3056,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Citi_Cash Back_Campaign",
@@ -3007,7 +3092,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Citi_Cash Back_Campaign",
@@ -3042,7 +3128,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Citi_Cash Back_Campaign",
@@ -3077,7 +3164,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Citi_Premier Miles_Campaign",
@@ -3112,7 +3200,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Citi_Premier Miles_Campaign",
@@ -3147,7 +3236,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Prime Credit_EarnMORE_Campaign",
@@ -3182,7 +3272,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Hang_Seng_enJoy_YUU",
@@ -3217,7 +3308,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Hang_Seng_enJoy_YUU",
@@ -3252,7 +3344,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Citi_Octopus_Campaign_TierA",
@@ -3287,7 +3380,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Citi_Octopus_Campaign_TierB",
@@ -3322,7 +3416,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Citi_Octopus_Campaign_TierB",
@@ -3357,7 +3452,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_RED",
@@ -3392,7 +3488,8 @@
     "campaignWeek": "Sun",
     "campaignDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_RED",
@@ -3427,7 +3524,8 @@
     "campaignWeek": "Sun",
     "campaignDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_RED",
@@ -3462,7 +3560,8 @@
     "campaignWeek": "Sun",
     "campaignDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_WKDY",
@@ -3497,7 +3596,8 @@
     "campaignWeek": "Mon,Tue,Wed,Thu,Fri,Sat",
     "campaignDay": "ALL",
     "campaignExcludeDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_WKDY",
@@ -3532,7 +3632,8 @@
     "campaignWeek": "Mon,Tue,Wed,Thu,Fri,Sat",
     "campaignDay": "ALL",
     "campaignExcludeDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "BOC_KUANGSHANG_ONLINE_WKDY",
@@ -3567,7 +3668,8 @@
     "campaignWeek": "Mon,Tue,Wed,Thu,Fri,Sat",
     "campaignDay": "ALL",
     "campaignExcludeDay": "2026-01-01,2026-01-04,2026-01-11,2026-01-18,2026-01-25,2026-02-01,2026-02-08,2026-02-14,2026-02-15,2026-02-17,2026-02-18,2026-02-19,2026-02-22,2026-03-01,2026-03-08,2026-03-14,2026-03-15,2026-03-22,2026-03-29,2026-04-03,2026-04-04,2026-04-05,2026-04-06,2026-04-07,2026-04-11,2026-04-12,2026-04-19,2026-04-26,2026-05-01,2026-05-03,2026-05-10,2026-05-17,2026-05-24,2026-05-25,2026-05-31,2026-06-07,2026-06-14,2026-06-19,2026-06-21,2026-06-28",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Sim_CashBack_2026",
@@ -3602,7 +3704,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 1000.0
+    "campaignNonOnlineMin": 1000.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Sim_CashBack_2026",
@@ -3637,7 +3740,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 1000.0
+    "campaignNonOnlineMin": 1000.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Sim_CashBack_2026",
@@ -3672,7 +3776,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 1000.0
+    "campaignNonOnlineMin": 1000.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Sim_CashBack_2026",
@@ -3707,7 +3812,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Mox_Supermarket",
@@ -3742,7 +3848,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Mox_Salary_Base",
@@ -3777,7 +3884,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Mox_Miles_Phase1",
@@ -3812,7 +3920,8 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
   },
   {
     "campaignId": "Mox_Miles_Phase2",
@@ -3847,6 +3956,223 @@
     "campaignWeek": "ALL",
     "campaignDay": "ALL",
     "campaignExcludeDay": "ALL",
-    "campaignNonOnlineMin": 0.0
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": null
+  },
+  {
+    "campaignId": "WeWa_4Percent_2025",
+    "campaignSubId": "WeWa_ApplePay",
+    "campaignDisplayGroup": "WeWa指定類別4%回贈",
+    "campaignDisplayName": "手機支付4%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Prime Credit_WeWa",
+    "campaignEligibleCategory": "ApplePay",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2025-07-01",
+    "campaignEndDate": "2026-06-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 5555.56,
+    "campaignCardMin": 1500.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 5556.0,
+    "campaignRebateCash": 0.036,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 1,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": "ApplePay"
+  },
+  {
+    "campaignId": "WeWa_4Percent_2025",
+    "campaignSubId": "WeWa_Travel_Air",
+    "campaignDisplayGroup": "WeWa指定類別4%回贈",
+    "campaignDisplayName": "航空公司4%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Prime Credit_WeWa",
+    "campaignEligibleCategory": "Airline",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2025-07-01",
+    "campaignEndDate": "2026-06-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 5555.56,
+    "campaignCardMin": 1500.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 5556.0,
+    "campaignRebateCash": 0.036,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 1,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": "Travel"
+  },
+  {
+    "campaignId": "WeWa_4Percent_2025",
+    "campaignSubId": "WeWa_Travel_Hotel",
+    "campaignDisplayGroup": "WeWa指定類別4%回贈",
+    "campaignDisplayName": "酒店住宿4%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Prime Credit_WeWa",
+    "campaignEligibleCategory": "Hotel",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2025-07-01",
+    "campaignEndDate": "2026-06-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 5555.56,
+    "campaignCardMin": 1500.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 5556.0,
+    "campaignRebateCash": 0.036,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 1,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": "Travel"
+  },
+  {
+    "campaignId": "WeWa_4Percent_2025",
+    "campaignSubId": "WeWa_Travel_Agency",
+    "campaignDisplayGroup": "WeWa指定類別4%回贈",
+    "campaignDisplayName": "旅行社4%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Prime Credit_WeWa",
+    "campaignEligibleCategory": null,
+    "campaignEligibleMerchants": "CTSHK_Online,CTSHK_Branch,EEBUS,Miramar_Travel_Online,Miramar_Travel_Branch,Sunflower_Travel_Online,Sunflower_Travel_Branch,Wingon_Travel_Online,Wingon_Travel_Branch,YMT_Travel,Hong_Thai_Online,Hong_Thai_Branch,EGL_Online,EGL_Branch,Goldjoy_Online,Goldjoy_Branch,Morning_Star_Online,Jetour,Pacific_Holiday_Online,Pacific_Holiday_Branch",
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2025-07-01",
+    "campaignEndDate": "2026-06-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 5555.56,
+    "campaignCardMin": 1500.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 5556.0,
+    "campaignRebateCash": 0.036,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 1,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": "Travel"
+  },
+  {
+    "campaignId": "WeWa_4Percent_2025",
+    "campaignSubId": "WeWa_Oversea",
+    "campaignDisplayGroup": "WeWa指定類別4%回贈",
+    "campaignDisplayName": "海外簽賬4%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Prime Credit_WeWa",
+    "campaignEligibleCategory": "Oversea",
+    "campaignEligibleMerchants": null,
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2025-07-01",
+    "campaignEndDate": "2026-06-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 5555.56,
+    "campaignCardMin": 1500.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 5556.0,
+    "campaignRebateCash": 0.036,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "NON_HKD",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 1,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": "Oversea"
+  },
+  {
+    "campaignId": "WeWa_4Percent_2025",
+    "campaignSubId": "WeWa_Streaming",
+    "campaignDisplayGroup": "WeWa指定類別4%回贈",
+    "campaignDisplayName": "指定網上娛樂4%回贈",
+    "campaignMasterflag": true,
+    "campaignSeniority": 1,
+    "campaignEligibleCard": "Prime Credit_WeWa",
+    "campaignEligibleCategory": null,
+    "campaignEligibleMerchants": "App_Store,Disney_Plus,Google_Play,JOOX,KKBOX,MYTV_Super,Netflix,Nintendo,Patreon,Playstation,Spotify,Steam,Xbox,YouTube",
+    "campaignFrequency": 1,
+    "campaignCalendar": 0,
+    "campaignStartDate": "2025-07-01",
+    "campaignEndDate": "2026-06-30",
+    "campaignTotalMin": 0.0,
+    "campaignTotalMax": 5555.56,
+    "campaignCardMin": 1500.0,
+    "campaignBankMin": 0.0,
+    "campaignTxMin": 0.0,
+    "campaignTxMax": 5556.0,
+    "campaignRebateCash": 0.036,
+    "campaignRebateMiles": 0.0,
+    "campaignFx": "ALL",
+    "campaignRebateCap": 200.0,
+    "campaignVs": null,
+    "campaignBaseSeniority": 1,
+    "campaignMOX": false,
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
+    "campaignWeek": "ALL",
+    "campaignDay": "ALL",
+    "campaignExcludeDay": "ALL",
+    "campaignNonOnlineMin": 0.0,
+    "campaignWewaOption": "Streaming"
   }
 ]
