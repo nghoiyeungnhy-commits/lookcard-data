@@ -11,7 +11,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "WAKU COIN",
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2895 6262，按 0＞客戶服務"
   },
   {
     "cardId": "AEON_Purple",
@@ -25,21 +27,25 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "AEON積分",
-    "cardMilesBase": 0.032
+    "cardMilesBase": 0.032,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2895 6262，按 0＞客戶服務"
   },
   {
     "cardId": "AMEX_Platinum",
     "cardBank": "AMEX",
     "cardName": "Platinum",
     "cardNetwork": "AmericanExpress",
-    "cardCbf": 0.01,
+    "cardCbf": 0.0,
     "cardDcc": 0.02,
     "cardAnnualFee": 9500.0,
     "cardCap": 999999.0,
     "cardCashBase": 0.00333333,
     "cardPointsBase": 300.0,
     "cardPointsUnit": "美國運通積分",
-    "cardMilesBase": 0.05555556
+    "cardMilesBase": 0.05555556,
+    "cardAnnualFeeWaivable": false,
+    "cardAnnualFeeWaiveMethod": "致電 2277 1010，按 信用卡15位號碼＞0＞客戶服務"
   },
   {
     "cardId": "AMEX_Explorer",
@@ -53,7 +59,9 @@
     "cardCashBase": 0.01,
     "cardPointsBase": 300.0,
     "cardPointsUnit": "美國運通積分",
-    "cardMilesBase": 0.16666667
+    "cardMilesBase": 0.16666667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2277 1010，按 信用卡15位號碼＞0＞客戶服務"
   },
   {
     "cardId": "AMEX_Blue Cash",
@@ -67,7 +75,9 @@
     "cardCashBase": 0.012,
     "cardPointsBase": 300.0,
     "cardPointsUnit": "美國運通積分",
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2277 1010，按 信用卡15位號碼＞0＞客戶服務"
   },
   {
     "cardId": "BEA_World Mastercard",
@@ -81,7 +91,9 @@
     "cardCashBase": 0.00333333,
     "cardPointsBase": 300.0,
     "cardPointsUnit": "BEA積分",
-    "cardMilesBase": 0.125
+    "cardMilesBase": 0.125,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1"
   },
   {
     "cardId": "BEA_GOAL Card",
@@ -95,7 +107,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1"
   },
   {
     "cardId": "BEA_Diamond",
@@ -109,7 +123,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BEA積分",
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1"
   },
   {
     "cardId": "BOC_Cheers Visa Infinite",
@@ -123,7 +139,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "BOC_Cheers Visa Signature",
@@ -137,7 +155,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "BOC_Chill Platinum",
@@ -151,7 +171,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "BOC_Chill World",
@@ -165,7 +187,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "BOC_Bliss Card",
@@ -179,7 +203,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "BOC_SOGO Visa Signature",
@@ -193,7 +219,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "BOC_SOGO Visa Platinum",
@@ -207,7 +235,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "BOC_GO Diamond",
@@ -221,7 +251,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "BOC_GO Platinum",
@@ -235,7 +267,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "BOC_TaoBaoWorld",
@@ -249,7 +283,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 250.0,
     "cardPointsUnit": "BOC積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼"
   },
   {
     "cardId": "Citi_Premier Miles",
@@ -263,7 +299,9 @@
     "cardCashBase": 0.0037,
     "cardPointsBase": 270.0,
     "cardPointsUnit": "Citi積分",
-    "cardMilesBase": 0.125
+    "cardMilesBase": 0.125,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請"
   },
   {
     "cardId": "Citi_Prestige",
@@ -277,21 +315,25 @@
     "cardCashBase": 0.0074,
     "cardPointsBase": 270.0,
     "cardPointsUnit": "Citi積分",
-    "cardMilesBase": 0.16666667
+    "cardMilesBase": 0.16666667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請"
   },
   {
     "cardId": "Citi_Cash Back",
     "cardBank": "Citi",
     "cardName": "Cash Back",
     "cardNetwork": "Mastercard",
-    "cardCbf": 0.0,
+    "cardCbf": 0.01,
     "cardDcc": 0.0195,
     "cardAnnualFee": 1800.0,
     "cardCap": 999999.0,
     "cardCashBase": 0.01,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請"
   },
   {
     "cardId": "Citi_Rewards",
@@ -305,7 +347,9 @@
     "cardCashBase": 0.0037,
     "cardPointsBase": 270.0,
     "cardPointsUnit": "Citi積分",
-    "cardMilesBase": 0.0667
+    "cardMilesBase": 0.0667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請"
   },
   {
     "cardId": "Citi_The Club",
@@ -319,7 +363,9 @@
     "cardCashBase": 0.01,
     "cardPointsBase": 5.0,
     "cardPointsUnit": "The Club積分",
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請"
   },
   {
     "cardId": "Citi_Octopus",
@@ -333,7 +379,9 @@
     "cardCashBase": 0.005,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請"
   },
   {
     "cardId": "DBS_Eminent Visa Signature",
@@ -347,7 +395,9 @@
     "cardCashBase": 0.0,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1"
   },
   {
     "cardId": "DBS_Eminent Visa Platinum",
@@ -361,7 +411,9 @@
     "cardCashBase": 0.0,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1"
   },
   {
     "cardId": "DBS_Black World",
@@ -375,7 +427,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "DBS$",
-    "cardMilesBase": 0.16666667
+    "cardMilesBase": 0.16666667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1"
   },
   {
     "cardId": "DBS_Compass Visa",
@@ -389,7 +443,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "COMPASS Dollar",
-    "cardMilesBase": 0.04
+    "cardMilesBase": 0.04,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1"
   },
   {
     "cardId": "DBS_Live Fresh",
@@ -403,7 +459,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1"
   },
   {
     "cardId": "Hang Seng_Travel+ Visa Signature",
@@ -417,7 +475,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "FUN dollar",
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2398 0000，按 1＞5＞信用卡16位號碼"
   },
   {
     "cardId": "Hang Seng_MMPOWER",
@@ -431,7 +491,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "FUN dollar",
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2398 0000，按 1＞5＞信用卡16位號碼"
   },
   {
     "cardId": "Hang Seng_enJoy Card",
@@ -445,7 +507,9 @@
     "cardCashBase": 0.005,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "YUU積分",
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2398 0000，按 1＞5＞信用卡16位號碼"
   },
   {
     "cardId": "HSBC_EveryMile",
@@ -459,7 +523,9 @@
     "cardCashBase": 0.01,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "獎賞錢",
-    "cardMilesBase": 0.2
+    "cardMilesBase": 0.2,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示"
   },
   {
     "cardId": "HSBC_Red Card",
@@ -473,7 +539,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "獎賞錢",
-    "cardMilesBase": 0.04
+    "cardMilesBase": 0.04,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示"
   },
   {
     "cardId": "HSBC_Visa Signature",
@@ -487,7 +555,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "獎賞錢",
-    "cardMilesBase": 0.04
+    "cardMilesBase": 0.04,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示"
   },
   {
     "cardId": "HSBC_Premier",
@@ -501,7 +571,9 @@
     "cardCashBase": 0.004,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "獎賞錢",
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示"
   },
   {
     "cardId": "HSBC_Gold",
@@ -510,12 +582,14 @@
     "cardNetwork": "Visa",
     "cardCbf": 0.01,
     "cardDcc": 0.0195,
-    "cardAnnualFee": 0.0,
+    "cardAnnualFee": 600.0,
     "cardCap": 999999.0,
     "cardCashBase": 0.004,
     "cardPointsBase": 1.0,
     "cardPointsUnit": "獎賞錢",
-    "cardMilesBase": 0.04
+    "cardMilesBase": 0.04,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示"
   },
   {
     "cardId": "Mox_Mox (Cash）",
@@ -529,7 +603,9 @@
     "cardCashBase": 0.01,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": null
   },
   {
     "cardId": "Mox_Mox (Miles）",
@@ -543,7 +619,9 @@
     "cardCashBase": 0.0,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.125
+    "cardMilesBase": 0.1,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": null
   },
   {
     "cardId": "Standard Charted_Cathay Mastercard",
@@ -557,7 +635,9 @@
     "cardCashBase": 0.0,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.16666667
+    "cardMilesBase": 0.16666667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼"
   },
   {
     "cardId": "Standard Charted_Cathay Mastercard (Priority)",
@@ -571,7 +651,9 @@
     "cardCashBase": 0.0,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.16666667
+    "cardMilesBase": 0.16666667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼"
   },
   {
     "cardId": "Standard Charted_Cathay Mastercard (Private)",
@@ -585,21 +667,25 @@
     "cardCashBase": 0.0,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.16666667
+    "cardMilesBase": 0.16666667,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼"
   },
   {
     "cardId": "Standard Charted_Smart Card",
     "cardBank": "Standard Charted",
     "cardName": "Smart Card",
     "cardNetwork": "Visa",
-    "cardCbf": 0.01,
+    "cardCbf": 0.0,
     "cardDcc": 0.0,
     "cardAnnualFee": 0.0,
     "cardCap": 999999.0,
     "cardCashBase": 0.0,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼"
   },
   {
     "cardId": "Standard Charted_Simply Cash",
@@ -613,35 +699,41 @@
     "cardCashBase": 0.015,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼"
   },
   {
     "cardId": "Prime Credit_EarnMORE",
     "cardBank": "Prime Credit",
     "cardName": "EarnMORE",
     "cardNetwork": "UnionPay",
-    "cardCbf": 0.01,
-    "cardDcc": 0.0,
-    "cardAnnualFee": 0.0,
+    "cardCbf": 0.0,
+    "cardDcc": 0.01,
+    "cardAnnualFee": 800.0,
     "cardCap": 999999.0,
     "cardCashBase": 0.0,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2111 2999，按 3＞8＞客戶服務"
   },
   {
     "cardId": "Prime Credit_WeWa",
     "cardBank": "Prime Credit",
     "cardName": "WeWa",
     "cardNetwork": "Visa",
-    "cardCbf": 0.01,
-    "cardDcc": 0.0,
-    "cardAnnualFee": 1500.0,
+    "cardCbf": 0.0,
+    "cardDcc": 0.01,
+    "cardAnnualFee": 800.0,
     "cardCap": 999999.0,
     "cardCashBase": 0.004,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2111 2999，按 3＞8＞客戶服務"
   },
   {
     "cardId": "Sim_Sim",
@@ -652,9 +744,11 @@
     "cardDcc": 0.0195,
     "cardAnnualFee": 800.0,
     "cardCap": 999999.0,
-    "cardCashBase": 0.004,
+    "cardCashBase": 0.0,
     "cardPointsBase": 0.0,
     "cardPointsUnit": null,
-    "cardMilesBase": 0.0
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": true,
+    "cardAnnualFeeWaiveMethod": "致電 2722 1111，按 1＞6"
   }
 ]

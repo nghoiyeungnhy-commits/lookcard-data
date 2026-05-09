@@ -5598,5 +5598,13 @@
     "merchantCategory2": "ApplePay",
     "merchantTag1": null,
     "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "247_fitness",
+    "merchantName": "24/7 FItness",
+    "merchantCategory1": "Fitness",
+    "merchantCategory2": "Online",
+    "merchantTag1": "247",
+    "merchantCbfFlag": false
   }
 ]
