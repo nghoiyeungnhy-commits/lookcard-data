@@ -14,8 +14,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2895 6262，按 0＞客戶服務",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "AEON_Purple",
@@ -32,8 +33,9 @@
     "cardMilesBase": 0.032,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2895 6262，按 0＞客戶服務",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "AMEX_Platinum",
@@ -50,8 +52,9 @@
     "cardMilesBase": 0.05555556,
     "cardAnnualFeeWaivable": "False",
     "cardAnnualFeeWaiveMethod": "致電 2277 1010，按 信用卡15位號碼＞0＞客戶服務",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "AMEX_Explorer",
@@ -68,8 +71,9 @@
     "cardMilesBase": 0.16666667,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致電 2277 1010，按 信用卡15位號碼＞0＞客戶服務",
-    "cardAnnualFeeWaiveCondition": 150000.0,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": "全年簽滿HK$150,000 可豁免"
   },
   {
     "cardId": "AMEX_Blue Cash",
@@ -86,8 +90,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致電 2277 1010，按 信用卡15位號碼＞0＞客戶服務",
-    "cardAnnualFeeWaiveCondition": 25000.0,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": "全年簽滿HK$25,000 可豁免"
   },
   {
     "cardId": "BEA_World Mastercard",
@@ -104,8 +109,9 @@
     "cardMilesBase": 0.125,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1",
-    "cardAnnualFeeWaiveCondition": "擁有東亞銀行戶口",
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.2",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": "擁有東亞銀行戶口"
   },
   {
     "cardId": "BEA_GOAL Card",
@@ -122,8 +128,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.2",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BEA_Diamond",
@@ -140,8 +147,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.2",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_Cheers Visa Infinite",
@@ -158,8 +166,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_Cheers Visa Signature",
@@ -176,8 +185,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_Chill Platinum",
@@ -194,8 +204,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_Chill World",
@@ -212,8 +223,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_Bliss Card",
@@ -230,8 +242,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_SOGO Visa Signature",
@@ -248,8 +261,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_SOGO Visa Platinum",
@@ -266,8 +280,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_GO Diamond",
@@ -284,8 +299,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_GO Platinum",
@@ -302,8 +318,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "BOC_TaoBaoWorld",
@@ -320,8 +337,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2853 8828，按 1＞1＞身份証明文件首6個號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Citi_Premier Miles",
@@ -338,8 +356,9 @@
     "cardMilesBase": 0.125,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請",
-    "cardAnnualFeeWaiveCondition": 100000.0,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": "全年簽滿HK$100,000 可豁免"
   },
   {
     "cardId": "Citi_Prestige",
@@ -356,8 +375,9 @@
     "cardMilesBase": 0.16666667,
     "cardAnnualFeeWaivable": "False",
     "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Citi_Cash Back",
@@ -374,8 +394,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Citi_Rewards",
@@ -392,8 +413,9 @@
     "cardMilesBase": 0.0667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Citi_The Club",
@@ -410,8 +432,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Citi_Octopus",
@@ -428,8 +451,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "DBS_Eminent Visa Signature",
@@ -446,8 +470,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "DBS_Eminent Visa Platinum",
@@ -464,8 +489,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "DBS_Black World",
@@ -482,8 +508,9 @@
     "cardMilesBase": 0.16666667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "DBS_Compass Visa",
@@ -500,8 +527,9 @@
     "cardMilesBase": 0.04,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "DBS_Live Fresh",
@@ -518,8 +546,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": false,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Hang Seng_Travel+ Visa Signature",
@@ -536,8 +565,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2398 0000，按 1＞5＞信用卡16位號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Hang Seng_MMPOWER",
@@ -554,8 +584,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2398 0000，按 1＞5＞信用卡16位號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Hang Seng_enJoy Card",
@@ -572,8 +603,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2398 0000，按 1＞5＞信用卡16位號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "HSBC_EveryMile",
@@ -590,8 +622,9 @@
     "cardMilesBase": 0.2,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示",
-    "cardAnnualFeeWaiveCondition": 80000.0,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": "全年簽滿HK$80,000 可豁免"
   },
   {
     "cardId": "HSBC_Red Card",
@@ -608,8 +641,9 @@
     "cardMilesBase": 0.04,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "HSBC_Visa Signature",
@@ -626,8 +660,9 @@
     "cardMilesBase": 0.04,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "HSBC_Premier",
@@ -644,8 +679,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "HSBC_Gold",
@@ -662,8 +698,9 @@
     "cardMilesBase": 0.04,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Mox_Mox (Cash）",
@@ -680,8 +717,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": null,
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Mox_Mox (Miles）",
@@ -698,8 +736,9 @@
     "cardMilesBase": 0.1,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": null,
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Standard Charted_Cathay Mastercard",
@@ -716,8 +755,9 @@
     "cardMilesBase": 0.16666667,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Standard Charted_Cathay Mastercard (Priority)",
@@ -734,8 +774,9 @@
     "cardMilesBase": 0.16666667,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼",
-    "cardAnnualFeeWaiveCondition": "存入渣打的資金超過 HK$100萬",
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": "存入渣打的資金超過 HK$100萬"
   },
   {
     "cardId": "Standard Charted_Cathay Mastercard (Private)",
@@ -752,8 +793,9 @@
     "cardMilesBase": 0.16666667,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼",
-    "cardAnnualFeeWaiveCondition": "存入渣打的資金超過 HK$800萬",
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": "存入渣打的資金超過 HK$800萬"
   },
   {
     "cardId": "Standard Charted_Smart Card",
@@ -770,8 +812,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼",
-    "cardAnnualFeeWaiveCondition": "擁有Priority/Premium/出糧戶口",
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": "擁有Priority/Premium/出糧戶口"
   },
   {
     "cardId": "Standard Charted_Simply Cash",
@@ -788,8 +831,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2886 4111，按 1＞2＞1＞1＞信用卡16位號碼",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Prime Credit_EarnMORE",
@@ -806,8 +850,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2111 2999，按 3＞8＞客戶服務",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Prime Credit_WeWa",
@@ -824,8 +869,9 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2111 2999，按 3＞8＞客戶服務",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   },
   {
     "cardId": "Sim_Sim",
@@ -842,7 +888,46 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2722 1111，按 1＞6",
-    "cardAnnualFeeWaiveCondition": null,
-    "cardMasterFlag": true
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
+  },
+  {
+    "cardId": "BEA_JCB Platinum",
+    "cardBank": "東亞 BEA",
+    "cardName": "JCB Platinum",
+    "cardNetwork": "JCB",
+    "cardCbf": 0.01,
+    "cardDcc": 0.0195,
+    "cardAnnualFee": 800.0,
+    "cardCap": 999999.0,
+    "cardCashBase": 0.004,
+    "cardPointsBase": 0.0,
+    "cardPointsUnit": null,
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": "True",
+    "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1",
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
+  },
+  {
+    "cardId": "CCB_Eye",
+    "cardBank": "建設銀行 CCB",
+    "cardName": "eye",
+    "cardNetwork": "Visa",
+    "cardCbf": 0.01,
+    "cardDcc": 0.0195,
+    "cardAnnualFee": 0.0,
+    "cardCap": 999999.0,
+    "cardCashBase": 0.004,
+    "cardPointsBase": 250.0,
+    "cardPointsUnit": "CCB積分",
+    "cardMilesBase": 0.0666667,
+    "cardAnnualFeeWaivable": "True",
+    "cardAnnualFeeWaiveMethod": null,
+    "cardMinAppVersion": "1.0.1",
+    "cardMasterFlag": true,
+    "cardAnnualFeeWaiveCondition": null
   }
 ]
