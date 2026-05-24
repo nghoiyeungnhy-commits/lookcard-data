@@ -3490,7 +3490,7 @@
     "campaignVs": null,
     "campaignMOX": false,
     "campaignWewaOption": null,
-    "campaignRegistration": true,
+    "campaignRegistration": false,
     "campaignRegistrationMethod": "WEB",
     "campaignRegistrationDetails": "https://www.citibank.com.hk/form/cards/octopus/multi-transport/chi/registration-form.html",
     "campaignRemarks": null
@@ -3528,7 +3528,7 @@
     "campaignVs": null,
     "campaignMOX": false,
     "campaignWewaOption": null,
-    "campaignRegistration": true,
+    "campaignRegistration": false,
     "campaignRegistrationMethod": "WEB",
     "campaignRegistrationDetails": "https://www.citibank.com.hk/form/cards/octopus/multi-transport/chi/registration-form.html",
     "campaignRemarks": null
