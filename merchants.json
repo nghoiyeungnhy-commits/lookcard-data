@@ -4446,5 +4446,125 @@
     "merchantCategory2": null,
     "merchantTag1": "247",
     "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ChinaMobile_HK",
+    "merchantName": "中國移動香港",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CircleK_HK",
+    "merchantName": "Circle K",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "citysuper_neighbourhood",
+    "merchantName": "city'super neighbourhood",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "HairCorner",
+    "merchantName": "Hair Corner",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hyatt_Regency_Hong_Kong_Sha_Tin",
+    "merchantName": "香港沙田凱悅酒店",
+    "merchantCategory1": "Hotel",
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "JPAW_Hair_Salon",
+    "merchantName": "JPAW Hair Salon",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Lei_Garden",
+    "merchantName": "利苑",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Lobby_Hair_Corner",
+    "merchantName": "Lobby by Hair Corner",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Pinkoi",
+    "merchantName": "Pinkoi",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Quality_HealthCare",
+    "merchantName": "卓健醫療中心",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Saloon_KowloonTong",
+    "merchantName": "Saloon (九龍塘)",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Saloon_Roarguns",
+    "merchantName": "Saloon Roarguns",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SmartCharge_HK",
+    "merchantName": "Smart Charge",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SoSweet_Kids_Salon",
+    "merchantName": "So Sweet Kids Salon",
+    "merchantCategory1": null,
+    "merchantCategory2": "ApplePay",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ClubShopping",
+    "merchantName": "The Club Shopping (HKT)",
+    "merchantCategory1": null,
+    "merchantCategory2": "Online",
+    "merchantTag1": null,
+    "merchantCbfFlag": false
   }
 ]
