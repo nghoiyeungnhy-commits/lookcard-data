@@ -4683,7 +4683,7 @@
     "campaignBaseSeniority": 1,
     "campaignEligibleCard": "BEA_GOAL Card",
     "campaignEligibleCategory": "Hotel",
-    "campaignEligibleMerchants": "ALL",
+    "campaignEligibleMerchants": "NONE",
     "campaignPaymentMethod": "ALL",
     "campaignFrequency": 1,
     "campaignCalendar": 0,
