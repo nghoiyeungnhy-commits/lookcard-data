@@ -1,7 +1,7 @@
 [
   {
     "merchantId": "TamJai",
-    "merchantName": "譚仔",
+    "merchantName": "谭仔",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": "TJ",
@@ -9,7 +9,7 @@
   },
   {
     "merchantId": "TamJaiSamGor",
-    "merchantName": "譚仔三哥",
+    "merchantName": "谭仔三哥",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": "TJSJ",
@@ -17,7 +17,7 @@
   },
   {
     "merchantId": "Cathay_Pacific",
-    "merchantName": "國泰航空",
+    "merchantName": "国泰航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": "CX",
@@ -25,7 +25,7 @@
   },
   {
     "merchantId": "HKExpress",
-    "merchantName": "香港快運",
+    "merchantName": "香港快运",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": "Express",
@@ -49,7 +49,7 @@
   },
   {
     "merchantId": "Sushiro",
-    "merchantName": "壽司郎",
+    "merchantName": "寿司郎",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -265,7 +265,7 @@
   },
   {
     "merchantId": "Starbucks_Coffee",
-    "merchantName": "Starbucks (網店)",
+    "merchantName": "Starbucks (网店)",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -313,7 +313,7 @@
   },
   {
     "merchantId": "LWB",
-    "merchantName": "龍運巴士",
+    "merchantName": "龙运巴士",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -321,7 +321,7 @@
   },
   {
     "merchantId": "MTR_Except_Airport",
-    "merchantName": "港鐵 (除機場快線)",
+    "merchantName": "港铁 (除机场快线)",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -329,7 +329,7 @@
   },
   {
     "merchantId": "Tram",
-    "merchantName": "電車",
+    "merchantName": "电车",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -361,7 +361,7 @@
   },
   {
     "merchantId": "PetroChina",
-    "merchantName": "中國石油",
+    "merchantName": "中国石油",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -377,7 +377,7 @@
   },
   {
     "merchantId": "Shell",
-    "merchantName": "蜆殼 (Shell)",
+    "merchantName": "蚬壳 (Shell)",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -393,7 +393,7 @@
   },
   {
     "merchantId": "Car_Park",
-    "merchantName": "停車場/泊車位",
+    "merchantName": "停车场/泊车位",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -409,7 +409,7 @@
   },
   {
     "merchantId": "CTSHK",
-    "merchantName": "中國旅行社 (網店)",
+    "merchantName": "中国旅行社 (网店)",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -425,7 +425,7 @@
   },
   {
     "merchantId": "12306",
-    "merchantName": "中國鐵路12306",
+    "merchantName": "中国铁路12306",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -433,7 +433,7 @@
   },
   {
     "merchantId": "EEBUS",
-    "merchantName": "永東旅行社",
+    "merchantName": "永东旅行社",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -457,7 +457,7 @@
   },
   {
     "merchantId": "Cotai_Water_Jet",
-    "merchantName": "金光飛航 (網店)",
+    "merchantName": "金光飞航 (网店)",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -481,7 +481,7 @@
   },
   {
     "merchantId": "TurboJET",
-    "merchantName": "噴射飛航 (網店)",
+    "merchantName": "喷射飞航 (网店)",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -569,7 +569,7 @@
   },
   {
     "merchantId": "Emperor_Cinemas",
-    "merchantName": "英皇戲院",
+    "merchantName": "英皇戏院",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -585,7 +585,7 @@
   },
   {
     "merchantId": "Grand_Winsor_Cinema",
-    "merchantName": "皇室戲院",
+    "merchantName": "皇室戏院",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -601,7 +601,7 @@
   },
   {
     "merchantId": "MCL",
-    "merchantName": "MCL院線",
+    "merchantName": "MCL院线",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -633,7 +633,7 @@
   },
   {
     "merchantId": "Cityline",
-    "merchantName": "購票通",
+    "merchantName": "购票通",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -641,7 +641,7 @@
   },
   {
     "merchantId": "Cityplaza_Ice",
-    "merchantName": "太古城中心冰上皇宮",
+    "merchantName": "太古城中心冰上皇宫",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -665,7 +665,7 @@
   },
   {
     "merchantId": "Ticketing_HK",
-    "merchantName": "快達票",
+    "merchantName": "快达票",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -705,7 +705,7 @@
   },
   {
     "merchantId": "Smart_Play",
-    "merchantName": "康體通",
+    "merchantName": "康体通",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -729,7 +729,7 @@
   },
   {
     "merchantId": "Miramar_Travel",
-    "merchantName": "美麗華旅遊",
+    "merchantName": "美丽华旅游",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -737,7 +737,7 @@
   },
   {
     "merchantId": "Sunflower_Travel",
-    "merchantName": "新華旅遊",
+    "merchantName": "新华旅游",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -753,7 +753,7 @@
   },
   {
     "merchantId": "Wingon_Travel",
-    "merchantName": "永安旅遊",
+    "merchantName": "永安旅游",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -761,7 +761,7 @@
   },
   {
     "merchantId": "YMT_Travel",
-    "merchantName": "油麻地旅遊",
+    "merchantName": "油麻地旅游",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -769,7 +769,7 @@
   },
   {
     "merchantId": "Mood_Massage",
-    "merchantName": "沐館",
+    "merchantName": "沐馆",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -777,7 +777,7 @@
   },
   {
     "merchantId": "Shh",
-    "merchantName": "靜",
+    "merchantName": "静",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -801,7 +801,7 @@
   },
   {
     "merchantId": "Zi_Massage",
-    "merchantName": "梔Zi Massage & Wellness",
+    "merchantName": "栀Zi Massage & Wellness",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -809,7 +809,7 @@
   },
   {
     "merchantId": "MTR_Airport",
-    "merchantName": "機場快線",
+    "merchantName": "机场快线",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -817,7 +817,7 @@
   },
   {
     "merchantId": "PIT",
-    "merchantName": "珀麗灣客運",
+    "merchantName": "珀丽湾客运",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -841,7 +841,7 @@
   },
   {
     "merchantId": "DayDayStore",
-    "merchantName": "日記士多",
+    "merchantName": "日记士多",
     "merchantCategory1": "Supermarket",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -865,7 +865,7 @@
   },
   {
     "merchantId": "Fresh",
-    "merchantName": "FRESH新鮮生活",
+    "merchantName": "FRESH新鲜生活",
     "merchantCategory1": "Supermarket",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -881,7 +881,7 @@
   },
   {
     "merchantId": "Flavor_HK",
-    "merchantName": "本灣水產",
+    "merchantName": "本湾水产",
     "merchantCategory1": "Supermarket",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -945,7 +945,7 @@
   },
   {
     "merchantId": "Mart",
-    "merchantName": "多來買",
+    "merchantName": "多来买",
     "merchantCategory1": "Supermarket",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -993,7 +993,7 @@
   },
   {
     "merchantId": "Lifekan",
-    "merchantName": "生活館",
+    "merchantName": "生活馆",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1009,7 +1009,7 @@
   },
   {
     "merchantId": "Simmons",
-    "merchantName": "蓆夢思",
+    "merchantName": "席梦思",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1017,7 +1017,7 @@
   },
   {
     "merchantId": "Ulfenbo",
-    "merchantName": "歐化寶",
+    "merchantName": "欧化宝",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1025,7 +1025,7 @@
   },
   {
     "merchantId": "Ulferts",
-    "merchantName": "歐化傢俬",
+    "merchantName": "欧化家私",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1041,7 +1041,7 @@
   },
   {
     "merchantId": "Broadway",
-    "merchantName": "百老滙",
+    "merchantName": "百老汇",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1057,7 +1057,7 @@
   },
   {
     "merchantId": "CYEShop",
-    "merchantName": "中原電器",
+    "merchantName": "中原电器",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1065,7 +1065,7 @@
   },
   {
     "merchantId": "Fortress",
-    "merchantName": "豐澤",
+    "merchantName": "丰泽",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1105,7 +1105,7 @@
   },
   {
     "merchantId": "Suning",
-    "merchantName": "蘇寧",
+    "merchantName": "苏宁",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1113,7 +1113,7 @@
   },
   {
     "merchantId": "Wai_Ming",
-    "merchantName": "偉明電業",
+    "merchantName": "伟明电业",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1121,7 +1121,7 @@
   },
   {
     "merchantId": "Whirlpool",
-    "merchantName": "惠而浦網上商店W-Mall",
+    "merchantName": "惠而浦网上商店W-Mall",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1129,7 +1129,7 @@
   },
   {
     "merchantId": "Wilson",
-    "merchantName": "衛訊",
+    "merchantName": "卫讯",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1177,7 +1177,7 @@
   },
   {
     "merchantId": "HKT",
-    "merchantName": "HKT家居電話",
+    "merchantName": "HKT家居电话",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1193,7 +1193,7 @@
   },
   {
     "merchantId": "Netvigator",
-    "merchantName": "網上行",
+    "merchantName": "网上行",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1217,7 +1217,7 @@
   },
   {
     "merchantId": "SUPREME_Tele",
-    "merchantName": "SUPREME電訊",
+    "merchantName": "SUPREME电讯",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1225,7 +1225,7 @@
   },
   {
     "merchantId": "Petline",
-    "merchantName": "寵寵線",
+    "merchantName": "宠宠线",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1233,7 +1233,7 @@
   },
   {
     "merchantId": "Petinum",
-    "merchantName": "Petmium寵物百貨",
+    "merchantName": "Petmium宠物百货",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1249,7 +1249,7 @@
   },
   {
     "merchantId": "Red_Carrot",
-    "merchantName": "紅蘿蔔寵物店",
+    "merchantName": "红萝卜宠物店",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1281,7 +1281,7 @@
   },
   {
     "merchantId": "AEON",
-    "merchantName": "AEON百貨",
+    "merchantName": "AEON百货",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1305,7 +1305,7 @@
   },
   {
     "merchantId": "Chinese_Art",
-    "merchantName": "中藝",
+    "merchantName": "中艺",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1385,7 +1385,7 @@
   },
   {
     "merchantId": "Sincere",
-    "merchantName": "先施百貨",
+    "merchantName": "先施百货",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1393,7 +1393,7 @@
   },
   {
     "merchantId": "SOGO",
-    "merchantName": "崇光百貨",
+    "merchantName": "崇光百货",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1401,7 +1401,7 @@
   },
   {
     "merchantId": "UNY",
-    "merchantName": "UNY 生活創富",
+    "merchantName": "UNY 生活创富",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1409,7 +1409,7 @@
   },
   {
     "merchantId": "WingOn_Grocery",
-    "merchantName": "永安百貨",
+    "merchantName": "永安百货",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1425,7 +1425,7 @@
   },
   {
     "merchantId": "ChungHua",
-    "merchantName": "中華書局",
+    "merchantName": "中华书局",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1433,7 +1433,7 @@
   },
   {
     "merchantId": "Esliste",
-    "merchantName": "誠品書店",
+    "merchantName": "诚品书店",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1441,7 +1441,7 @@
   },
   {
     "merchantId": "JointPublishing",
-    "merchantName": "三聯書店",
+    "merchantName": "三联书店",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1449,7 +1449,7 @@
   },
   {
     "merchantId": "CommercialPress",
-    "merchantName": "商務印書館",
+    "merchantName": "商务印书馆",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1553,7 +1553,7 @@
   },
   {
     "merchantId": "Optical88",
-    "merchantName": "眼鏡88",
+    "merchantName": "眼镜88",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1793,7 +1793,7 @@
   },
   {
     "merchantId": "wrightlife",
-    "merchantName": "維特健靈",
+    "merchantName": "维特健灵",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1897,7 +1897,7 @@
   },
   {
     "merchantId": "Starferry",
-    "merchantName": "天星小輪",
+    "merchantName": "天星小轮",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1905,7 +1905,7 @@
   },
   {
     "merchantId": "HKKF",
-    "merchantName": "港九小輪",
+    "merchantName": "港九小轮",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1913,7 +1913,7 @@
   },
   {
     "merchantId": "SunFerry",
-    "merchantName": "新渡輪",
+    "merchantName": "新渡轮",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -1921,7 +1921,7 @@
   },
   {
     "merchantId": "NLB",
-    "merchantName": "新大嶼山巴士",
+    "merchantName": "新大屿山巴士",
     "merchantCategory1": "Transport",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2001,7 +2001,7 @@
   },
   {
     "merchantId": "Mannings",
-    "merchantName": "萬寧",
+    "merchantName": "万宁",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2033,7 +2033,7 @@
   },
   {
     "merchantId": "USelect",
-    "merchantName": "U 購 Select",
+    "merchantName": "U 购 Select",
     "merchantCategory1": "Supermarket",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2041,7 +2041,7 @@
   },
   {
     "merchantId": "ChinaResourcesVanguard",
-    "merchantName": "華潤萬家",
+    "merchantName": "华润万家",
     "merchantCategory1": "Supermarket",
     "merchantCategory2": null,
     "merchantTag1": "CRV",
@@ -2097,7 +2097,7 @@
   },
   {
     "merchantId": "OceanPark",
-    "merchantName": "海洋公園",
+    "merchantName": "海洋公园",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": "OP",
@@ -2105,7 +2105,7 @@
   },
   {
     "merchantId": "Disney",
-    "merchantName": "迪士尼主題樂園",
+    "merchantName": "迪士尼主题乐园",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2129,7 +2129,7 @@
   },
   {
     "merchantId": "RedMR",
-    "merchantName": "RedMR 紅人派對",
+    "merchantName": "RedMR 红人派对",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2305,7 +2305,7 @@
   },
   {
     "merchantId": "MeiTuan",
-    "merchantName": "美團",
+    "merchantName": "美团",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": "mt",
@@ -2313,7 +2313,7 @@
   },
   {
     "merchantId": "DaZhong",
-    "merchantName": "大眾點評",
+    "merchantName": "大众点评",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": "dzdp",
@@ -2329,7 +2329,7 @@
   },
   {
     "merchantId": "JingDong",
-    "merchantName": "京東商城",
+    "merchantName": "京东商城",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": "JD",
@@ -2337,7 +2337,7 @@
   },
   {
     "merchantId": "Mandarin_Oriental_Hong_Kong",
-    "merchantName": "香港文華東方酒店",
+    "merchantName": "香港文华东方酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2369,7 +2369,7 @@
   },
   {
     "merchantId": "Grand_Hyatt_Hong_Kong",
-    "merchantName": "香港君悅酒店",
+    "merchantName": "香港君悦酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2377,7 +2377,7 @@
   },
   {
     "merchantId": "K11_ARTUS",
-    "merchantName": "K11寓館",
+    "merchantName": "K11寓馆",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2393,7 +2393,7 @@
   },
   {
     "merchantId": "Regal_Airport_Hotel",
-    "merchantName": "富豪機場酒店",
+    "merchantName": "富豪机场酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2409,7 +2409,7 @@
   },
   {
     "merchantId": "Regala_Skycity_Hotel",
-    "merchantName": "麗豪航天城酒店",
+    "merchantName": "丽豪航天城酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2417,7 +2417,7 @@
   },
   {
     "merchantId": "The_Cityview",
-    "merchantName": "城景國際",
+    "merchantName": "城景国际",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2425,7 +2425,7 @@
   },
   {
     "merchantId": "The_Salisbury__YMCA_of_Hong_Kong",
-    "merchantName": "香港基督教青年會－港青酒店",
+    "merchantName": "香港基督教青年会－港青酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2433,7 +2433,7 @@
   },
   {
     "merchantId": "Ibis_Hong_Kong_Central_&_Sheung_Wan",
-    "merchantName": "宜必思香港中上環酒店",
+    "merchantName": "宜必思香港中上环酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2441,7 +2441,7 @@
   },
   {
     "merchantId": "iclub_Sheung_Wan_Hotel",
-    "merchantName": "富薈上環酒店",
+    "merchantName": "富荟上环酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2449,7 +2449,7 @@
   },
   {
     "merchantId": "Nina_Hotel_Causeway_Bay",
-    "merchantName": "如心銅鑼灣海景酒店",
+    "merchantName": "如心铜锣湾海景酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2457,7 +2457,7 @@
   },
   {
     "merchantId": "Nina_Hotel_Tsuen_Wan_West",
-    "merchantName": "荃灣西如心酒店",
+    "merchantName": "荃湾西如心酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2473,7 +2473,7 @@
   },
   {
     "merchantId": "Marco_Polo_Hongkong_Hotel",
-    "merchantName": "香港馬哥孛羅酒店",
+    "merchantName": "香港马哥孛罗酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2481,7 +2481,7 @@
   },
   {
     "merchantId": "The_Landmark_Mandarin_Oriental_Hong_Kong",
-    "merchantName": "香港置地文華東方酒店",
+    "merchantName": "香港置地文华东方酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2497,7 +2497,7 @@
   },
   {
     "merchantId": "Ovolo_Central",
-    "merchantName": "奧華·時尚精品酒店・中環",
+    "merchantName": "奥华·时尚精品酒店・中环",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2505,7 +2505,7 @@
   },
   {
     "merchantId": "Rosewood_Hong_Kong",
-    "merchantName": "香港瑰麗酒店",
+    "merchantName": "香港瑰丽酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2513,7 +2513,7 @@
   },
   {
     "merchantId": "Regent_Hong_Kong",
-    "merchantName": "香港麗晶酒店",
+    "merchantName": "香港丽晶酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2521,7 +2521,7 @@
   },
   {
     "merchantId": "Island_ShangriLa_Hong_Kong",
-    "merchantName": "港島香格里拉",
+    "merchantName": "港岛香格里拉",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2529,7 +2529,7 @@
   },
   {
     "merchantId": "Lanson_Place_Causeway_Bay_Hong_Kong",
-    "merchantName": "香港銅鑼灣蘭心公館",
+    "merchantName": "香港铜锣湾兰心公馆",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2537,7 +2537,7 @@
   },
   {
     "merchantId": "Hotel_ICON",
-    "merchantName": "唯港薈",
+    "merchantName": "唯港荟",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2545,7 +2545,7 @@
   },
   {
     "merchantId": "Eaton_HK",
-    "merchantName": "香港逸東酒店",
+    "merchantName": "香港逸东酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2561,7 +2561,7 @@
   },
   {
     "merchantId": "Harbour_Grand_Hong_Kong",
-    "merchantName": "港島海逸君綽酒店",
+    "merchantName": "港岛海逸君绰酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2569,7 +2569,7 @@
   },
   {
     "merchantId": "Harbour_Grand_Kowloon",
-    "merchantName": "九龍海逸君綽酒店",
+    "merchantName": "九龙海逸君绰酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2577,7 +2577,7 @@
   },
   {
     "merchantId": "The_RitzCarlton_Hong_Kong",
-    "merchantName": "香港麗思卡爾頓酒店",
+    "merchantName": "香港丽思卡尔顿酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2585,7 +2585,7 @@
   },
   {
     "merchantId": "The_Peninsula_Hong_Kong",
-    "merchantName": "香港半島酒店",
+    "merchantName": "香港半岛酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2601,7 +2601,7 @@
   },
   {
     "merchantId": "Hong_Kong_Disneyland_Hotel",
-    "merchantName": "香港迪士尼樂園酒店",
+    "merchantName": "香港迪士尼乐园酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2625,7 +2625,7 @@
   },
   {
     "merchantId": "Novotel_Century_Hong_Kong",
-    "merchantName": "香港諾富特世紀酒店",
+    "merchantName": "香港诺富特世纪酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2633,7 +2633,7 @@
   },
   {
     "merchantId": "Two_MacDonnell_Road",
-    "merchantName": "麥當勞道貳號",
+    "merchantName": "麦当劳道贰号",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2641,7 +2641,7 @@
   },
   {
     "merchantId": "Fullerton_Ocean_Park_Hotel_Hong_Kong",
-    "merchantName": "香港富麗敦海洋公園酒店",
+    "merchantName": "香港富丽敦海洋公园酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2657,7 +2657,7 @@
   },
   {
     "merchantId": "EAST_Hong_Kong",
-    "merchantName": "香港東隅",
+    "merchantName": "香港东隅",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2665,7 +2665,7 @@
   },
   {
     "merchantId": "Hyatt_Centric_Victoria_Harbour_Hong_Kong",
-    "merchantName": "香港維港凱悅尚萃酒店",
+    "merchantName": "香港维港凯悦尚萃酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2673,7 +2673,7 @@
   },
   {
     "merchantId": "InterContinental_Grand_Stanford_Hong_Kong",
-    "merchantName": "海景嘉福洲際酒店",
+    "merchantName": "海景嘉福洲际酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2681,7 +2681,7 @@
   },
   {
     "merchantId": "Sheraton_Hong_Kong_Hotel_&_Towers",
-    "merchantName": "香港喜來登酒店",
+    "merchantName": "香港喜来登酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2697,7 +2697,7 @@
   },
   {
     "merchantId": "JW_Marriott_Hotel_Hong_Kong",
-    "merchantName": "香港JW萬豪酒店",
+    "merchantName": "香港JW万豪酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2705,7 +2705,7 @@
   },
   {
     "merchantId": "Conrad_Hong_Kong",
-    "merchantName": "香港港麗酒店",
+    "merchantName": "香港港丽酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2713,7 +2713,7 @@
   },
   {
     "merchantId": "Renaissance_Harbour_View_Hotel_Hong_Kong",
-    "merchantName": "香港萬麗海景酒店",
+    "merchantName": "香港万丽海景酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2721,7 +2721,7 @@
   },
   {
     "merchantId": "Hyatt_Regency_Hong_Kong_Tsim_Sha_Tsui",
-    "merchantName": "香港尖沙咀凱悅酒店",
+    "merchantName": "香港尖沙咀凯悦酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2729,7 +2729,7 @@
   },
   {
     "merchantId": "Hyatt_Regency_Hong_Kong_Sha_Tin",
-    "merchantName": "香港沙田凱悅酒店",
+    "merchantName": "香港沙田凯悦酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2737,7 +2737,7 @@
   },
   {
     "merchantId": "Courtyard_by_Marriott_Hong_Kong",
-    "merchantName": "香港萬怡酒店",
+    "merchantName": "香港万怡酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2745,7 +2745,7 @@
   },
   {
     "merchantId": "The_Park_Lane_Hong_Kong_Autograph_Collection",
-    "merchantName": "香港柏寧酒店",
+    "merchantName": "香港柏宁酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2753,7 +2753,7 @@
   },
   {
     "merchantId": "The_Fullerton_Hotel_Hong_Kong",
-    "merchantName": "香港富麗敦酒店",
+    "merchantName": "香港富丽敦酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2769,7 +2769,7 @@
   },
   {
     "merchantId": "The_Mira_Hong_Kong",
-    "merchantName": "香港美麗華酒店",
+    "merchantName": "香港美丽华酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2801,7 +2801,7 @@
   },
   {
     "merchantId": "99_Bonham",
-    "merchantName": "翰林峰99號公寓酒店",
+    "merchantName": "翰林峰99号公寓酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2825,7 +2825,7 @@
   },
   {
     "merchantId": "Dorsett_Wanchai_Hong_Kong",
-    "merchantName": "香港灣仔帝盛酒店",
+    "merchantName": "香港湾仔帝盛酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2841,7 +2841,7 @@
   },
   {
     "merchantId": "Dorsett_Kai_Tak",
-    "merchantName": "香港啟德帝盛酒店",
+    "merchantName": "香港启德帝盛酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2857,7 +2857,7 @@
   },
   {
     "merchantId": "Hotel_Alexandra",
-    "merchantName": "歷山酒店",
+    "merchantName": "历山酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2881,7 +2881,7 @@
   },
   {
     "merchantId": "Disney's_Hollywood_Hotel",
-    "merchantName": "迪士尼好萊塢酒店",
+    "merchantName": "迪士尼好莱坞酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2889,7 +2889,7 @@
   },
   {
     "merchantId": "Auberge_Discovery_Bay_Hong_Kong",
-    "merchantName": "香港愉景灣酒店",
+    "merchantName": "香港愉景湾酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2897,7 +2897,7 @@
   },
   {
     "merchantId": "Le_Meridien_Hong_Kong_Cyberport",
-    "merchantName": "香港數碼港艾美酒店",
+    "merchantName": "香港数码港艾美酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2905,7 +2905,7 @@
   },
   {
     "merchantId": "The_Silveri_Hong_Kong__MGallery",
-    "merchantName": "香港銀樾美憬閣精選酒店",
+    "merchantName": "香港银樾美憬阁精选酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2913,7 +2913,7 @@
   },
   {
     "merchantId": "Hong_Kong_Ocean_Park_Marriott_Hotel",
-    "merchantName": "香港海洋公園萬豪酒店",
+    "merchantName": "香港海洋公园万豪酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2921,7 +2921,7 @@
   },
   {
     "merchantId": "The_Emperor_Hotel",
-    "merchantName": "英皇駿景酒店",
+    "merchantName": "英皇骏景酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2929,7 +2929,7 @@
   },
   {
     "merchantId": "B_P_International",
-    "merchantName": "龍堡國際",
+    "merchantName": "龙堡国际",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2937,7 +2937,7 @@
   },
   {
     "merchantId": "Butterfly_on_Wellington",
-    "merchantName": "晉逸精品酒店・中環",
+    "merchantName": "晋逸精品酒店・中环",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2945,7 +2945,7 @@
   },
   {
     "merchantId": "Butterfly_on_Morrison",
-    "merchantName": "晉逸精品酒店・銅鑼灣",
+    "merchantName": "晋逸精品酒店・铜锣湾",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2953,7 +2953,7 @@
   },
   {
     "merchantId": "Hotel_Stage",
-    "merchantName": "登臺酒店",
+    "merchantName": "登台酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2961,7 +2961,7 @@
   },
   {
     "merchantId": "The_Luxe_Manor",
-    "merchantName": "帝樂文娜公館",
+    "merchantName": "帝乐文娜公馆",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2969,7 +2969,7 @@
   },
   {
     "merchantId": "Mira_Moon",
-    "merchantName": "問月酒店",
+    "merchantName": "问月酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -2985,7 +2985,7 @@
   },
   {
     "merchantId": "The_Perkin_Hotel",
-    "merchantName": "珀軒酒店",
+    "merchantName": "珀轩酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3001,7 +3001,7 @@
   },
   {
     "merchantId": "The_Harbourview",
-    "merchantName": "灣景國際",
+    "merchantName": "湾景国际",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3017,7 +3017,7 @@
   },
   {
     "merchantId": "iclub_Fortress_Hill_Hotel",
-    "merchantName": "富薈炮台山酒店",
+    "merchantName": "富荟炮台山酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3025,7 +3025,7 @@
   },
   {
     "merchantId": "iclub_AMTD_Sheung_Wan_Hotel",
-    "merchantName": "富薈尚乘上環酒店",
+    "merchantName": "富荟尚乘上环酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3049,7 +3049,7 @@
   },
   {
     "merchantId": "Hotel_COZi_Oasis",
-    "merchantName": "悦品酒店・荃灣",
+    "merchantName": "悦品酒店・荃湾",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3065,7 +3065,7 @@
   },
   {
     "merchantId": "Hong_Kong_Gold_Coast_Hotel",
-    "merchantName": "香港黃金海岸酒店",
+    "merchantName": "香港黄金海岸酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3073,7 +3073,7 @@
   },
   {
     "merchantId": "Bishop_Lei_International_House",
-    "merchantName": "主教山莊",
+    "merchantName": "主教山庄",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3081,7 +3081,7 @@
   },
   {
     "merchantId": "Bauhinia_Hotel_Central",
-    "merchantName": "寶軒酒店（中環）",
+    "merchantName": "宝轩酒店（中环）",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3089,7 +3089,7 @@
   },
   {
     "merchantId": "Lan_Kwai_Fong_Hotel_@_Kau_U_Fong",
-    "merchantName": "蘭桂坊酒店@九如坊",
+    "merchantName": "兰桂坊酒店@九如坊",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3105,7 +3105,7 @@
   },
   {
     "merchantId": "Eco_Tree_Hotel",
-    "merchantName": "頤庭酒店",
+    "merchantName": "颐庭酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3113,7 +3113,7 @@
   },
   {
     "merchantId": "Y_Loft",
-    "merchantName": "青年廣場 Y旅舍",
+    "merchantName": "青年广场 Y旅舍",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3121,7 +3121,7 @@
   },
   {
     "merchantId": "Rambler_Garden_Hotel",
-    "merchantName": "華逸酒店",
+    "merchantName": "华逸酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3145,7 +3145,7 @@
   },
   {
     "merchantId": "GreaterBayAirlines",
-    "merchantName": "大灣區航空",
+    "merchantName": "大湾区航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3153,7 +3153,7 @@
   },
   {
     "merchantId": "China_Airlines",
-    "merchantName": "中華航空",
+    "merchantName": "中华航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3161,7 +3161,7 @@
   },
   {
     "merchantId": "EVA_Air",
-    "merchantName": "長榮航空",
+    "merchantName": "长荣航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3169,7 +3169,7 @@
   },
   {
     "merchantId": "Air_China",
-    "merchantName": "中國國際航空",
+    "merchantName": "中国国际航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3177,7 +3177,7 @@
   },
   {
     "merchantId": "China_Eastern_Airlines",
-    "merchantName": "中國東方航空",
+    "merchantName": "中国东方航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3185,7 +3185,7 @@
   },
   {
     "merchantId": "China_Southern_Airlines",
-    "merchantName": "中國南方航空",
+    "merchantName": "中国南方航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3225,7 +3225,7 @@
   },
   {
     "merchantId": "Korean_Air",
-    "merchantName": "大韓航空",
+    "merchantName": "大韩航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3233,7 +3233,7 @@
   },
   {
     "merchantId": "Thai_Airways",
-    "merchantName": "泰國國際航空",
+    "merchantName": "泰国国际航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3241,7 +3241,7 @@
   },
   {
     "merchantId": "AirAsia",
-    "merchantName": "亞洲航空",
+    "merchantName": "亚洲航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3249,7 +3249,7 @@
   },
   {
     "merchantId": "Philippine_Airlines",
-    "merchantName": "菲律賓航空",
+    "merchantName": "菲律宾航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3257,7 +3257,7 @@
   },
   {
     "merchantId": "Cebu_Pacific",
-    "merchantName": "宿霧太平洋航空",
+    "merchantName": "宿雾太平洋航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3273,7 +3273,7 @@
   },
   {
     "merchantId": "Malaysia_Airlines",
-    "merchantName": "馬來西亞航空",
+    "merchantName": "马来西亚航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3297,7 +3297,7 @@
   },
   {
     "merchantId": "Emirates",
-    "merchantName": "阿聯酋航空",
+    "merchantName": "阿联酋航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3305,7 +3305,7 @@
   },
   {
     "merchantId": "Qatar_Airways",
-    "merchantName": "卡塔爾航空",
+    "merchantName": "卡塔尔航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3321,7 +3321,7 @@
   },
   {
     "merchantId": "British_Airways",
-    "merchantName": "英國航空",
+    "merchantName": "英国航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3329,7 +3329,7 @@
   },
   {
     "merchantId": "KLM_Royal_Dutch_Airlines",
-    "merchantName": "荷蘭皇家航空",
+    "merchantName": "荷兰皇家航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3337,7 +3337,7 @@
   },
   {
     "merchantId": "Lufthansa",
-    "merchantName": "德國漢莎航空",
+    "merchantName": "德国汉莎航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3345,7 +3345,7 @@
   },
   {
     "merchantId": "Swiss_International_Air_Lines",
-    "merchantName": "瑞士國際航空",
+    "merchantName": "瑞士国际航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3361,7 +3361,7 @@
   },
   {
     "merchantId": "Delta_Air_Lines",
-    "merchantName": "達美航空",
+    "merchantName": "达美航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3369,7 +3369,7 @@
   },
   {
     "merchantId": "United_Airlines",
-    "merchantName": "美國聯合航空",
+    "merchantName": "美国联合航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3377,7 +3377,7 @@
   },
   {
     "merchantId": "American_Airlines",
-    "merchantName": "美國航空",
+    "merchantName": "美国航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3401,7 +3401,7 @@
   },
   {
     "merchantId": "Garuda_Indonesia",
-    "merchantName": "印尼鷹航",
+    "merchantName": "印尼鹰航",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3409,7 +3409,7 @@
   },
   {
     "merchantId": "Fiji_Airways",
-    "merchantName": "斐濟航空",
+    "merchantName": "斐济航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3417,7 +3417,7 @@
   },
   {
     "merchantId": "Asiana_Airlines",
-    "merchantName": "韓亞航空",
+    "merchantName": "韩亚航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3425,7 +3425,7 @@
   },
   {
     "merchantId": "Air_France",
-    "merchantName": "法國航空",
+    "merchantName": "法国航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3433,7 +3433,7 @@
   },
   {
     "merchantId": "Austrian_Airlines",
-    "merchantName": "奧地利航空",
+    "merchantName": "奥地利航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3441,7 +3441,7 @@
   },
   {
     "merchantId": "Air_New_Zealand",
-    "merchantName": "紐西蘭航空",
+    "merchantName": "纽西兰航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3465,7 +3465,7 @@
   },
   {
     "merchantId": "VietJet_Air",
-    "merchantName": "越南快運航空",
+    "merchantName": "越南快运航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3481,7 +3481,7 @@
   },
   {
     "merchantId": "RwandAir",
-    "merchantName": "盧旺達航空",
+    "merchantName": "卢旺达航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3489,7 +3489,7 @@
   },
   {
     "merchantId": "Ethiopian_Airlines",
-    "merchantName": "埃塞俄比亞航空",
+    "merchantName": "埃塞俄比亚航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3505,7 +3505,7 @@
   },
   {
     "merchantId": "LOT_Polish_Airlines",
-    "merchantName": "波蘭航空",
+    "merchantName": "波兰航空",
     "merchantCategory1": "Airline",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3521,7 +3521,7 @@
   },
   {
     "merchantId": "GreenMinibus",
-    "merchantName": "綠色專線小巴",
+    "merchantName": "绿色专线小巴",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": "小巴",
@@ -3529,7 +3529,7 @@
   },
   {
     "merchantId": "Adidas",
-    "merchantName": "Adidas (網店)",
+    "merchantName": "Adidas (网店)",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3537,7 +3537,7 @@
   },
   {
     "merchantId": "Nike",
-    "merchantName": "Nike (網店)",
+    "merchantName": "Nike (网店)",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3545,7 +3545,7 @@
   },
   {
     "merchantId": "Puma",
-    "merchantName": "Puma (網店)",
+    "merchantName": "Puma (网店)",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3553,7 +3553,7 @@
   },
   {
     "merchantId": "Under_Armour",
-    "merchantName": "Under Armour (網店)",
+    "merchantName": "Under Armour (网店)",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3561,7 +3561,7 @@
   },
   {
     "merchantId": "New_Balance",
-    "merchantName": "New Balance (網店)",
+    "merchantName": "New Balance (网店)",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3569,7 +3569,7 @@
   },
   {
     "merchantId": "ASICS",
-    "merchantName": "ASICS (網店)",
+    "merchantName": "ASICS (网店)",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3577,7 +3577,7 @@
   },
   {
     "merchantId": "Reebok",
-    "merchantName": "Reebok (網店)",
+    "merchantName": "Reebok (网店)",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3585,7 +3585,7 @@
   },
   {
     "merchantId": "Queen_Mary_Hospital",
-    "merchantName": "瑪麗醫院",
+    "merchantName": "玛丽医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3593,7 +3593,7 @@
   },
   {
     "merchantId": "Queen_Elizabeth_Hospital",
-    "merchantName": "伊利沙伯醫院",
+    "merchantName": "伊利沙伯医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3601,7 +3601,7 @@
   },
   {
     "merchantId": "Prince_of_Wales_Hospital",
-    "merchantName": "威爾斯親王醫院",
+    "merchantName": "威尔斯亲王医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3609,7 +3609,7 @@
   },
   {
     "merchantId": "Kwong_Wah_Hospital",
-    "merchantName": "廣華醫院",
+    "merchantName": "广华医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3617,7 +3617,7 @@
   },
   {
     "merchantId": "Tuen_Mun_Hospital",
-    "merchantName": "屯門醫院",
+    "merchantName": "屯门医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3625,7 +3625,7 @@
   },
   {
     "merchantId": "Pamela_Youde_Nethersole_Eastern",
-    "merchantName": "東區尤德夫人那打素醫院",
+    "merchantName": "东区尤德夫人那打素医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3633,7 +3633,7 @@
   },
   {
     "merchantId": "United_Christian_Hospital",
-    "merchantName": "聯合醫院",
+    "merchantName": "联合医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3641,7 +3641,7 @@
   },
   {
     "merchantId": "Princess_Margaret_Hospital",
-    "merchantName": "瑪嘉烈醫院",
+    "merchantName": "玛嘉烈医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3649,7 +3649,7 @@
   },
   {
     "merchantId": "Tseung_Kwan_O_Hospital",
-    "merchantName": "將軍澳醫院",
+    "merchantName": "将军澳医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3657,7 +3657,7 @@
   },
   {
     "merchantId": "HK_Sanatorium_Hospital",
-    "merchantName": "養和醫院",
+    "merchantName": "养和医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3665,7 +3665,7 @@
   },
   {
     "merchantId": "Gleneagles_HK_Hospital",
-    "merchantName": "港怡醫院",
+    "merchantName": "港怡医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3673,7 +3673,7 @@
   },
   {
     "merchantId": "HK_Baptist_Hospital",
-    "merchantName": "浸信會醫院",
+    "merchantName": "浸信会医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3681,7 +3681,7 @@
   },
   {
     "merchantId": "St_Pauls_Hospital",
-    "merchantName": "聖保祿醫院",
+    "merchantName": "圣保禄医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3689,7 +3689,7 @@
   },
   {
     "merchantId": "St_Teresas_Hospital",
-    "merchantName": "聖德肋撒醫院",
+    "merchantName": "圣德肋撒医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3697,7 +3697,7 @@
   },
   {
     "merchantId": "Canossa_Hospital",
-    "merchantName": "嘉諾撒醫院",
+    "merchantName": "嘉诺撒医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3705,7 +3705,7 @@
   },
   {
     "merchantId": "Precious_Blood_Hospital",
-    "merchantName": "寶血醫院",
+    "merchantName": "宝血医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3713,7 +3713,7 @@
   },
   {
     "merchantId": "Union_Hospital",
-    "merchantName": "仁安醫院",
+    "merchantName": "仁安医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3721,7 +3721,7 @@
   },
   {
     "merchantId": "HK_Adventist_Hospital",
-    "merchantName": "港安醫院",
+    "merchantName": "港安医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3729,7 +3729,7 @@
   },
   {
     "merchantId": "CUHK_Medical_Centre",
-    "merchantName": "中大醫院",
+    "merchantName": "中大医院",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3737,7 +3737,7 @@
   },
   {
     "merchantId": "Mannings_Baby",
-    "merchantName": "萬寧Baby",
+    "merchantName": "万宁Baby",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3745,7 +3745,7 @@
   },
   {
     "merchantId": "Mannings_Plus",
-    "merchantName": "萬寧Plus",
+    "merchantName": "万宁Plus",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3761,7 +3761,7 @@
   },
   {
     "merchantId": "Taobao",
-    "merchantName": "淘寶",
+    "merchantName": "淘宝",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3793,7 +3793,7 @@
   },
   {
     "merchantId": "Broadway_Circuit",
-    "merchantName": "百老匯院線",
+    "merchantName": "百老汇院线",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3801,7 +3801,7 @@
   },
   {
     "merchantId": "Cinema_Art",
-    "merchantName": "影藝戲院",
+    "merchantName": "影艺戏院",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3809,7 +3809,7 @@
   },
   {
     "merchantId": "Cinema_City",
-    "merchantName": "Cinema City院線",
+    "merchantName": "Cinema City院线",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3825,7 +3825,7 @@
   },
   {
     "merchantId": "Pufei",
-    "merchantName": "撲飛",
+    "merchantName": "扑飞",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3841,7 +3841,7 @@
   },
   {
     "merchantId": "URBTIX",
-    "merchantName": "城市售票網",
+    "merchantName": "城市售票网",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3849,7 +3849,7 @@
   },
   {
     "merchantId": "HighSpeedRail_WKS",
-    "merchantName": "高速鐵路 (西九龍站)",
+    "merchantName": "高速铁路 (西九龙站)",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": "高鐵",
@@ -3905,7 +3905,7 @@
   },
   {
     "merchantId": "AMEX_Insurance",
-    "merchantName": "美國運通保險服務",
+    "merchantName": "美国运通保险服务",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3937,7 +3937,7 @@
   },
   {
     "merchantId": "LungFung",
-    "merchantName": "龍豐藥業",
+    "merchantName": "龙丰药业",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3977,7 +3977,7 @@
   },
   {
     "merchantId": "Uosho",
-    "merchantName": "魚尚",
+    "merchantName": "鱼尚",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3993,7 +3993,7 @@
   },
   {
     "merchantId": "Maxims_Cuiyuan",
-    "merchantName": "翠園",
+    "merchantName": "翠园",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4001,7 +4001,7 @@
   },
   {
     "merchantId": "Maxims_Palace",
-    "merchantName": "美心皇宮",
+    "merchantName": "美心皇宫",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4017,7 +4017,7 @@
   },
   {
     "merchantId": "Maxims_Cuiyuxuan",
-    "merchantName": "翠玉軒",
+    "merchantName": "翠玉轩",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4025,7 +4025,7 @@
   },
   {
     "merchantId": "Maxims_Ziyulan",
-    "merchantName": "紫玉蘭",
+    "merchantName": "紫玉兰",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4049,7 +4049,7 @@
   },
   {
     "merchantId": "Maxims_Beijinglou",
-    "merchantName": "北京樓",
+    "merchantName": "北京楼",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4057,7 +4057,7 @@
   },
   {
     "merchantId": "Maxims_ChengzhongYazi",
-    "merchantName": "城中鴨子",
+    "merchantName": "城中鸭子",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4065,7 +4065,7 @@
   },
   {
     "merchantId": "Maxims_MeizhongYazi",
-    "merchantName": "美中鴨子",
+    "merchantName": "美中鸭子",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4089,7 +4089,7 @@
   },
   {
     "merchantId": "Maxims_ELuGong",
-    "merchantName": "鵝鹵宮",
+    "merchantName": "鹅卤宫",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4185,7 +4185,7 @@
   },
   {
     "merchantId": "Maxims_Pudian",
-    "merchantName": "葡點",
+    "merchantName": "葡点",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4241,7 +4241,7 @@
   },
   {
     "merchantId": "Maxims_Bakery",
-    "merchantName": "美心麵包西餅店",
+    "merchantName": "美心面包西饼店",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4265,7 +4265,7 @@
   },
   {
     "merchantId": "Cafe_de_Coral",
-    "merchantName": "大家樂",
+    "merchantName": "大家乐",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4281,7 +4281,7 @@
   },
   {
     "merchantId": "Medtimes",
-    "merchantName": "時代醫療",
+    "merchantName": "时代医疗",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4289,7 +4289,7 @@
   },
   {
     "merchantId": "Quan_Yan_Medical",
-    "merchantName": "全仁醫務中心",
+    "merchantName": "全仁医务中心",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4297,7 +4297,7 @@
   },
   {
     "merchantId": "HKIMQAA",
-    "merchantName": "香港國際專業體檢協會",
+    "merchantName": "香港国际专业体检协会",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4313,7 +4313,7 @@
   },
   {
     "merchantId": "City_Chain",
-    "merchantName": "時間廊",
+    "merchantName": "时间廊",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4329,7 +4329,7 @@
   },
   {
     "merchantId": "Nam_Kee",
-    "merchantName": "南記粉麵",
+    "merchantName": "南记粉面",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4353,7 +4353,7 @@
   },
   {
     "merchantId": "TokyoLifestyle",
-    "merchantName": "東京生活館",
+    "merchantName": "东京生活馆",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4401,7 +4401,7 @@
   },
   {
     "merchantId": "EGL",
-    "merchantName": "東瀛遊",
+    "merchantName": "东瀛游",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4417,7 +4417,7 @@
   },
   {
     "merchantId": "Morning_Star",
-    "merchantName": "晨星旅遊",
+    "merchantName": "晨星旅游",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4449,7 +4449,7 @@
   },
   {
     "merchantId": "ChinaMobile_HK",
-    "merchantName": "中國移動香港",
+    "merchantName": "中国移动香港",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4481,7 +4481,7 @@
   },
   {
     "merchantId": "Hyatt_Regency_Hong_Kong_Sha_Tin",
-    "merchantName": "香港沙田凱悅酒店",
+    "merchantName": "香港沙田凯悦酒店",
     "merchantCategory1": "Hotel",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4521,7 +4521,7 @@
   },
   {
     "merchantId": "Quality_HealthCare",
-    "merchantName": "卓健醫療中心",
+    "merchantName": "卓健医疗中心",
     "merchantCategory1": "Medical",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -4529,7 +4529,7 @@
   },
   {
     "merchantId": "Saloon_KowloonTong",
-    "merchantName": "Saloon (九龍塘)",
+    "merchantName": "Saloon (九龙塘)",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
