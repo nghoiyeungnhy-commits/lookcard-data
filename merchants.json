@@ -546,7 +546,7 @@
   {
     "merchantId": "Snap_Fitness",
     "merchantName": "Snap Fitness",
-    "merchantCategory1": "Fitness",
+    "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
     "merchantCbfFlag": false
