@@ -265,7 +265,7 @@
   },
   {
     "merchantId": "Starbucks_Coffee",
-    "merchantName": "Starbucks (网店)",
+    "merchantName": "Starbucks",
     "merchantCategory1": "Dining",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -409,7 +409,7 @@
   },
   {
     "merchantId": "CTSHK",
-    "merchantName": "中国旅行社 (网店)",
+    "merchantName": "中国旅行社",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -457,7 +457,7 @@
   },
   {
     "merchantId": "Cotai_Water_Jet",
-    "merchantName": "金光飞航 (网店)",
+    "merchantName": "金光飞航",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -481,7 +481,7 @@
   },
   {
     "merchantId": "TurboJET",
-    "merchantName": "喷射飞航 (网店)",
+    "merchantName": "喷射飞航",
     "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -546,7 +546,7 @@
   {
     "merchantId": "Snap_Fitness",
     "merchantName": "Snap Fitness",
-    "merchantCategory1": "Fitness",
+    "merchantCategory1": null,
     "merchantCategory2": null,
     "merchantTag1": null,
     "merchantCbfFlag": false
@@ -3529,7 +3529,7 @@
   },
   {
     "merchantId": "Adidas",
-    "merchantName": "Adidas (网店)",
+    "merchantName": "Adidas",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3537,7 +3537,7 @@
   },
   {
     "merchantId": "Nike",
-    "merchantName": "Nike (网店)",
+    "merchantName": "Nike",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3545,7 +3545,7 @@
   },
   {
     "merchantId": "Puma",
-    "merchantName": "Puma (网店)",
+    "merchantName": "Puma",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3553,7 +3553,7 @@
   },
   {
     "merchantId": "Under_Armour",
-    "merchantName": "Under Armour (网店)",
+    "merchantName": "Under Armour",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3561,7 +3561,7 @@
   },
   {
     "merchantId": "New_Balance",
-    "merchantName": "New Balance (网店)",
+    "merchantName": "New Balance",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3569,7 +3569,7 @@
   },
   {
     "merchantId": "ASICS",
-    "merchantName": "ASICS (网店)",
+    "merchantName": "ASICS",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,
@@ -3577,7 +3577,7 @@
   },
   {
     "merchantId": "Reebok",
-    "merchantName": "Reebok (网店)",
+    "merchantName": "Reebok",
     "merchantCategory1": "Sports",
     "merchantCategory2": null,
     "merchantTag1": null,

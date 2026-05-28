@@ -71,7 +71,7 @@
     "cardMilesBase": 0.16666667,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致电 2277 1010，按 信用卡15位号码＞0＞客户服务",
-    "cardAnnualFeeWaiveCondition": 150000.0,
+    "cardAnnualFeeWaiveCondition": "全年签满HK$150,000 可豁免",
     "cardMinAppVersion": "1.0.1",
     "cardMasterFlag": true
   },
@@ -90,7 +90,7 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致电 2277 1010，按 信用卡15位号码＞0＞客户服务",
-    "cardAnnualFeeWaiveCondition": 25000.0,
+    "cardAnnualFeeWaiveCondition": "全年签满HK$25,000 可豁免",
     "cardMinAppVersion": "1.0.1",
     "cardMasterFlag": true
   },
@@ -375,7 +375,7 @@
     "cardMilesBase": 0.125,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "需于 Citi ebanking 内透过电邮申请",
-    "cardAnnualFeeWaiveCondition": 100000.0,
+    "cardAnnualFeeWaiveCondition": "全年签满HK$100,000 可豁免",
     "cardMinAppVersion": "1.0.1",
     "cardMasterFlag": false
   },
@@ -641,7 +641,7 @@
     "cardMilesBase": 0.2,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致电 2233 3000，按 1＞信用卡16位号码＞语音提示",
-    "cardAnnualFeeWaiveCondition": 80000.0,
+    "cardAnnualFeeWaiveCondition": "全年签满HK$80,000 可豁免",
     "cardMinAppVersion": "1.0.1",
     "cardMasterFlag": true
   },
