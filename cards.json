@@ -681,7 +681,7 @@
     "cardAnnualFee": 0.0,
     "cardCap": 999999.0,
     "cardCashBase": 0.005,
-    "cardPointsCashBase": 1.0,
+    "cardPointsCashBase": 200.0,
     "cardPointsBase": 1.0,
     "cardPointsMilesBase": 0.0,
     "cardPointsUnit": "YUU積分",
