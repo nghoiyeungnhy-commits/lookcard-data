@@ -144,7 +144,7 @@
     "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1",
     "cardAnnualFeeWaiveCondition": "擁有東亞銀行戶口",
     "cardMinAppVersion": "1.0.2",
-    "cardMasterFlag": false
+    "cardMasterFlag": true
   },
   {
     "cardId": "BEA_GOAL Card",
@@ -187,6 +187,27 @@
     "cardAnnualFeeWaiveCondition": "擁有東亞銀行戶口",
     "cardMinAppVersion": "1.0.2",
     "cardMasterFlag": false
+  },
+  {
+    "cardId": "BEA_i-Titanium",
+    "cardBank": "東亞 BEA",
+    "cardName": "i-Titanium",
+    "cardNetwork": "Mastercard",
+    "cardCbf": 0.01,
+    "cardDcc": 0.0195,
+    "cardAnnualFee": 600.0,
+    "cardCap": 999999.0,
+    "cardCashBase": 0.004,
+    "cardPointsCashBase": 1.0,
+    "cardPointsBase": 1.0,
+    "cardPointsMilesBase": 0.0,
+    "cardPointsUnit": "i-Dollar",
+    "cardMilesBase": 0.0,
+    "cardAnnualFeeWaivable": "CONDITIONAL",
+    "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1",
+    "cardAnnualFeeWaiveCondition": "擁有東亞銀行戶口",
+    "cardMinAppVersion": "1.0.2",
+    "cardMasterFlag": true
   },
   {
     "cardId": "BOC_Cheers Visa Infinite",
@@ -989,7 +1010,7 @@
   {
     "cardId": "Sim_Sim",
     "cardBank": "Sim",
-    "cardName": "Sim",
+    "cardName": "Sim Card",
     "cardNetwork": "Mastercard",
     "cardCbf": 0.01,
     "cardDcc": 0.0195,
@@ -1010,7 +1031,7 @@
   {
     "cardId": "CCB_Eye",
     "cardBank": "建設銀行 CCB",
-    "cardName": "eye",
+    "cardName": "Eye Card",
     "cardNetwork": "Visa",
     "cardCbf": 0.01,
     "cardDcc": 0.0195,
@@ -1031,7 +1052,7 @@
   {
     "cardId": "CCB_TRAVO",
     "cardBank": "建設銀行 CCB",
-    "cardName": "建行(亞洲) TRAVO Mastercard",
+    "cardName": "TRAVO Mastercard",
     "cardNetwork": "Mastercard",
     "cardCbf": 0.01,
     "cardDcc": 0.0195,
@@ -1052,7 +1073,7 @@
   {
     "cardId": "CCB_TRAVO_World",
     "cardBank": "建設銀行 CCB",
-    "cardName": "建行(亞洲) TRAVO World Mastercard",
+    "cardName": "TRAVO World Mastercard",
     "cardNetwork": "Mastercard",
     "cardCbf": 0.01,
     "cardDcc": 0.0195,
@@ -1110,27 +1131,6 @@
     "cardAnnualFeeWaiveMethod": "致電 2566 8181，選擇語言 ＞1＞4",
     "cardAnnualFeeWaiveCondition": "12個月內2次或以上未準時繳最低還款額則不可豁免",
     "cardMinAppVersion": "1.0.1",
-    "cardMasterFlag": true
-  },
-  {
-    "cardId": "BEA_i-Titanium",
-    "cardBank": "東亞 BEA",
-    "cardName": "i-Titanium",
-    "cardNetwork": "Mastercard",
-    "cardCbf": 0.01,
-    "cardDcc": 0.0195,
-    "cardAnnualFee": 600.0,
-    "cardCap": 999999.0,
-    "cardCashBase": 0.004,
-    "cardPointsCashBase": 1.0,
-    "cardPointsBase": 1.0,
-    "cardPointsMilesBase": 0.0,
-    "cardPointsUnit": "i-Dollar",
-    "cardMilesBase": 0.0,
-    "cardAnnualFeeWaivable": "CONDITIONAL",
-    "cardAnnualFeeWaiveMethod": "致電 3608 6628，按 3＞信用卡16位號碼＞3＞1",
-    "cardAnnualFeeWaiveCondition": "擁有東亞銀行戶口",
-    "cardMinAppVersion": "1.0.2",
     "cardMasterFlag": true
   }
 ]
