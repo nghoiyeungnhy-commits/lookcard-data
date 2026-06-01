@@ -648,7 +648,7 @@
     "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1",
     "cardAnnualFeeWaiveCondition": null,
     "cardMinAppVersion": "1.0.1",
-    "cardMasterFlag": false
+    "cardMasterFlag": true
   },
   {
     "cardId": "Hang Seng_Travel+ Visa Signature",
