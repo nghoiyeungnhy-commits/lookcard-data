@@ -1,6 +1,21 @@
 {
   "issues": [
     {
+      "id": "version_1_0_4_upcoming",
+      "title": "1.0.4 版本即將推出",
+      "content": "正在開發 1.0.4 版本，內容包括：新增 DBS Live Fresh 信用卡、 HSBC Travel Guru 推廣優惠、更新部分信用卡圖片及修正已知問題。歡迎透過 App 內意見回饋或我們的 Threads 帳號提供寶貴意見！"
+    },
+    {
+      "id": "hangseng_travel_plus_cap_fix_2026_06",
+      "title": "恆生 Travel+ 優惠簽賬上限 已修正",
+      "content": "恆生 Travel+ 旅行外地及本地餐飲回贈 簽賬上限 已修正。"
+    },
+    {
+      "id": "self_select_campaign_detail_display_bug",
+      "title": "自選類別推廣優惠 詳情顯示問題",
+      "content": "目前自選類別的 campaign（例如 HSBC最紅自主獎賞，安信WEWA自選類別）在顯示推廣詳情時，會列出該推廣全部類別的內容，而非僅顯示用戶已選取的類別。回贈計算並不受影響，仍然只會計算用戶自選類別，僅影響推廣詳情顯示。"
+    },
+    {
       "id": "snap_fitness_2026_05",
       "title": "Snap Fitness 不計入 健身中心 類別",
       "content": "用戶回報於Snap Fitness 的簽賬並不屬於健身中心類別，無法獲得相關回贈，因此目前 Snap Fitness 的健身類別已被暫時移除。"
