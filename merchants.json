@@ -4566,5 +4566,421 @@
     "merchantCategory2": null,
     "merchantTag1": null,
     "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "American_Adventure",
+    "merchantName": "美國冒險樂園",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hong_Kong_Disneyland",
+    "merchantName": "香港迪士尼樂園",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Hong_Kong_Ocean_Park",
+    "merchantName": "香港海洋公園",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Adobe",
+    "merchantName": "Adobe",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Amazon_Prime_Video",
+    "merchantName": "Amazon Prime Video",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Canva",
+    "merchantName": "Canva",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "ChatGPT",
+    "merchantName": "ChatGPT",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Copy_ai",
+    "merchantName": "Copy.ai",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "DeepSeek",
+    "merchantName": "DeepSeek",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "ElevenLabs",
+    "merchantName": "ElevenLabs",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Grammarly",
+    "merchantName": "Grammarly",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Grok",
+    "merchantName": "Grok",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "HULU",
+    "merchantName": "HULU",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Jasper",
+    "merchantName": "Jasper",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "KIMI",
+    "merchantName": "KIMI",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "MANUS",
+    "merchantName": "MANUS",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Microsoft",
+    "merchantName": "Microsoft",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Midjourney",
+    "merchantName": "Midjourney",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Notion_AI",
+    "merchantName": "Notion AI",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Otter_ai",
+    "merchantName": "Otter.ai",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Paramount_Plus",
+    "merchantName": "Paramount+",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Perplexity",
+    "merchantName": "Perplexity",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Poe",
+    "merchantName": "Poe",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Shopify",
+    "merchantName": "Shopify",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Shopline",
+    "merchantName": "Shopline",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Soundraw",
+    "merchantName": "Soundraw",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Synthesia",
+    "merchantName": "Synthesia",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Uber_One",
+    "merchantName": "Uber One",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "ViuTV",
+    "merchantName": "ViuTV",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Writesonic",
+    "merchantName": "Writesonic",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "YOUKU",
+    "merchantName": "YOUKU",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Zoom_AI_Companion",
+    "merchantName": "Zoom AI Companion",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "ASOS",
+    "merchantName": "ASOS",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "HM",
+    "merchantName": "H&M",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "IT",
+    "merchantName": "I.T",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "ZARA",
+    "merchantName": "ZARA",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SEPHORA",
+    "merchantName": "SEPHORA",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Rakuten_Japan",
+    "merchantName": "日本樂天",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "Gmarket",
+    "merchantName": "Gmarket",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": true
+  },
+  {
+    "merchantId": "GreenWalker",
+    "merchantName": "綠行俠",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CakeTime",
+    "merchantName": "榚點時光",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SavourFair",
+    "merchantName": "細味公平",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "YouCook",
+    "merchantName": "妳想煮意",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Furry_Green",
+    "merchantName": "Furry Green",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "YuenSinTim",
+    "merchantName": "軟善點",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "CloudFarming",
+    "merchantName": "雲耕一族",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "WalkWith",
+    "merchantName": "愛同行",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Orbis_HK",
+    "merchantName": "奧比斯",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "World_Vision_HK",
+    "merchantName": "世界宣明會",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "UNICEF_HK",
+    "merchantName": "聯合國兒童基金會",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "Save_The_Children_HK",
+    "merchantName": "香港救助兒童會",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
+  },
+  {
+    "merchantId": "SPCA_HK",
+    "merchantName": "愛護動物協會",
+    "merchantCategory1": null,
+    "merchantCategory2": null,
+    "merchantTag1": null,
+    "merchantCbfFlag": false
   }
 ]

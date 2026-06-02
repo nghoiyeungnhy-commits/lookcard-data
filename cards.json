@@ -79,7 +79,7 @@
     "cardMilesBase": 0.16666667,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致電 2277 1010，按 信用卡15位號碼＞0＞客戶服務",
-    "cardAnnualFeeWaiveCondition": 150000.0,
+    "cardAnnualFeeWaiveCondition": 150000,
     "cardMinAppVersion": "1.0.1",
     "cardMasterFlag": true
   },
@@ -100,7 +100,7 @@
     "cardMilesBase": 0.0,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致電 2277 1010，按 信用卡15位號碼＞0＞客戶服務",
-    "cardAnnualFeeWaiveCondition": 25000.0,
+    "cardAnnualFeeWaiveCondition": 25000,
     "cardMinAppVersion": "1.0.1",
     "cardMasterFlag": true
   },
@@ -436,7 +436,7 @@
     "cardMilesBase": 0.125,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "需於 Citi ebanking 內透過電郵申請",
-    "cardAnnualFeeWaiveCondition": 100000.0,
+    "cardAnnualFeeWaiveCondition": 100000,
     "cardMinAppVersion": "1.0.1",
     "cardMasterFlag": false
   },
@@ -647,7 +647,7 @@
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致電 2290 8877，按 1＞1＞信用卡16位號碼＞SMS收OTP＞1",
     "cardAnnualFeeWaiveCondition": null,
-    "cardMinAppVersion": "1.0.1",
+    "cardMinAppVersion": "1.0.4",
     "cardMasterFlag": true
   },
   {
@@ -730,7 +730,7 @@
     "cardMilesBase": 0.2,
     "cardAnnualFeeWaivable": "CONDITIONAL",
     "cardAnnualFeeWaiveMethod": "致電 2233 3000，按 1＞信用卡16位號碼＞語音提示",
-    "cardAnnualFeeWaiveCondition": 80000.0,
+    "cardAnnualFeeWaiveCondition": 80000,
     "cardMinAppVersion": "1.0.1",
     "cardMasterFlag": true
   },
