@@ -306,9 +306,9 @@
     "campaignMOX": false,
     "campaignWewaOption": null,
     "campaignLiveFreshOption": null,
-    "campaignRegistration": true,
-    "campaignRegistrationMethod": "APP",
-    "campaignRegistrationDetails": "Reward+",
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
     "campaignRemarks": null
   },
   {
@@ -345,9 +345,9 @@
     "campaignMOX": false,
     "campaignWewaOption": null,
     "campaignLiveFreshOption": null,
-    "campaignRegistration": true,
-    "campaignRegistrationMethod": "APP",
-    "campaignRegistrationDetails": "Reward+",
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
     "campaignRemarks": null
   },
   {
@@ -384,9 +384,9 @@
     "campaignMOX": false,
     "campaignWewaOption": null,
     "campaignLiveFreshOption": null,
-    "campaignRegistration": true,
-    "campaignRegistrationMethod": "APP",
-    "campaignRegistrationDetails": "Reward+",
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
     "campaignRemarks": null
   },
   {
@@ -423,9 +423,9 @@
     "campaignMOX": false,
     "campaignWewaOption": null,
     "campaignLiveFreshOption": null,
-    "campaignRegistration": true,
-    "campaignRegistrationMethod": "APP",
-    "campaignRegistrationDetails": "Reward+",
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
     "campaignRemarks": null
   },
   {
@@ -462,9 +462,9 @@
     "campaignMOX": false,
     "campaignWewaOption": null,
     "campaignLiveFreshOption": null,
-    "campaignRegistration": true,
-    "campaignRegistrationMethod": "APP",
-    "campaignRegistrationDetails": "Reward+",
+    "campaignRegistration": false,
+    "campaignRegistrationMethod": null,
+    "campaignRegistrationDetails": null,
     "campaignRemarks": null
   },
   {
