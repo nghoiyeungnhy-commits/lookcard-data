@@ -3,7 +3,12 @@
     {
       "id": "version_1_0_4_upcoming",
       "title": "1.0.4 版本即將推出",
-      "content": "正在開發 1.0.4 版本，內容包括：新增 DBS Live Fresh 信用卡、 HSBC Travel Guru 推廣優惠、更新部分信用卡圖片及修正已知問題。歡迎透過 App 內意見回饋或我們的 Threads 帳號提供寶貴意見！"
+      "content": "正在開發 1.0.4 版本，內容包括：新增 DBS Live Fresh 信用卡、 HSBC Travel Guru 推廣優惠、更新部分信用卡圖片、提醒用戶為自選類別推廣優惠揀選類別，及修正已知問題。歡迎透過 App 內意見回饋或我們的 Threads 帳號提供寶貴意見！"
+    },
+    {
+      "id": "hsbc_visa_signature_vs_split_fix_2026_06",
+      "title": "HSBC Visa Signature 最紅自主賞 已修正",
+      "content": "HSBC Visa Signature 的最紅自主獎賞已拆分為 額外1.2%最紅自主賞 及 基本2.4%自選類別兩部分。請用戶前往「我的信用卡」頁面手動揀選所屬的最紅自主賞類別，方可正確獲得 2.4%自選類別回贈。將於 1.0.4 版本加入提示功能，提醒用戶揀選自選類別。"
     },
     {
       "id": "hangseng_travel_plus_cap_fix_2026_06",
