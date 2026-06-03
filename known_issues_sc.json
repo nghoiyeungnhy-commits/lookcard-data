@@ -1,9 +1,15 @@
+```json
 {
   "issues": [
     {
       "id": "version_1_0_4_upcoming",
       "title": "1.0.4 版本即将推出",
-      "content": "正在开发 1.0.4 版本，内容包括：新增 DBS Live Fresh 信用卡、 HSBC Travel Guru 推广优惠、更新部分信用卡图片及修正已知问题。欢迎透过 App 内意见回馈或我们的 Threads 帐号提供宝贵意见！"
+      "content": "正在开发 1.0.4 版本，内容包括：新增 DBS Live Fresh 信用卡、HSBC Travel Guru 推广优惠、更新部分信用卡图片、提醒用户为自选类别推广优惠拣选类别，及修正已知问题。欢迎透过 App 内意见反馈或我们的 Threads 账号提供宝贵意见！"
+    },
+    {
+      "id": "hsbc_visa_signature_vs_split_fix_2026_06",
+      "title": "HSBC Visa Signature 最红自主赏 已修正",
+      "content": "HSBC Visa Signature 的最红自主奖赏已拆分为 额外1.2%最红自主赏 及 基本2.4%自选类别两部分。请用户前往「我的信用卡」页面手动拣选所属的最红自主赏类别，方可正确获得 2.4%自选类别回赠。将于 1.0.4 版本加入提示功能，提醒用户拣选自选类别。"
     },
     {
       "id": "hangseng_travel_plus_cap_fix_2026_06",
@@ -12,8 +18,8 @@
     },
     {
       "id": "self_select_campaign_detail_display_bug",
-      "title": "自选类别推广优惠 详情显示问题",
-      "content": "目前自选类别的 campaign（例如 HSBC最红自主奖赏，安信WEWA自选类别）在显示推广详情时，会列出该推广全部类别的内容，而非仅显示用户已选取的类别。回赠计算并不受影响，仍然只会计算用户自选类别，仅影响推广详情显示。"
+      "title": "自选类别推广优惠 显示问题",
+      "content": "目前自选类别的 推广优惠（例如 HSBC最红自主奖赏，安信WEWA自选类别）在显示推广详情时，会列出该推广全部类别的内容，而非仅显示用户已选取的类别，以及推广优惠的名称并非用户所选的类别。回赠计算并不受影响，仍然只会计算用户自选类别，仅影响推广详情显示。"
     },
     {
       "id": "snap_fitness_2026_05",
@@ -22,3 +28,4 @@
     }
   ]
 }
+```
