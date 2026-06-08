@@ -1,9 +1,19 @@
 {
   "issues": [
     {
+      "id": "version_1_0_4_launched",
+      "title": "1.0.4 版本已經推出",
+      "content": "新增 DBS Live Fresh 卡、HSBC Travel Guru 優惠、更新部分信用卡圖片、自選類別揀選提示、修正已知問題。"
+    },
+    {
+      "id": "version_1_0_5_upcoming",
+      "title": "1.0.5 版本即將推出",
+      "content": "即將新增：Citi Premier Miles，恆生 Debit Card，里數兌換資料，機場 lounge 資料。"
+    },
+    {
       "id": "snap_fitness_2026_05",
-      "title": "Snap Fitness 不計入 健身中心 類別_UAT",
-      "content": "用戶回報於Snap Fitness 的簽賬並不屬於健身中心類別，無法獲得相關回贈，因此目前 Snap Fitness 的健身類別已被暫時移除。"
+      "title": "Snap Fitness 不計入 健身中心 類別",
+      "content": "用戶回報於 Snap Fitness 的簽賬並不屬於健身中心類別，無法獲得相關回贈，因此目前 Snap Fitness 的健身類別已被暫時移除。"
     }
   ]
 }
