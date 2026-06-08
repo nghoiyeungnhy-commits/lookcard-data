@@ -790,7 +790,7 @@
     "cardPointsBase": 1.0,
     "cardPointsMilesBase": 0.1,
     "cardPointsUnit": "奖赏钱",
-    "cardMilesBase": 0.0,
+    "cardMilesBase": 0.04,
     "cardAnnualFeeWaivable": "True",
     "cardAnnualFeeWaiveMethod": "致电 2233 3000，按 1＞信用卡16位号码＞语音提示",
     "cardAnnualFeeWaiveCondition": null,
